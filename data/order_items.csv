@@ -1,0 +1,1784 @@
+order_id,line_no,sku,title,return_category,qty,unit_price_inr
+69520867,1,HOM-0044,"Mixwell 750W Mixer Grinder, Green",home_kitchen,1,3039
+69520867,2,HOM-0042,"Tavaa Non-stick Frying Pan 26 cm, Black",home_kitchen,1,739
+54239550,1,FSH-0034,"Kaafi Running Sneakers, Beige",fashion,1,3959
+54239550,2,FSH-0029,"UrbanThread Slim Fit Jeans, Blue",fashion,1,1319
+59591825,1,GRO-0061,FarmFolk California Almonds 500 g,grocery,1,629
+59591825,2,GRO-0059,FarmFolk Basmati Rice 5 kg,grocery,3,629
+46637226,1,ELE-0004,"Nimbus X2 Lite Wireless Earbuds, Beige",electronics,1,1169
+23048475,1,FSH-0037,"Sootra Canvas Tote Bag, Black",fashion,1,729
+69620373,1,GRO-0063,FarmFolk Cold-pressed Groundnut Oil 1 L,grocery,2,259
+69620373,2,GRO-0060,FarmFolk Mango Pickle 500 g,grocery,1,159
+69620373,3,GRO-0062,FarmFolk Fresh Vegetable Box,grocery,1,329
+35061733,1,ELE-0025,"Orbix USB-C Cable 1.5 m, Maroon",electronics,1,349
+35061733,2,ELE-0005,"Nimbus X2 Lite Wireless Earbuds, Grey",electronics,1,1229
+35061733,3,ELE-0020,"Zentro Vista 43-inch 4K Smart TV, Beige",electronics,1,31809
+82748455,1,HOM-0044,"Mixwell 750W Mixer Grinder, Green",home_kitchen,1,3039
+40819355,1,ELE-0018,"Zentro Boom Mini Bluetooth Speaker, Grey",electronics,1,1709
+26127955,1,ELE-0018,"Zentro Boom Mini Bluetooth Speaker, Grey",electronics,1,1709
+33540643,1,GRO-0061,FarmFolk California Almonds 500 g,grocery,3,629
+33540643,2,GRO-0059,FarmFolk Basmati Rice 5 kg,grocery,2,629
+33540643,3,GRO-0059,FarmFolk Basmati Rice 5 kg,grocery,3,629
+76649694,1,ELE-0017,"Orbix Fit 3 Pro Smartwatch, Blue",electronics,1,7219
+16213504,1,HOM-0050,"Aangan Engineered Wood Study Table, Grey",home_kitchen,1,9239
+58198855,1,ELE-0025,"Orbix USB-C Cable 1.5 m, Maroon",electronics,1,349
+58198855,2,INR-0065,"Comfi Cotton Briefs (Pack of 3), Beige",innerwear,1,529
+98792578,1,GRO-0060,FarmFolk Mango Pickle 500 g,grocery,2,159
+30771934,1,BKS-0057,Pagecraft Novel: The Monsoon Ledger,books_media,1,349
+30771934,2,BKS-0058,Pagecraft Guide: Learn Python in 30 Days,books_media,1,789
+75200505,1,ELE-0009,"Voltra PowerCell 10000 mAh Power Bank, Beige",electronics,1,1009
+41699096,1,FSH-0036,"Sootra Linen Shirt, Maroon",fashion,1,1019
+41699096,2,FSH-0038,"Sootra Canvas Tote Bag, Green",fashion,1,979
+41699096,3,FSH-0028,"Rangoli Silk Blend Saree, Green",fashion,1,4239
+72630112,1,ELE-0014,"Kestrel K7 Smartphone 256 GB, Beige",electronics,1,21919
+34157492,1,INR-0064,"Comfi Cotton Briefs (Pack of 3), Blue",innerwear,1,409
+34157492,2,ELE-0006,"Voltra PowerCell 20000 mAh Power Bank, Maroon",electronics,1,1679
+34157492,3,FSH-0039,"Sootra Leather Backpack, Grey",fashion,1,3559
+34850515,1,ELE-0024,"Orbix USB-C Cable 1.5 m, Grey",electronics,1,319
+34850515,2,FSH-0036,"Sootra Linen Shirt, Maroon",fashion,1,1019
+34850515,3,ELE-0011,"Kestrel K7 Smartphone 128 GB, White",electronics,1,17139
+58161143,1,FSH-0027,"Rangoli Silk Blend Saree, Grey",fashion,1,2809
+58161143,2,ELE-0018,"Zentro Boom Mini Bluetooth Speaker, Grey",electronics,1,1709
+36347752,1,ELE-0003,"Nimbus X2 Pro Wireless Earbuds, Blue",electronics,1,4229
+86167676,1,HOM-0040,"Tavaa 3-Litre Pressure Cooker, White",home_kitchen,1,1439
+42098700,1,FSH-0027,"Rangoli Silk Blend Saree, Grey",fashion,1,2809
+42098700,2,FSH-0026,"Rangoli Cotton Straight Kurta, White",fashion,1,699
+42098700,3,FSH-0031,"UrbanThread Oversized Hoodie, White",fashion,1,1509
+26967981,1,FSH-0032,"UrbanThread Oversized Hoodie, Green",fashion,1,1579
+30644092,1,GRO-0063,FarmFolk Cold-pressed Groundnut Oil 1 L,grocery,3,259
+30644092,2,GRO-0063,FarmFolk Cold-pressed Groundnut Oil 1 L,grocery,1,259
+30644092,3,GRO-0062,FarmFolk Fresh Vegetable Box,grocery,3,329
+93075796,1,ELE-0012,"Kestrel K7 Smartphone 128 GB, Beige",electronics,1,17549
+20457473,1,ELE-0004,"Nimbus X2 Lite Wireless Earbuds, Beige",electronics,1,1169
+17345505,1,FSH-0039,"Sootra Leather Backpack, Grey",fashion,1,3559
+17345505,2,FSH-0031,"UrbanThread Oversized Hoodie, White",fashion,1,1509
+98836032,1,ELE-0007,"Voltra PowerCell 20000 mAh Power Bank, Beige",electronics,1,1709
+98836032,2,FSH-0034,"Kaafi Running Sneakers, Beige",fashion,1,3959
+86035743,1,HOM-0048,"Aangan 3-Seater Fabric Sofa, Black",home_kitchen,1,25809
+11925784,1,FSH-0037,"Sootra Canvas Tote Bag, Black",fashion,1,729
+45650180,1,BTY-0054,Neelam Herbal Face Wash 150 ml,beauty_sealed,1,239
+45650180,2,BTY-0055,Neelam Eau de Parfum 50 ml,beauty_sealed,1,2099
+45650180,3,BTY-0052,Gulmohar Matte Lipstick,beauty_sealed,1,559
+13766338,1,GRO-0059,FarmFolk Basmati Rice 5 kg,grocery,3,629
+13766338,2,GRO-0059,FarmFolk Basmati Rice 5 kg,grocery,1,629
+65710827,1,FSH-0038,"Sootra Canvas Tote Bag, Green",fashion,1,979
+65710827,2,FSH-0039,"Sootra Leather Backpack, Grey",fashion,1,3559
+65710827,3,FSH-0034,"Kaafi Running Sneakers, Beige",fashion,1,3959
+12698427,1,HOM-0040,"Tavaa 3-Litre Pressure Cooker, White",home_kitchen,1,1439
+12698427,2,HOM-0042,"Tavaa Non-stick Frying Pan 26 cm, Black",home_kitchen,1,739
+12698427,3,HOM-0043,"Mixwell 750W Mixer Grinder, Maroon",home_kitchen,1,4309
+53161133,1,FSH-0033,"Kaafi Running Sneakers, White",fashion,1,2799
+53161133,2,INR-0065,"Comfi Cotton Briefs (Pack of 3), Beige",innerwear,1,529
+39141531,1,GRO-0060,FarmFolk Mango Pickle 500 g,grocery,3,159
+39141531,2,GRO-0063,FarmFolk Cold-pressed Groundnut Oil 1 L,grocery,3,259
+39141531,3,GRO-0060,FarmFolk Mango Pickle 500 g,grocery,2,159
+70833950,1,ELE-0005,"Nimbus X2 Lite Wireless Earbuds, Grey",electronics,1,1229
+57684333,1,ELE-0005,"Nimbus X2 Lite Wireless Earbuds, Grey",electronics,1,1229
+69196232,1,FSH-0037,"Sootra Canvas Tote Bag, Black",fashion,1,729
+41587029,1,FSH-0031,"UrbanThread Oversized Hoodie, White",fashion,1,1509
+39691778,1,FSH-0034,"Kaafi Running Sneakers, Beige",fashion,1,3959
+80035521,1,ELE-0005,"Nimbus X2 Lite Wireless Earbuds, Grey",electronics,1,1229
+67219894,1,HOM-0050,"Aangan Engineered Wood Study Table, Grey",home_kitchen,1,9239
+67537066,1,GRO-0061,FarmFolk California Almonds 500 g,grocery,2,629
+67537066,2,GRO-0060,FarmFolk Mango Pickle 500 g,grocery,1,159
+67537066,3,GRO-0059,FarmFolk Basmati Rice 5 kg,grocery,2,629
+16543095,1,FSH-0039,"Sootra Leather Backpack, Grey",fashion,1,3559
+16543095,2,FSH-0030,"UrbanThread Slim Fit Jeans, Maroon",fashion,1,1959
+26154209,1,ELE-0015,"Kestrel K5 Smartphone 64 GB, Maroon",electronics,1,9629
+74682133,1,ELE-0019,"Zentro Boom Max Bluetooth Speaker, Grey",electronics,1,5019
+74682133,2,HOM-0046,"Aangan Cotton Double Bedsheet Set, Maroon",home_kitchen,1,1439
+74682133,3,BTY-0055,Neelam Eau de Parfum 50 ml,beauty_sealed,1,2099
+14891858,1,ELE-0001,"Nimbus X2 Wireless Earbuds, Beige",electronics,1,2199
+50118621,1,FSH-0032,"UrbanThread Oversized Hoodie, Green",fashion,1,1579
+50118621,2,FSH-0030,"UrbanThread Slim Fit Jeans, Maroon",fashion,1,1959
+66737215,1,HOM-0041,"Tavaa 3-Litre Pressure Cooker, Grey",home_kitchen,1,1609
+69633343,1,ELE-0004,"Nimbus X2 Lite Wireless Earbuds, Beige",electronics,1,1169
+71051849,1,HOM-0041,"Tavaa 3-Litre Pressure Cooker, Grey",home_kitchen,1,1609
+71051849,2,HOM-0049,"Aangan Engineered Wood Study Table, Blue",home_kitchen,1,10639
+56516199,1,INR-0068,"Comfi One-piece Swimsuit, Black",innerwear,1,1619
+56516199,2,FSH-0036,"Sootra Linen Shirt, Maroon",fashion,1,1019
+59730126,1,FSH-0039,"Sootra Leather Backpack, Grey",fashion,1,3559
+59730126,2,FSH-0036,"Sootra Linen Shirt, Maroon",fashion,1,1019
+40949742,1,GRO-0063,FarmFolk Cold-pressed Groundnut Oil 1 L,grocery,3,259
+69940350,1,HOM-0045,"Aangan Cotton Double Bedsheet Set, White",home_kitchen,1,1759
+69940350,2,HOM-0045,"Aangan Cotton Double Bedsheet Set, White",home_kitchen,1,1759
+51017288,1,FSH-0031,"UrbanThread Oversized Hoodie, White",fashion,1,1509
+51017288,2,FSH-0026,"Rangoli Cotton Straight Kurta, White",fashion,1,699
+64381186,1,ELE-0002,"Nimbus X2 Wireless Earbuds, Black",electronics,1,1899
+64381186,2,FSH-0032,"UrbanThread Oversized Hoodie, Green",fashion,1,1579
+58634590,1,ELE-0007,"Voltra PowerCell 20000 mAh Power Bank, Beige",electronics,1,1709
+77468223,1,BTY-0055,Neelam Eau de Parfum 50 ml,beauty_sealed,1,2099
+77468223,2,BTY-0055,Neelam Eau de Parfum 50 ml,beauty_sealed,1,2099
+77468223,3,BTY-0053,Gulmohar Vitamin C Face Serum 30 ml,beauty_sealed,1,929
+97622142,1,FSH-0033,"Kaafi Running Sneakers, White",fashion,1,2799
+97622142,2,FSH-0028,"Rangoli Silk Blend Saree, Green",fashion,1,4239
+97622142,3,FSH-0028,"Rangoli Silk Blend Saree, Green",fashion,1,4239
+49967437,1,ELE-0013,"Kestrel K7 Smartphone 256 GB, Grey",electronics,1,20499
+49967437,2,ELE-0014,"Kestrel K7 Smartphone 256 GB, Beige",electronics,1,21919
+49967437,3,ELE-0025,"Orbix USB-C Cable 1.5 m, Maroon",electronics,1,349
+90362119,1,BTY-0054,Neelam Herbal Face Wash 150 ml,beauty_sealed,1,239
+90362119,2,BTY-0052,Gulmohar Matte Lipstick,beauty_sealed,1,559
+90362119,3,BTY-0052,Gulmohar Matte Lipstick,beauty_sealed,1,559
+26268244,1,BKS-0058,Pagecraft Guide: Learn Python in 30 Days,books_media,1,789
+26268244,2,ELE-0006,"Voltra PowerCell 20000 mAh Power Bank, Maroon",electronics,1,1679
+93214057,1,FSH-0031,"UrbanThread Oversized Hoodie, White",fashion,1,1509
+56295574,1,BTY-0054,Neelam Herbal Face Wash 150 ml,beauty_sealed,1,239
+56295574,2,BTY-0052,Gulmohar Matte Lipstick,beauty_sealed,1,559
+56295574,3,BTY-0053,Gulmohar Vitamin C Face Serum 30 ml,beauty_sealed,1,929
+66774364,1,ELE-0018,"Zentro Boom Mini Bluetooth Speaker, Grey",electronics,1,1709
+66774364,2,FSH-0026,"Rangoli Cotton Straight Kurta, White",fashion,1,699
+29047505,1,ELE-0001,"Nimbus X2 Wireless Earbuds, Beige",electronics,1,2199
+45859465,1,DGT-0069,ZentroMart Gift Card ₹500,digital,1,500
+48714484,1,FSH-0034,"Kaafi Running Sneakers, Beige",fashion,1,3959
+48714484,2,FSH-0031,"UrbanThread Oversized Hoodie, White",fashion,1,1509
+24643252,1,HOM-0041,"Tavaa 3-Litre Pressure Cooker, Grey",home_kitchen,1,1609
+24643252,2,ELE-0014,"Kestrel K7 Smartphone 256 GB, Beige",electronics,1,21919
+24643252,3,INR-0068,"Comfi One-piece Swimsuit, Black",innerwear,1,1619
+24098473,1,HOM-0049,"Aangan Engineered Wood Study Table, Blue",home_kitchen,1,10639
+21205012,1,ELE-0017,"Orbix Fit 3 Pro Smartwatch, Blue",electronics,1,7219
+78916473,1,ELE-0025,"Orbix USB-C Cable 1.5 m, Maroon",electronics,1,349
+78916473,2,ELE-0014,"Kestrel K7 Smartphone 256 GB, Beige",electronics,1,21919
+78916473,3,FSH-0026,"Rangoli Cotton Straight Kurta, White",fashion,1,699
+38533971,1,FSH-0036,"Sootra Linen Shirt, Maroon",fashion,1,1019
+31359077,1,ELE-0020,"Zentro Vista 43-inch 4K Smart TV, Beige",electronics,1,31809
+49725492,1,ELE-0019,"Zentro Boom Max Bluetooth Speaker, Grey",electronics,1,5019
+45387293,1,ELE-0017,"Orbix Fit 3 Pro Smartwatch, Blue",electronics,1,7219
+46662050,1,FSH-0034,"Kaafi Running Sneakers, Beige",fashion,1,3959
+46662050,2,FSH-0036,"Sootra Linen Shirt, Maroon",fashion,1,1019
+46662050,3,FSH-0035,"Kaafi Leather Sandals, Black",fashion,1,1149
+82580117,1,FSH-0032,"UrbanThread Oversized Hoodie, Green",fashion,1,1579
+82580117,2,ELE-0015,"Kestrel K5 Smartphone 64 GB, Maroon",electronics,1,9629
+51002712,1,HOM-0044,"Mixwell 750W Mixer Grinder, Green",home_kitchen,1,3039
+33406460,1,HOM-0041,"Tavaa 3-Litre Pressure Cooker, Grey",home_kitchen,1,1609
+95670489,1,BTY-0053,Gulmohar Vitamin C Face Serum 30 ml,beauty_sealed,1,929
+71670141,1,HOM-0048,"Aangan 3-Seater Fabric Sofa, Black",home_kitchen,1,25809
+71670141,2,HOM-0049,"Aangan Engineered Wood Study Table, Blue",home_kitchen,1,10639
+71670141,3,HOM-0044,"Mixwell 750W Mixer Grinder, Green",home_kitchen,1,3039
+71175373,1,ELE-0013,"Kestrel K7 Smartphone 256 GB, Grey",electronics,1,20499
+71577152,1,ELE-0004,"Nimbus X2 Lite Wireless Earbuds, Beige",electronics,1,1169
+67146753,1,GRO-0060,FarmFolk Mango Pickle 500 g,grocery,3,159
+67146753,2,GRO-0063,FarmFolk Cold-pressed Groundnut Oil 1 L,grocery,3,259
+67042105,1,FSH-0035,"Kaafi Leather Sandals, Black",fashion,1,1149
+67042105,2,FSH-0038,"Sootra Canvas Tote Bag, Green",fashion,1,979
+56623029,1,ELE-0018,"Zentro Boom Mini Bluetooth Speaker, Grey",electronics,1,1709
+18599253,1,FSH-0033,"Kaafi Running Sneakers, White",fashion,1,2799
+18599253,2,FSH-0030,"UrbanThread Slim Fit Jeans, Maroon",fashion,1,1959
+23943095,1,ELE-0023,"Kestrel Book 14 Laptop, Grey",electronics,1,45999
+23943095,2,ELE-0007,"Voltra PowerCell 20000 mAh Power Bank, Beige",electronics,1,1709
+83369249,1,HOM-0044,"Mixwell 750W Mixer Grinder, Green",home_kitchen,1,3039
+51648575,1,FSH-0037,"Sootra Canvas Tote Bag, Black",fashion,1,729
+51648575,2,BKS-0058,Pagecraft Guide: Learn Python in 30 Days,books_media,1,789
+51648575,3,ELE-0020,"Zentro Vista 43-inch 4K Smart TV, Beige",electronics,1,31809
+62422912,1,GRO-0059,FarmFolk Basmati Rice 5 kg,grocery,1,629
+62422912,2,GRO-0060,FarmFolk Mango Pickle 500 g,grocery,2,159
+62422912,3,GRO-0059,FarmFolk Basmati Rice 5 kg,grocery,1,629
+23135970,1,BKS-0056,Pagecraft A5 Ruled Notebook (Pack of 4),books_media,1,319
+11904572,1,FSH-0031,"UrbanThread Oversized Hoodie, White",fashion,1,1509
+11904572,2,FSH-0031,"UrbanThread Oversized Hoodie, White",fashion,1,1509
+30223820,1,ELE-0019,"Zentro Boom Max Bluetooth Speaker, Grey",electronics,1,5019
+17578540,1,HOM-0041,"Tavaa 3-Litre Pressure Cooker, Grey",home_kitchen,1,1609
+17578540,2,HOM-0041,"Tavaa 3-Litre Pressure Cooker, Grey",home_kitchen,1,1609
+77171911,1,ELE-0023,"Kestrel Book 14 Laptop, Grey",electronics,1,45999
+61810188,1,ELE-0003,"Nimbus X2 Pro Wireless Earbuds, Blue",electronics,1,4229
+28973197,1,BKS-0057,Pagecraft Novel: The Monsoon Ledger,books_media,1,349
+47920013,1,BTY-0055,Neelam Eau de Parfum 50 ml,beauty_sealed,1,2099
+47920013,2,FSH-0034,"Kaafi Running Sneakers, Beige",fashion,1,3959
+41539789,1,FSH-0028,"Rangoli Silk Blend Saree, Green",fashion,1,4239
+63671912,1,FSH-0034,"Kaafi Running Sneakers, Beige",fashion,1,3959
+42408521,1,ELE-0021,"Zentro Vista 43-inch 4K Smart TV, Grey",electronics,1,31649
+51655327,1,ELE-0005,"Nimbus X2 Lite Wireless Earbuds, Grey",electronics,1,1229
+51655327,2,ELE-0019,"Zentro Boom Max Bluetooth Speaker, Grey",electronics,1,5019
+47337420,1,FSH-0030,"UrbanThread Slim Fit Jeans, Maroon",fashion,1,1959
+47337420,2,ELE-0017,"Orbix Fit 3 Pro Smartwatch, Blue",electronics,1,7219
+47337420,3,BTY-0053,Gulmohar Vitamin C Face Serum 30 ml,beauty_sealed,1,929
+14436415,1,ELE-0017,"Orbix Fit 3 Pro Smartwatch, Blue",electronics,1,7219
+14436415,2,BTY-0055,Neelam Eau de Parfum 50 ml,beauty_sealed,1,2099
+87019512,1,FSH-0031,"UrbanThread Oversized Hoodie, White",fashion,1,1509
+87019512,2,BTY-0053,Gulmohar Vitamin C Face Serum 30 ml,beauty_sealed,1,929
+87019512,3,HOM-0050,"Aangan Engineered Wood Study Table, Grey",home_kitchen,1,9239
+60611135,1,ELE-0001,"Nimbus X2 Wireless Earbuds, Beige",electronics,1,2199
+54987096,1,ELE-0019,"Zentro Boom Max Bluetooth Speaker, Grey",electronics,1,5019
+13694171,1,INR-0068,"Comfi One-piece Swimsuit, Black",innerwear,1,1619
+83664432,1,HOM-0041,"Tavaa 3-Litre Pressure Cooker, Grey",home_kitchen,1,1609
+83664432,2,ELE-0017,"Orbix Fit 3 Pro Smartwatch, Blue",electronics,1,7219
+40338101,1,BTY-0052,Gulmohar Matte Lipstick,beauty_sealed,1,559
+40338101,2,BTY-0055,Neelam Eau de Parfum 50 ml,beauty_sealed,1,2099
+69898866,1,FSH-0029,"UrbanThread Slim Fit Jeans, Blue",fashion,1,1319
+69898866,2,ELE-0021,"Zentro Vista 43-inch 4K Smart TV, Grey",electronics,1,31649
+77217502,1,BTY-0052,Gulmohar Matte Lipstick,beauty_sealed,1,559
+77217502,2,BTY-0054,Neelam Herbal Face Wash 150 ml,beauty_sealed,1,239
+41318000,1,ELE-0003,"Nimbus X2 Pro Wireless Earbuds, Blue",electronics,1,4229
+41318000,2,INR-0066,"Comfi Sports Bra, Grey",innerwear,1,509
+41318000,3,FSH-0039,"Sootra Leather Backpack, Grey",fashion,1,3559
+65520935,1,ELE-0006,"Voltra PowerCell 20000 mAh Power Bank, Maroon",electronics,1,1679
+92301903,1,GRO-0062,FarmFolk Fresh Vegetable Box,grocery,3,329
+92301903,2,GRO-0059,FarmFolk Basmati Rice 5 kg,grocery,2,629
+56183925,1,GRO-0060,FarmFolk Mango Pickle 500 g,grocery,2,159
+94974053,1,FSH-0036,"Sootra Linen Shirt, Maroon",fashion,1,1019
+94974053,2,FSH-0032,"UrbanThread Oversized Hoodie, Green",fashion,1,1579
+94974053,3,FSH-0033,"Kaafi Running Sneakers, White",fashion,1,2799
+55622128,1,GRO-0060,FarmFolk Mango Pickle 500 g,grocery,2,159
+55622128,2,GRO-0061,FarmFolk California Almonds 500 g,grocery,2,629
+55622128,3,GRO-0062,FarmFolk Fresh Vegetable Box,grocery,1,329
+68419464,1,ELE-0012,"Kestrel K7 Smartphone 128 GB, Beige",electronics,1,17549
+54858964,1,ELE-0006,"Voltra PowerCell 20000 mAh Power Bank, Maroon",electronics,1,1679
+54858964,2,ELE-0018,"Zentro Boom Mini Bluetooth Speaker, Grey",electronics,1,1709
+42375581,1,INR-0067,"Comfi One-piece Swimsuit, Blue",innerwear,1,1959
+42375581,2,FSH-0032,"UrbanThread Oversized Hoodie, Green",fashion,1,1579
+42375581,3,ELE-0023,"Kestrel Book 14 Laptop, Grey",electronics,1,45999
+20222799,1,ELE-0016,"Orbix Fit 3 Smartwatch, Green",electronics,1,3409
+45639109,1,HOM-0043,"Mixwell 750W Mixer Grinder, Maroon",home_kitchen,1,4309
+45639109,2,HOM-0051,"Brewly Electric Kettle 1.5 L, Beige",home_kitchen,1,899
+61698151,1,ELE-0013,"Kestrel K7 Smartphone 256 GB, Grey",electronics,1,20499
+61698151,2,HOM-0050,"Aangan Engineered Wood Study Table, Grey",home_kitchen,1,9239
+52811891,1,FSH-0033,"Kaafi Running Sneakers, White",fashion,1,2799
+52811891,2,BTY-0053,Gulmohar Vitamin C Face Serum 30 ml,beauty_sealed,1,929
+75712605,1,FSH-0033,"Kaafi Running Sneakers, White",fashion,1,2799
+69407586,1,ELE-0004,"Nimbus X2 Lite Wireless Earbuds, Beige",electronics,1,1169
+90397119,1,ELE-0020,"Zentro Vista 43-inch 4K Smart TV, Beige",electronics,1,31809
+16921479,1,ELE-0020,"Zentro Vista 43-inch 4K Smart TV, Beige",electronics,1,31809
+93350254,1,GRO-0062,FarmFolk Fresh Vegetable Box,grocery,3,329
+57367263,1,BKS-0057,Pagecraft Novel: The Monsoon Ledger,books_media,1,349
+77280638,1,ELE-0021,"Zentro Vista 43-inch 4K Smart TV, Grey",electronics,1,31649
+38769133,1,ELE-0020,"Zentro Vista 43-inch 4K Smart TV, Beige",electronics,1,31809
+61921984,1,ELE-0007,"Voltra PowerCell 20000 mAh Power Bank, Beige",electronics,1,1709
+58730774,1,FSH-0036,"Sootra Linen Shirt, Maroon",fashion,1,1019
+58730774,2,FSH-0029,"UrbanThread Slim Fit Jeans, Blue",fashion,1,1319
+58730774,3,FSH-0034,"Kaafi Running Sneakers, Beige",fashion,1,3959
+43271939,1,HOM-0041,"Tavaa 3-Litre Pressure Cooker, Grey",home_kitchen,1,1609
+43271939,2,HOM-0048,"Aangan 3-Seater Fabric Sofa, Black",home_kitchen,1,25809
+46850933,1,FSH-0028,"Rangoli Silk Blend Saree, Green",fashion,1,4239
+46850933,2,FSH-0036,"Sootra Linen Shirt, Maroon",fashion,1,1019
+46850933,3,FSH-0039,"Sootra Leather Backpack, Grey",fashion,1,3559
+25767760,1,ELE-0005,"Nimbus X2 Lite Wireless Earbuds, Grey",electronics,1,1229
+81200722,1,BTY-0052,Gulmohar Matte Lipstick,beauty_sealed,1,559
+81200722,2,BTY-0055,Neelam Eau de Parfum 50 ml,beauty_sealed,1,2099
+73352933,1,FSH-0028,"Rangoli Silk Blend Saree, Green",fashion,1,4239
+73352933,2,FSH-0039,"Sootra Leather Backpack, Grey",fashion,1,3559
+92562171,1,ELE-0002,"Nimbus X2 Wireless Earbuds, Black",electronics,1,1899
+92562171,2,ELE-0024,"Orbix USB-C Cable 1.5 m, Grey",electronics,1,319
+56307322,1,FSH-0028,"Rangoli Silk Blend Saree, Green",fashion,1,4239
+56307322,2,FSH-0028,"Rangoli Silk Blend Saree, Green",fashion,1,4239
+58225472,1,HOM-0041,"Tavaa 3-Litre Pressure Cooker, Grey",home_kitchen,1,1609
+58225472,2,HOM-0041,"Tavaa 3-Litre Pressure Cooker, Grey",home_kitchen,1,1609
+58225472,3,HOM-0051,"Brewly Electric Kettle 1.5 L, Beige",home_kitchen,1,899
+26314811,1,INR-0067,"Comfi One-piece Swimsuit, Blue",innerwear,1,1959
+26314811,2,INR-0067,"Comfi One-piece Swimsuit, Blue",innerwear,1,1959
+26314811,3,INR-0066,"Comfi Sports Bra, Grey",innerwear,1,509
+95505981,1,HOM-0047,"Aangan 3-Seater Fabric Sofa, Grey",home_kitchen,1,21859
+95505981,2,HOM-0047,"Aangan 3-Seater Fabric Sofa, Grey",home_kitchen,1,21859
+10877205,1,ELE-0024,"Orbix USB-C Cable 1.5 m, Grey",electronics,1,319
+10877205,2,FSH-0028,"Rangoli Silk Blend Saree, Green",fashion,1,4239
+10877205,3,FSH-0036,"Sootra Linen Shirt, Maroon",fashion,1,1019
+91730727,1,FSH-0035,"Kaafi Leather Sandals, Black",fashion,1,1149
+45633103,1,HOM-0043,"Mixwell 750W Mixer Grinder, Maroon",home_kitchen,1,4309
+45633103,2,HOM-0041,"Tavaa 3-Litre Pressure Cooker, Grey",home_kitchen,1,1609
+45633103,3,HOM-0043,"Mixwell 750W Mixer Grinder, Maroon",home_kitchen,1,4309
+81618067,1,ELE-0018,"Zentro Boom Mini Bluetooth Speaker, Grey",electronics,1,1709
+24086517,1,DGT-0069,ZentroMart Gift Card ₹500,digital,1,500
+41893436,1,FSH-0038,"Sootra Canvas Tote Bag, Green",fashion,1,979
+16732992,1,ELE-0013,"Kestrel K7 Smartphone 256 GB, Grey",electronics,1,20499
+21276947,1,ELE-0004,"Nimbus X2 Lite Wireless Earbuds, Beige",electronics,1,1169
+33986432,1,FSH-0038,"Sootra Canvas Tote Bag, Green",fashion,1,979
+19027092,1,HOM-0049,"Aangan Engineered Wood Study Table, Blue",home_kitchen,1,10639
+19027092,2,HOM-0045,"Aangan Cotton Double Bedsheet Set, White",home_kitchen,1,1759
+19027092,3,HOM-0050,"Aangan Engineered Wood Study Table, Grey",home_kitchen,1,9239
+35769550,1,FSH-0033,"Kaafi Running Sneakers, White",fashion,1,2799
+35769550,2,FSH-0039,"Sootra Leather Backpack, Grey",fashion,1,3559
+82066827,1,GRO-0061,FarmFolk California Almonds 500 g,grocery,1,629
+82066827,2,GRO-0061,FarmFolk California Almonds 500 g,grocery,2,629
+82066827,3,GRO-0059,FarmFolk Basmati Rice 5 kg,grocery,3,629
+65543420,1,FSH-0037,"Sootra Canvas Tote Bag, Black",fashion,1,729
+65543420,2,FSH-0031,"UrbanThread Oversized Hoodie, White",fashion,1,1509
+65543420,3,FSH-0030,"UrbanThread Slim Fit Jeans, Maroon",fashion,1,1959
+14759520,1,ELE-0007,"Voltra PowerCell 20000 mAh Power Bank, Beige",electronics,1,1709
+85212353,1,GRO-0060,FarmFolk Mango Pickle 500 g,grocery,2,159
+90281176,1,ELE-0020,"Zentro Vista 43-inch 4K Smart TV, Beige",electronics,1,31809
+16640894,1,FSH-0027,"Rangoli Silk Blend Saree, Grey",fashion,1,2809
+16640894,2,FSH-0027,"Rangoli Silk Blend Saree, Grey",fashion,1,2809
+78670043,1,FSH-0038,"Sootra Canvas Tote Bag, Green",fashion,1,979
+78670043,2,FSH-0026,"Rangoli Cotton Straight Kurta, White",fashion,1,699
+78670043,3,FSH-0030,"UrbanThread Slim Fit Jeans, Maroon",fashion,1,1959
+87036256,1,INR-0067,"Comfi One-piece Swimsuit, Blue",innerwear,1,1959
+87036256,2,INR-0067,"Comfi One-piece Swimsuit, Blue",innerwear,1,1959
+50794471,1,HOM-0047,"Aangan 3-Seater Fabric Sofa, Grey",home_kitchen,1,21859
+50794471,2,ELE-0010,"Voltra 65W GaN Fast Charger, Green",electronics,1,2189
+50794471,3,FSH-0028,"Rangoli Silk Blend Saree, Green",fashion,1,4239
+56071617,1,FSH-0026,"Rangoli Cotton Straight Kurta, White",fashion,1,699
+56071617,2,FSH-0033,"Kaafi Running Sneakers, White",fashion,1,2799
+56071617,3,FSH-0032,"UrbanThread Oversized Hoodie, Green",fashion,1,1579
+98148584,1,FSH-0032,"UrbanThread Oversized Hoodie, Green",fashion,1,1579
+98148584,2,HOM-0047,"Aangan 3-Seater Fabric Sofa, Grey",home_kitchen,1,21859
+98148584,3,ELE-0024,"Orbix USB-C Cable 1.5 m, Grey",electronics,1,319
+25314441,1,BKS-0058,Pagecraft Guide: Learn Python in 30 Days,books_media,1,789
+30344511,1,GRO-0063,FarmFolk Cold-pressed Groundnut Oil 1 L,grocery,1,259
+30344511,2,GRO-0060,FarmFolk Mango Pickle 500 g,grocery,1,159
+85762610,1,HOM-0048,"Aangan 3-Seater Fabric Sofa, Black",home_kitchen,1,25809
+65107308,1,ELE-0024,"Orbix USB-C Cable 1.5 m, Grey",electronics,1,319
+65107308,2,ELE-0005,"Nimbus X2 Lite Wireless Earbuds, Grey",electronics,1,1229
+65107308,3,ELE-0011,"Kestrel K7 Smartphone 128 GB, White",electronics,1,17139
+50044265,1,GRO-0062,FarmFolk Fresh Vegetable Box,grocery,2,329
+50044265,2,GRO-0062,FarmFolk Fresh Vegetable Box,grocery,1,329
+49377505,1,HOM-0042,"Tavaa Non-stick Frying Pan 26 cm, Black",home_kitchen,1,739
+85956246,1,ELE-0017,"Orbix Fit 3 Pro Smartwatch, Blue",electronics,1,7219
+85022195,1,ELE-0012,"Kestrel K7 Smartphone 128 GB, Beige",electronics,1,17549
+36580444,1,HOM-0040,"Tavaa 3-Litre Pressure Cooker, White",home_kitchen,1,1439
+32619147,1,ELE-0013,"Kestrel K7 Smartphone 256 GB, Grey",electronics,1,20499
+32619147,2,ELE-0025,"Orbix USB-C Cable 1.5 m, Maroon",electronics,1,349
+37085414,1,HOM-0046,"Aangan Cotton Double Bedsheet Set, Maroon",home_kitchen,1,1439
+37085414,2,HOM-0050,"Aangan Engineered Wood Study Table, Grey",home_kitchen,1,9239
+84889113,1,ELE-0025,"Orbix USB-C Cable 1.5 m, Maroon",electronics,1,349
+84889113,2,ELE-0001,"Nimbus X2 Wireless Earbuds, Beige",electronics,1,2199
+84889113,3,ELE-0008,"Voltra PowerCell 10000 mAh Power Bank, Green",electronics,1,1059
+51314068,1,ELE-0016,"Orbix Fit 3 Smartwatch, Green",electronics,1,3409
+86010934,1,FSH-0030,"UrbanThread Slim Fit Jeans, Maroon",fashion,1,1959
+86010934,2,FSH-0029,"UrbanThread Slim Fit Jeans, Blue",fashion,1,1319
+17865675,1,ELE-0023,"Kestrel Book 14 Laptop, Grey",electronics,1,45999
+92082916,1,ELE-0008,"Voltra PowerCell 10000 mAh Power Bank, Green",electronics,1,1059
+35867036,1,ELE-0008,"Voltra PowerCell 10000 mAh Power Bank, Green",electronics,1,1059
+63995508,1,HOM-0049,"Aangan Engineered Wood Study Table, Blue",home_kitchen,1,10639
+63995508,2,FSH-0038,"Sootra Canvas Tote Bag, Green",fashion,1,979
+63995508,3,FSH-0033,"Kaafi Running Sneakers, White",fashion,1,2799
+67125092,1,INR-0066,"Comfi Sports Bra, Grey",innerwear,1,509
+95352635,1,FSH-0038,"Sootra Canvas Tote Bag, Green",fashion,1,979
+95352635,2,FSH-0037,"Sootra Canvas Tote Bag, Black",fashion,1,729
+95352635,3,FSH-0030,"UrbanThread Slim Fit Jeans, Maroon",fashion,1,1959
+71243271,1,BKS-0058,Pagecraft Guide: Learn Python in 30 Days,books_media,1,789
+71243271,2,BTY-0052,Gulmohar Matte Lipstick,beauty_sealed,1,559
+10048947,1,BTY-0055,Neelam Eau de Parfum 50 ml,beauty_sealed,1,2099
+77702311,1,ELE-0013,"Kestrel K7 Smartphone 256 GB, Grey",electronics,1,20499
+59048247,1,HOM-0050,"Aangan Engineered Wood Study Table, Grey",home_kitchen,1,9239
+59048247,2,HOM-0048,"Aangan 3-Seater Fabric Sofa, Black",home_kitchen,1,25809
+62409844,1,FSH-0038,"Sootra Canvas Tote Bag, Green",fashion,1,979
+62409844,2,ELE-0005,"Nimbus X2 Lite Wireless Earbuds, Grey",electronics,1,1229
+62409844,3,FSH-0026,"Rangoli Cotton Straight Kurta, White",fashion,1,699
+58112949,1,FSH-0034,"Kaafi Running Sneakers, Beige",fashion,1,3959
+58112949,2,BTY-0052,Gulmohar Matte Lipstick,beauty_sealed,1,559
+58112949,3,ELE-0006,"Voltra PowerCell 20000 mAh Power Bank, Maroon",electronics,1,1679
+66391744,1,FSH-0027,"Rangoli Silk Blend Saree, Grey",fashion,1,2809
+66391744,2,FSH-0030,"UrbanThread Slim Fit Jeans, Maroon",fashion,1,1959
+66391744,3,FSH-0037,"Sootra Canvas Tote Bag, Black",fashion,1,729
+99978971,1,ELE-0011,"Kestrel K7 Smartphone 128 GB, White",electronics,1,17139
+74213916,1,FSH-0037,"Sootra Canvas Tote Bag, Black",fashion,1,729
+74213916,2,FSH-0037,"Sootra Canvas Tote Bag, Black",fashion,1,729
+74213916,3,FSH-0035,"Kaafi Leather Sandals, Black",fashion,1,1149
+92586970,1,FSH-0026,"Rangoli Cotton Straight Kurta, White",fashion,1,699
+92586970,2,FSH-0028,"Rangoli Silk Blend Saree, Green",fashion,1,4239
+13880360,1,ELE-0009,"Voltra PowerCell 10000 mAh Power Bank, Beige",electronics,1,1009
+91578936,1,FSH-0027,"Rangoli Silk Blend Saree, Grey",fashion,1,2809
+91578936,2,FSH-0035,"Kaafi Leather Sandals, Black",fashion,1,1149
+91578936,3,HOM-0041,"Tavaa 3-Litre Pressure Cooker, Grey",home_kitchen,1,1609
+24382629,1,FSH-0035,"Kaafi Leather Sandals, Black",fashion,1,1149
+24382629,2,FSH-0030,"UrbanThread Slim Fit Jeans, Maroon",fashion,1,1959
+24382629,3,FSH-0026,"Rangoli Cotton Straight Kurta, White",fashion,1,699
+85599293,1,BTY-0053,Gulmohar Vitamin C Face Serum 30 ml,beauty_sealed,1,929
+85599293,2,BTY-0052,Gulmohar Matte Lipstick,beauty_sealed,1,559
+85599293,3,BTY-0055,Neelam Eau de Parfum 50 ml,beauty_sealed,1,2099
+13029488,1,ELE-0016,"Orbix Fit 3 Smartwatch, Green",electronics,1,3409
+46568283,1,FSH-0032,"UrbanThread Oversized Hoodie, Green",fashion,1,1579
+46568283,2,FSH-0034,"Kaafi Running Sneakers, Beige",fashion,1,3959
+53658703,1,FSH-0039,"Sootra Leather Backpack, Grey",fashion,1,3559
+53658703,2,FSH-0026,"Rangoli Cotton Straight Kurta, White",fashion,1,699
+53658703,3,DGT-0070,"ZentroMart Gift Card ₹1,000",digital,1,1000
+36314626,1,ELE-0015,"Kestrel K5 Smartphone 64 GB, Maroon",electronics,1,9629
+39973947,1,ELE-0006,"Voltra PowerCell 20000 mAh Power Bank, Maroon",electronics,1,1679
+65013482,1,HOM-0047,"Aangan 3-Seater Fabric Sofa, Grey",home_kitchen,1,21859
+65013482,2,INR-0068,"Comfi One-piece Swimsuit, Black",innerwear,1,1619
+65013482,3,FSH-0034,"Kaafi Running Sneakers, Beige",fashion,1,3959
+39044557,1,ELE-0023,"Kestrel Book 14 Laptop, Grey",electronics,1,45999
+58426045,1,FSH-0029,"UrbanThread Slim Fit Jeans, Blue",fashion,1,1319
+58426045,2,ELE-0004,"Nimbus X2 Lite Wireless Earbuds, Beige",electronics,1,1169
+78716829,1,FSH-0036,"Sootra Linen Shirt, Maroon",fashion,1,1019
+78716829,2,BTY-0053,Gulmohar Vitamin C Face Serum 30 ml,beauty_sealed,1,929
+34317564,1,ELE-0006,"Voltra PowerCell 20000 mAh Power Bank, Maroon",electronics,1,1679
+79911554,1,HOM-0051,"Brewly Electric Kettle 1.5 L, Beige",home_kitchen,1,899
+79911554,2,ELE-0022,"Kestrel Book 14 Laptop, Black",electronics,1,51439
+79911554,3,FSH-0037,"Sootra Canvas Tote Bag, Black",fashion,1,729
+88589735,1,BTY-0052,Gulmohar Matte Lipstick,beauty_sealed,1,559
+88589735,2,BTY-0055,Neelam Eau de Parfum 50 ml,beauty_sealed,1,2099
+88589735,3,BTY-0052,Gulmohar Matte Lipstick,beauty_sealed,1,559
+11121225,1,ELE-0009,"Voltra PowerCell 10000 mAh Power Bank, Beige",electronics,1,1009
+66435185,1,ELE-0015,"Kestrel K5 Smartphone 64 GB, Maroon",electronics,1,9629
+56226760,1,FSH-0030,"UrbanThread Slim Fit Jeans, Maroon",fashion,1,1959
+51847639,1,ELE-0002,"Nimbus X2 Wireless Earbuds, Black",electronics,1,1899
+26114614,1,ELE-0015,"Kestrel K5 Smartphone 64 GB, Maroon",electronics,1,9629
+37422974,1,FSH-0031,"UrbanThread Oversized Hoodie, White",fashion,1,1509
+37422974,2,FSH-0031,"UrbanThread Oversized Hoodie, White",fashion,1,1509
+37422974,3,FSH-0039,"Sootra Leather Backpack, Grey",fashion,1,3559
+84600910,1,FSH-0030,"UrbanThread Slim Fit Jeans, Maroon",fashion,1,1959
+84600910,2,FSH-0033,"Kaafi Running Sneakers, White",fashion,1,2799
+88177157,1,FSH-0034,"Kaafi Running Sneakers, Beige",fashion,1,3959
+88177157,2,FSH-0032,"UrbanThread Oversized Hoodie, Green",fashion,1,1579
+21453304,1,FSH-0034,"Kaafi Running Sneakers, Beige",fashion,1,3959
+42256577,1,FSH-0037,"Sootra Canvas Tote Bag, Black",fashion,1,729
+42256577,2,ELE-0020,"Zentro Vista 43-inch 4K Smart TV, Beige",electronics,1,31809
+84070613,1,FSH-0036,"Sootra Linen Shirt, Maroon",fashion,1,1019
+68083061,1,ELE-0003,"Nimbus X2 Pro Wireless Earbuds, Blue",electronics,1,4229
+68083061,2,FSH-0031,"UrbanThread Oversized Hoodie, White",fashion,1,1509
+50917905,1,FSH-0028,"Rangoli Silk Blend Saree, Green",fashion,1,4239
+92138369,1,ELE-0009,"Voltra PowerCell 10000 mAh Power Bank, Beige",electronics,1,1009
+79527643,1,GRO-0063,FarmFolk Cold-pressed Groundnut Oil 1 L,grocery,3,259
+96775989,1,GRO-0062,FarmFolk Fresh Vegetable Box,grocery,1,329
+61911458,1,BTY-0054,Neelam Herbal Face Wash 150 ml,beauty_sealed,1,239
+61911458,2,FSH-0032,"UrbanThread Oversized Hoodie, Green",fashion,1,1579
+61911458,3,FSH-0039,"Sootra Leather Backpack, Grey",fashion,1,3559
+13747458,1,INR-0066,"Comfi Sports Bra, Grey",innerwear,1,509
+83710950,1,FSH-0030,"UrbanThread Slim Fit Jeans, Maroon",fashion,1,1959
+83710950,2,BKS-0056,Pagecraft A5 Ruled Notebook (Pack of 4),books_media,1,319
+99862416,1,BKS-0057,Pagecraft Novel: The Monsoon Ledger,books_media,1,349
+97946570,1,FSH-0035,"Kaafi Leather Sandals, Black",fashion,1,1149
+97946570,2,FSH-0033,"Kaafi Running Sneakers, White",fashion,1,2799
+97946570,3,FSH-0035,"Kaafi Leather Sandals, Black",fashion,1,1149
+89782837,1,ELE-0013,"Kestrel K7 Smartphone 256 GB, Grey",electronics,1,20499
+89782837,2,FSH-0038,"Sootra Canvas Tote Bag, Green",fashion,1,979
+89782837,3,ELE-0021,"Zentro Vista 43-inch 4K Smart TV, Grey",electronics,1,31649
+48989105,1,BTY-0054,Neelam Herbal Face Wash 150 ml,beauty_sealed,1,239
+48989105,2,BTY-0053,Gulmohar Vitamin C Face Serum 30 ml,beauty_sealed,1,929
+69984317,1,HOM-0041,"Tavaa 3-Litre Pressure Cooker, Grey",home_kitchen,1,1609
+35701594,1,FSH-0039,"Sootra Leather Backpack, Grey",fashion,1,3559
+35701594,2,FSH-0036,"Sootra Linen Shirt, Maroon",fashion,1,1019
+69143350,1,FSH-0033,"Kaafi Running Sneakers, White",fashion,1,2799
+69143350,2,HOM-0049,"Aangan Engineered Wood Study Table, Blue",home_kitchen,1,10639
+70640936,1,FSH-0031,"UrbanThread Oversized Hoodie, White",fashion,1,1509
+84632166,1,BTY-0052,Gulmohar Matte Lipstick,beauty_sealed,1,559
+83636751,1,ELE-0012,"Kestrel K7 Smartphone 128 GB, Beige",electronics,1,17549
+78249922,1,ELE-0009,"Voltra PowerCell 10000 mAh Power Bank, Beige",electronics,1,1009
+97664999,1,ELE-0010,"Voltra 65W GaN Fast Charger, Green",electronics,1,2189
+67388761,1,ELE-0009,"Voltra PowerCell 10000 mAh Power Bank, Beige",electronics,1,1009
+76209419,1,ELE-0013,"Kestrel K7 Smartphone 256 GB, Grey",electronics,1,20499
+76209419,2,FSH-0034,"Kaafi Running Sneakers, Beige",fashion,1,3959
+20697332,1,FSH-0032,"UrbanThread Oversized Hoodie, Green",fashion,1,1579
+37790301,1,ELE-0012,"Kestrel K7 Smartphone 128 GB, Beige",electronics,1,17549
+18736075,1,GRO-0061,FarmFolk California Almonds 500 g,grocery,3,629
+90598122,1,BKS-0058,Pagecraft Guide: Learn Python in 30 Days,books_media,1,789
+92996464,1,ELE-0004,"Nimbus X2 Lite Wireless Earbuds, Beige",electronics,1,1169
+86257576,1,HOM-0046,"Aangan Cotton Double Bedsheet Set, Maroon",home_kitchen,1,1439
+98248876,1,HOM-0044,"Mixwell 750W Mixer Grinder, Green",home_kitchen,1,3039
+98248876,2,HOM-0050,"Aangan Engineered Wood Study Table, Grey",home_kitchen,1,9239
+98248876,3,HOM-0045,"Aangan Cotton Double Bedsheet Set, White",home_kitchen,1,1759
+68059568,1,HOM-0042,"Tavaa Non-stick Frying Pan 26 cm, Black",home_kitchen,1,739
+72073097,1,INR-0065,"Comfi Cotton Briefs (Pack of 3), Beige",innerwear,1,529
+72073097,2,INR-0068,"Comfi One-piece Swimsuit, Black",innerwear,1,1619
+53068512,1,ELE-0020,"Zentro Vista 43-inch 4K Smart TV, Beige",electronics,1,31809
+53068512,2,FSH-0035,"Kaafi Leather Sandals, Black",fashion,1,1149
+45988716,1,HOM-0050,"Aangan Engineered Wood Study Table, Grey",home_kitchen,1,9239
+60037263,1,BTY-0054,Neelam Herbal Face Wash 150 ml,beauty_sealed,1,239
+60037263,2,BTY-0053,Gulmohar Vitamin C Face Serum 30 ml,beauty_sealed,1,929
+50995711,1,FSH-0033,"Kaafi Running Sneakers, White",fashion,1,2799
+38192410,1,FSH-0036,"Sootra Linen Shirt, Maroon",fashion,1,1019
+38192410,2,BTY-0053,Gulmohar Vitamin C Face Serum 30 ml,beauty_sealed,1,929
+37589710,1,INR-0066,"Comfi Sports Bra, Grey",innerwear,1,509
+76908756,1,FSH-0029,"UrbanThread Slim Fit Jeans, Blue",fashion,1,1319
+76908756,2,FSH-0030,"UrbanThread Slim Fit Jeans, Maroon",fashion,1,1959
+76908756,3,FSH-0026,"Rangoli Cotton Straight Kurta, White",fashion,1,699
+87645513,1,BTY-0053,Gulmohar Vitamin C Face Serum 30 ml,beauty_sealed,1,929
+87645513,2,BTY-0052,Gulmohar Matte Lipstick,beauty_sealed,1,559
+87645513,3,BTY-0055,Neelam Eau de Parfum 50 ml,beauty_sealed,1,2099
+62511745,1,ELE-0024,"Orbix USB-C Cable 1.5 m, Grey",electronics,1,319
+62511745,2,ELE-0016,"Orbix Fit 3 Smartwatch, Green",electronics,1,3409
+46149948,1,ELE-0021,"Zentro Vista 43-inch 4K Smart TV, Grey",electronics,1,31649
+20037180,1,ELE-0019,"Zentro Boom Max Bluetooth Speaker, Grey",electronics,1,5019
+52731156,1,ELE-0006,"Voltra PowerCell 20000 mAh Power Bank, Maroon",electronics,1,1679
+88815789,1,HOM-0046,"Aangan Cotton Double Bedsheet Set, Maroon",home_kitchen,1,1439
+18802015,1,ELE-0008,"Voltra PowerCell 10000 mAh Power Bank, Green",electronics,1,1059
+18802015,2,HOM-0042,"Tavaa Non-stick Frying Pan 26 cm, Black",home_kitchen,1,739
+53974267,1,FSH-0032,"UrbanThread Oversized Hoodie, Green",fashion,1,1579
+53974267,2,HOM-0044,"Mixwell 750W Mixer Grinder, Green",home_kitchen,1,3039
+53974267,3,FSH-0032,"UrbanThread Oversized Hoodie, Green",fashion,1,1579
+23448429,1,DGT-0070,"ZentroMart Gift Card ₹1,000",digital,1,1000
+29620604,1,GRO-0060,FarmFolk Mango Pickle 500 g,grocery,1,159
+29620604,2,GRO-0061,FarmFolk California Almonds 500 g,grocery,2,629
+67769236,1,FSH-0039,"Sootra Leather Backpack, Grey",fashion,1,3559
+82902610,1,FSH-0031,"UrbanThread Oversized Hoodie, White",fashion,1,1509
+82902610,2,FSH-0031,"UrbanThread Oversized Hoodie, White",fashion,1,1509
+89868066,1,ELE-0003,"Nimbus X2 Pro Wireless Earbuds, Blue",electronics,1,4229
+89868066,2,FSH-0026,"Rangoli Cotton Straight Kurta, White",fashion,1,699
+70110685,1,FSH-0028,"Rangoli Silk Blend Saree, Green",fashion,1,4239
+70110685,2,BTY-0054,Neelam Herbal Face Wash 150 ml,beauty_sealed,1,239
+70110685,3,FSH-0027,"Rangoli Silk Blend Saree, Grey",fashion,1,2809
+59695012,1,INR-0064,"Comfi Cotton Briefs (Pack of 3), Blue",innerwear,1,409
+59695012,2,INR-0064,"Comfi Cotton Briefs (Pack of 3), Blue",innerwear,1,409
+59695012,3,INR-0065,"Comfi Cotton Briefs (Pack of 3), Beige",innerwear,1,529
+82771071,1,INR-0064,"Comfi Cotton Briefs (Pack of 3), Blue",innerwear,1,409
+27145024,1,GRO-0062,FarmFolk Fresh Vegetable Box,grocery,1,329
+27145024,2,GRO-0063,FarmFolk Cold-pressed Groundnut Oil 1 L,grocery,2,259
+17747810,1,INR-0068,"Comfi One-piece Swimsuit, Black",innerwear,1,1619
+17747810,2,HOM-0050,"Aangan Engineered Wood Study Table, Grey",home_kitchen,1,9239
+17747810,3,HOM-0046,"Aangan Cotton Double Bedsheet Set, Maroon",home_kitchen,1,1439
+56163954,1,INR-0065,"Comfi Cotton Briefs (Pack of 3), Beige",innerwear,1,529
+33267300,1,HOM-0050,"Aangan Engineered Wood Study Table, Grey",home_kitchen,1,9239
+98664244,1,HOM-0045,"Aangan Cotton Double Bedsheet Set, White",home_kitchen,1,1759
+33075371,1,GRO-0059,FarmFolk Basmati Rice 5 kg,grocery,2,629
+33075371,2,GRO-0059,FarmFolk Basmati Rice 5 kg,grocery,1,629
+33075371,3,GRO-0062,FarmFolk Fresh Vegetable Box,grocery,3,329
+18064885,1,ELE-0007,"Voltra PowerCell 20000 mAh Power Bank, Beige",electronics,1,1709
+78813989,1,BTY-0052,Gulmohar Matte Lipstick,beauty_sealed,1,559
+78813989,2,INR-0065,"Comfi Cotton Briefs (Pack of 3), Beige",innerwear,1,529
+78813989,3,FSH-0033,"Kaafi Running Sneakers, White",fashion,1,2799
+54097980,1,GRO-0062,FarmFolk Fresh Vegetable Box,grocery,3,329
+28372489,1,FSH-0032,"UrbanThread Oversized Hoodie, Green",fashion,1,1579
+52557510,1,GRO-0061,FarmFolk California Almonds 500 g,grocery,3,629
+85961865,1,HOM-0046,"Aangan Cotton Double Bedsheet Set, Maroon",home_kitchen,1,1439
+24845791,1,INR-0065,"Comfi Cotton Briefs (Pack of 3), Beige",innerwear,1,529
+24845791,2,INR-0067,"Comfi One-piece Swimsuit, Blue",innerwear,1,1959
+24845791,3,INR-0067,"Comfi One-piece Swimsuit, Blue",innerwear,1,1959
+40629461,1,GRO-0059,FarmFolk Basmati Rice 5 kg,grocery,2,629
+40629461,2,GRO-0060,FarmFolk Mango Pickle 500 g,grocery,1,159
+45993875,1,FSH-0027,"Rangoli Silk Blend Saree, Grey",fashion,1,2809
+45993875,2,HOM-0050,"Aangan Engineered Wood Study Table, Grey",home_kitchen,1,9239
+23668307,1,FSH-0032,"UrbanThread Oversized Hoodie, Green",fashion,1,1579
+54555306,1,ELE-0014,"Kestrel K7 Smartphone 256 GB, Beige",electronics,1,21919
+48374263,1,FSH-0037,"Sootra Canvas Tote Bag, Black",fashion,1,729
+48374263,2,FSH-0035,"Kaafi Leather Sandals, Black",fashion,1,1149
+48374263,3,FSH-0037,"Sootra Canvas Tote Bag, Black",fashion,1,729
+10611101,1,FSH-0038,"Sootra Canvas Tote Bag, Green",fashion,1,979
+10611101,2,FSH-0037,"Sootra Canvas Tote Bag, Black",fashion,1,729
+14070367,1,ELE-0025,"Orbix USB-C Cable 1.5 m, Maroon",electronics,1,349
+88052256,1,FSH-0028,"Rangoli Silk Blend Saree, Green",fashion,1,4239
+88052256,2,FSH-0030,"UrbanThread Slim Fit Jeans, Maroon",fashion,1,1959
+46079061,1,ELE-0013,"Kestrel K7 Smartphone 256 GB, Grey",electronics,1,20499
+67572308,1,ELE-0022,"Kestrel Book 14 Laptop, Black",electronics,1,51439
+73675918,1,FSH-0036,"Sootra Linen Shirt, Maroon",fashion,1,1019
+32800655,1,ELE-0013,"Kestrel K7 Smartphone 256 GB, Grey",electronics,1,20499
+32627551,1,ELE-0013,"Kestrel K7 Smartphone 256 GB, Grey",electronics,1,20499
+32627551,2,ELE-0021,"Zentro Vista 43-inch 4K Smart TV, Grey",electronics,1,31649
+89037322,1,BTY-0052,Gulmohar Matte Lipstick,beauty_sealed,1,559
+89037322,2,BTY-0053,Gulmohar Vitamin C Face Serum 30 ml,beauty_sealed,1,929
+82826733,1,FSH-0033,"Kaafi Running Sneakers, White",fashion,1,2799
+82826733,2,FSH-0032,"UrbanThread Oversized Hoodie, Green",fashion,1,1579
+82826733,3,FSH-0030,"UrbanThread Slim Fit Jeans, Maroon",fashion,1,1959
+57960675,1,BKS-0056,Pagecraft A5 Ruled Notebook (Pack of 4),books_media,1,319
+69500008,1,ELE-0003,"Nimbus X2 Pro Wireless Earbuds, Blue",electronics,1,4229
+29293293,1,HOM-0046,"Aangan Cotton Double Bedsheet Set, Maroon",home_kitchen,1,1439
+29293293,2,HOM-0042,"Tavaa Non-stick Frying Pan 26 cm, Black",home_kitchen,1,739
+23611352,1,ELE-0002,"Nimbus X2 Wireless Earbuds, Black",electronics,1,1899
+60404769,1,HOM-0047,"Aangan 3-Seater Fabric Sofa, Grey",home_kitchen,1,21859
+60404769,2,FSH-0032,"UrbanThread Oversized Hoodie, Green",fashion,1,1579
+60404769,3,FSH-0030,"UrbanThread Slim Fit Jeans, Maroon",fashion,1,1959
+56646891,1,FSH-0026,"Rangoli Cotton Straight Kurta, White",fashion,1,699
+56646891,2,FSH-0038,"Sootra Canvas Tote Bag, Green",fashion,1,979
+96729644,1,ELE-0021,"Zentro Vista 43-inch 4K Smart TV, Grey",electronics,1,31649
+96729644,2,FSH-0036,"Sootra Linen Shirt, Maroon",fashion,1,1019
+96729644,3,ELE-0016,"Orbix Fit 3 Smartwatch, Green",electronics,1,3409
+99932881,1,INR-0064,"Comfi Cotton Briefs (Pack of 3), Blue",innerwear,1,409
+66651028,1,HOM-0040,"Tavaa 3-Litre Pressure Cooker, White",home_kitchen,1,1439
+20037773,1,INR-0066,"Comfi Sports Bra, Grey",innerwear,1,509
+21293727,1,ELE-0014,"Kestrel K7 Smartphone 256 GB, Beige",electronics,1,21919
+12343865,1,ELE-0022,"Kestrel Book 14 Laptop, Black",electronics,1,51439
+43069461,1,ELE-0008,"Voltra PowerCell 10000 mAh Power Bank, Green",electronics,1,1059
+69212860,1,BTY-0053,Gulmohar Vitamin C Face Serum 30 ml,beauty_sealed,1,929
+65098456,1,HOM-0051,"Brewly Electric Kettle 1.5 L, Beige",home_kitchen,1,899
+56964095,1,ELE-0002,"Nimbus X2 Wireless Earbuds, Black",electronics,1,1899
+10040392,1,FSH-0030,"UrbanThread Slim Fit Jeans, Maroon",fashion,1,1959
+48567593,1,FSH-0036,"Sootra Linen Shirt, Maroon",fashion,1,1019
+48567593,2,ELE-0008,"Voltra PowerCell 10000 mAh Power Bank, Green",electronics,1,1059
+48567593,3,ELE-0014,"Kestrel K7 Smartphone 256 GB, Beige",electronics,1,21919
+62439448,1,HOM-0044,"Mixwell 750W Mixer Grinder, Green",home_kitchen,1,3039
+62439448,2,HOM-0044,"Mixwell 750W Mixer Grinder, Green",home_kitchen,1,3039
+62439448,3,HOM-0040,"Tavaa 3-Litre Pressure Cooker, White",home_kitchen,1,1439
+76617370,1,BKS-0057,Pagecraft Novel: The Monsoon Ledger,books_media,1,349
+76617370,2,FSH-0029,"UrbanThread Slim Fit Jeans, Blue",fashion,1,1319
+76617370,3,FSH-0034,"Kaafi Running Sneakers, Beige",fashion,1,3959
+57010552,1,DGT-0069,ZentroMart Gift Card ₹500,digital,1,500
+42219938,1,FSH-0031,"UrbanThread Oversized Hoodie, White",fashion,1,1509
+34729238,1,HOM-0047,"Aangan 3-Seater Fabric Sofa, Grey",home_kitchen,1,21859
+86415378,1,ELE-0013,"Kestrel K7 Smartphone 256 GB, Grey",electronics,1,20499
+98679202,1,HOM-0046,"Aangan Cotton Double Bedsheet Set, Maroon",home_kitchen,1,1439
+98679202,2,BTY-0052,Gulmohar Matte Lipstick,beauty_sealed,1,559
+98679202,3,ELE-0015,"Kestrel K5 Smartphone 64 GB, Maroon",electronics,1,9629
+78530976,1,ELE-0014,"Kestrel K7 Smartphone 256 GB, Beige",electronics,1,21919
+70491043,1,GRO-0061,FarmFolk California Almonds 500 g,grocery,3,629
+70491043,2,GRO-0063,FarmFolk Cold-pressed Groundnut Oil 1 L,grocery,2,259
+70491043,3,GRO-0059,FarmFolk Basmati Rice 5 kg,grocery,2,629
+14554446,1,ELE-0015,"Kestrel K5 Smartphone 64 GB, Maroon",electronics,1,9629
+97621706,1,FSH-0035,"Kaafi Leather Sandals, Black",fashion,1,1149
+97621706,2,BKS-0057,Pagecraft Novel: The Monsoon Ledger,books_media,1,349
+31301014,1,HOM-0040,"Tavaa 3-Litre Pressure Cooker, White",home_kitchen,1,1439
+31301014,2,HOM-0042,"Tavaa Non-stick Frying Pan 26 cm, Black",home_kitchen,1,739
+31301014,3,HOM-0051,"Brewly Electric Kettle 1.5 L, Beige",home_kitchen,1,899
+73984000,1,BTY-0052,Gulmohar Matte Lipstick,beauty_sealed,1,559
+89650743,1,FSH-0026,"Rangoli Cotton Straight Kurta, White",fashion,1,699
+89650743,2,FSH-0036,"Sootra Linen Shirt, Maroon",fashion,1,1019
+66062619,1,BTY-0054,Neelam Herbal Face Wash 150 ml,beauty_sealed,1,239
+66062619,2,ELE-0019,"Zentro Boom Max Bluetooth Speaker, Grey",electronics,1,5019
+66062619,3,HOM-0042,"Tavaa Non-stick Frying Pan 26 cm, Black",home_kitchen,1,739
+78960722,1,FSH-0038,"Sootra Canvas Tote Bag, Green",fashion,1,979
+97766201,1,HOM-0051,"Brewly Electric Kettle 1.5 L, Beige",home_kitchen,1,899
+55680862,1,ELE-0018,"Zentro Boom Mini Bluetooth Speaker, Grey",electronics,1,1709
+41710311,1,HOM-0044,"Mixwell 750W Mixer Grinder, Green",home_kitchen,1,3039
+41710311,2,HOM-0042,"Tavaa Non-stick Frying Pan 26 cm, Black",home_kitchen,1,739
+54022906,1,FSH-0037,"Sootra Canvas Tote Bag, Black",fashion,1,729
+54022906,2,FSH-0028,"Rangoli Silk Blend Saree, Green",fashion,1,4239
+52786362,1,ELE-0019,"Zentro Boom Max Bluetooth Speaker, Grey",electronics,1,5019
+11912765,1,ELE-0009,"Voltra PowerCell 10000 mAh Power Bank, Beige",electronics,1,1009
+11912765,2,FSH-0032,"UrbanThread Oversized Hoodie, Green",fashion,1,1579
+91441186,1,FSH-0037,"Sootra Canvas Tote Bag, Black",fashion,1,729
+91441186,2,FSH-0030,"UrbanThread Slim Fit Jeans, Maroon",fashion,1,1959
+91441186,3,FSH-0032,"UrbanThread Oversized Hoodie, Green",fashion,1,1579
+25665860,1,FSH-0033,"Kaafi Running Sneakers, White",fashion,1,2799
+25665860,2,HOM-0043,"Mixwell 750W Mixer Grinder, Maroon",home_kitchen,1,4309
+49405162,1,GRO-0062,FarmFolk Fresh Vegetable Box,grocery,2,329
+14782432,1,HOM-0043,"Mixwell 750W Mixer Grinder, Maroon",home_kitchen,1,4309
+14782432,2,HOM-0048,"Aangan 3-Seater Fabric Sofa, Black",home_kitchen,1,25809
+40406507,1,FSH-0038,"Sootra Canvas Tote Bag, Green",fashion,1,979
+40406507,2,FSH-0038,"Sootra Canvas Tote Bag, Green",fashion,1,979
+29414662,1,HOM-0041,"Tavaa 3-Litre Pressure Cooker, Grey",home_kitchen,1,1609
+29414662,2,HOM-0043,"Mixwell 750W Mixer Grinder, Maroon",home_kitchen,1,4309
+29414662,3,FSH-0030,"UrbanThread Slim Fit Jeans, Maroon",fashion,1,1959
+93304217,1,FSH-0033,"Kaafi Running Sneakers, White",fashion,1,2799
+93304217,2,FSH-0028,"Rangoli Silk Blend Saree, Green",fashion,1,4239
+79474632,1,FSH-0029,"UrbanThread Slim Fit Jeans, Blue",fashion,1,1319
+79474632,2,FSH-0035,"Kaafi Leather Sandals, Black",fashion,1,1149
+59026711,1,ELE-0014,"Kestrel K7 Smartphone 256 GB, Beige",electronics,1,21919
+81684487,1,INR-0067,"Comfi One-piece Swimsuit, Blue",innerwear,1,1959
+81684487,2,INR-0064,"Comfi Cotton Briefs (Pack of 3), Blue",innerwear,1,409
+40165693,1,FSH-0031,"UrbanThread Oversized Hoodie, White",fashion,1,1509
+40165693,2,FSH-0037,"Sootra Canvas Tote Bag, Black",fashion,1,729
+40165693,3,FSH-0032,"UrbanThread Oversized Hoodie, Green",fashion,1,1579
+83599782,1,BKS-0058,Pagecraft Guide: Learn Python in 30 Days,books_media,1,789
+83599782,2,FSH-0028,"Rangoli Silk Blend Saree, Green",fashion,1,4239
+83599782,3,ELE-0019,"Zentro Boom Max Bluetooth Speaker, Grey",electronics,1,5019
+82950976,1,ELE-0008,"Voltra PowerCell 10000 mAh Power Bank, Green",electronics,1,1059
+94044366,1,BKS-0056,Pagecraft A5 Ruled Notebook (Pack of 4),books_media,1,319
+68980892,1,ELE-0001,"Nimbus X2 Wireless Earbuds, Beige",electronics,1,2199
+81630824,1,FSH-0027,"Rangoli Silk Blend Saree, Grey",fashion,1,2809
+81630824,2,ELE-0025,"Orbix USB-C Cable 1.5 m, Maroon",electronics,1,349
+81630824,3,ELE-0022,"Kestrel Book 14 Laptop, Black",electronics,1,51439
+54285272,1,FSH-0039,"Sootra Leather Backpack, Grey",fashion,1,3559
+54285272,2,FSH-0029,"UrbanThread Slim Fit Jeans, Blue",fashion,1,1319
+54285272,3,FSH-0028,"Rangoli Silk Blend Saree, Green",fashion,1,4239
+96586639,1,FSH-0035,"Kaafi Leather Sandals, Black",fashion,1,1149
+57760543,1,FSH-0027,"Rangoli Silk Blend Saree, Grey",fashion,1,2809
+57760543,2,FSH-0034,"Kaafi Running Sneakers, Beige",fashion,1,3959
+57760543,3,FSH-0036,"Sootra Linen Shirt, Maroon",fashion,1,1019
+48631331,1,ELE-0022,"Kestrel Book 14 Laptop, Black",electronics,1,51439
+68572789,1,ELE-0019,"Zentro Boom Max Bluetooth Speaker, Grey",electronics,1,5019
+40222229,1,INR-0068,"Comfi One-piece Swimsuit, Black",innerwear,1,1619
+91289854,1,FSH-0036,"Sootra Linen Shirt, Maroon",fashion,1,1019
+91289854,2,FSH-0038,"Sootra Canvas Tote Bag, Green",fashion,1,979
+91289854,3,BKS-0056,Pagecraft A5 Ruled Notebook (Pack of 4),books_media,1,319
+80681421,1,GRO-0060,FarmFolk Mango Pickle 500 g,grocery,3,159
+80681421,2,GRO-0060,FarmFolk Mango Pickle 500 g,grocery,1,159
+65958189,1,INR-0068,"Comfi One-piece Swimsuit, Black",innerwear,1,1619
+70057290,1,ELE-0019,"Zentro Boom Max Bluetooth Speaker, Grey",electronics,1,5019
+70057290,2,ELE-0004,"Nimbus X2 Lite Wireless Earbuds, Beige",electronics,1,1169
+56699621,1,FSH-0038,"Sootra Canvas Tote Bag, Green",fashion,1,979
+51569456,1,FSH-0026,"Rangoli Cotton Straight Kurta, White",fashion,1,699
+38666374,1,BKS-0057,Pagecraft Novel: The Monsoon Ledger,books_media,1,349
+38666374,2,BKS-0056,Pagecraft A5 Ruled Notebook (Pack of 4),books_media,1,319
+14040145,1,FSH-0030,"UrbanThread Slim Fit Jeans, Maroon",fashion,1,1959
+46051680,1,GRO-0059,FarmFolk Basmati Rice 5 kg,grocery,2,629
+84502083,1,HOM-0048,"Aangan 3-Seater Fabric Sofa, Black",home_kitchen,1,25809
+77680582,1,BKS-0058,Pagecraft Guide: Learn Python in 30 Days,books_media,1,789
+57235996,1,ELE-0020,"Zentro Vista 43-inch 4K Smart TV, Beige",electronics,1,31809
+74457579,1,BKS-0057,Pagecraft Novel: The Monsoon Ledger,books_media,1,349
+74457579,2,BKS-0056,Pagecraft A5 Ruled Notebook (Pack of 4),books_media,1,319
+74457579,3,BKS-0057,Pagecraft Novel: The Monsoon Ledger,books_media,1,349
+85275424,1,FSH-0028,"Rangoli Silk Blend Saree, Green",fashion,1,4239
+43181230,1,FSH-0033,"Kaafi Running Sneakers, White",fashion,1,2799
+43181230,2,FSH-0039,"Sootra Leather Backpack, Grey",fashion,1,3559
+39825282,1,FSH-0036,"Sootra Linen Shirt, Maroon",fashion,1,1019
+39825282,2,FSH-0028,"Rangoli Silk Blend Saree, Green",fashion,1,4239
+48731650,1,FSH-0034,"Kaafi Running Sneakers, Beige",fashion,1,3959
+48731650,2,FSH-0027,"Rangoli Silk Blend Saree, Grey",fashion,1,2809
+48731650,3,FSH-0031,"UrbanThread Oversized Hoodie, White",fashion,1,1509
+34306163,1,GRO-0061,FarmFolk California Almonds 500 g,grocery,3,629
+34306163,2,GRO-0059,FarmFolk Basmati Rice 5 kg,grocery,2,629
+34306163,3,GRO-0062,FarmFolk Fresh Vegetable Box,grocery,2,329
+98730711,1,ELE-0022,"Kestrel Book 14 Laptop, Black",electronics,1,51439
+98730711,2,ELE-0023,"Kestrel Book 14 Laptop, Grey",electronics,1,45999
+98730711,3,BKS-0056,Pagecraft A5 Ruled Notebook (Pack of 4),books_media,1,319
+40151312,1,GRO-0063,FarmFolk Cold-pressed Groundnut Oil 1 L,grocery,3,259
+19388971,1,FSH-0030,"UrbanThread Slim Fit Jeans, Maroon",fashion,1,1959
+19388971,2,FSH-0036,"Sootra Linen Shirt, Maroon",fashion,1,1019
+52944230,1,FSH-0036,"Sootra Linen Shirt, Maroon",fashion,1,1019
+52944230,2,FSH-0028,"Rangoli Silk Blend Saree, Green",fashion,1,4239
+54248286,1,ELE-0008,"Voltra PowerCell 10000 mAh Power Bank, Green",electronics,1,1059
+30910832,1,GRO-0061,FarmFolk California Almonds 500 g,grocery,3,629
+75805134,1,GRO-0063,FarmFolk Cold-pressed Groundnut Oil 1 L,grocery,2,259
+75805134,2,GRO-0060,FarmFolk Mango Pickle 500 g,grocery,3,159
+60383998,1,BTY-0052,Gulmohar Matte Lipstick,beauty_sealed,1,559
+60383998,2,BTY-0052,Gulmohar Matte Lipstick,beauty_sealed,1,559
+60383998,3,BTY-0055,Neelam Eau de Parfum 50 ml,beauty_sealed,1,2099
+42705936,1,ELE-0015,"Kestrel K5 Smartphone 64 GB, Maroon",electronics,1,9629
+93997658,1,ELE-0009,"Voltra PowerCell 10000 mAh Power Bank, Beige",electronics,1,1009
+93997658,2,ELE-0016,"Orbix Fit 3 Smartwatch, Green",electronics,1,3409
+93997658,3,ELE-0003,"Nimbus X2 Pro Wireless Earbuds, Blue",electronics,1,4229
+11155106,1,ELE-0015,"Kestrel K5 Smartphone 64 GB, Maroon",electronics,1,9629
+31733098,1,FSH-0036,"Sootra Linen Shirt, Maroon",fashion,1,1019
+31733098,2,INR-0067,"Comfi One-piece Swimsuit, Blue",innerwear,1,1959
+11173230,1,FSH-0027,"Rangoli Silk Blend Saree, Grey",fashion,1,2809
+11173230,2,FSH-0026,"Rangoli Cotton Straight Kurta, White",fashion,1,699
+27150280,1,FSH-0036,"Sootra Linen Shirt, Maroon",fashion,1,1019
+27150280,2,FSH-0035,"Kaafi Leather Sandals, Black",fashion,1,1149
+27150280,3,FSH-0026,"Rangoli Cotton Straight Kurta, White",fashion,1,699
+66383693,1,BTY-0053,Gulmohar Vitamin C Face Serum 30 ml,beauty_sealed,1,929
+66383693,2,BTY-0052,Gulmohar Matte Lipstick,beauty_sealed,1,559
+66383693,3,BTY-0052,Gulmohar Matte Lipstick,beauty_sealed,1,559
+24890299,1,GRO-0059,FarmFolk Basmati Rice 5 kg,grocery,2,629
+77351310,1,FSH-0034,"Kaafi Running Sneakers, Beige",fashion,1,3959
+77351310,2,BTY-0055,Neelam Eau de Parfum 50 ml,beauty_sealed,1,2099
+30682252,1,ELE-0007,"Voltra PowerCell 20000 mAh Power Bank, Beige",electronics,1,1709
+87161722,1,HOM-0048,"Aangan 3-Seater Fabric Sofa, Black",home_kitchen,1,25809
+87161722,2,HOM-0042,"Tavaa Non-stick Frying Pan 26 cm, Black",home_kitchen,1,739
+47826620,1,ELE-0019,"Zentro Boom Max Bluetooth Speaker, Grey",electronics,1,5019
+84191714,1,FSH-0035,"Kaafi Leather Sandals, Black",fashion,1,1149
+25075244,1,ELE-0001,"Nimbus X2 Wireless Earbuds, Beige",electronics,1,2199
+25075244,2,FSH-0036,"Sootra Linen Shirt, Maroon",fashion,1,1019
+25075244,3,ELE-0008,"Voltra PowerCell 10000 mAh Power Bank, Green",electronics,1,1059
+98528571,1,GRO-0059,FarmFolk Basmati Rice 5 kg,grocery,3,629
+98528571,2,GRO-0062,FarmFolk Fresh Vegetable Box,grocery,1,329
+48302740,1,BKS-0056,Pagecraft A5 Ruled Notebook (Pack of 4),books_media,1,319
+48302740,2,BKS-0058,Pagecraft Guide: Learn Python in 30 Days,books_media,1,789
+48302740,3,BKS-0056,Pagecraft A5 Ruled Notebook (Pack of 4),books_media,1,319
+55899895,1,FSH-0028,"Rangoli Silk Blend Saree, Green",fashion,1,4239
+30885231,1,FSH-0037,"Sootra Canvas Tote Bag, Black",fashion,1,729
+30885231,2,ELE-0005,"Nimbus X2 Lite Wireless Earbuds, Grey",electronics,1,1229
+43260937,1,INR-0068,"Comfi One-piece Swimsuit, Black",innerwear,1,1619
+37113676,1,GRO-0063,FarmFolk Cold-pressed Groundnut Oil 1 L,grocery,1,259
+37113676,2,GRO-0060,FarmFolk Mango Pickle 500 g,grocery,1,159
+37113676,3,GRO-0060,FarmFolk Mango Pickle 500 g,grocery,3,159
+14245657,1,BKS-0057,Pagecraft Novel: The Monsoon Ledger,books_media,1,349
+29241285,1,INR-0066,"Comfi Sports Bra, Grey",innerwear,1,509
+29241285,2,INR-0066,"Comfi Sports Bra, Grey",innerwear,1,509
+57252074,1,GRO-0059,FarmFolk Basmati Rice 5 kg,grocery,1,629
+57252074,2,GRO-0061,FarmFolk California Almonds 500 g,grocery,1,629
+57252074,3,GRO-0063,FarmFolk Cold-pressed Groundnut Oil 1 L,grocery,3,259
+45934539,1,ELE-0025,"Orbix USB-C Cable 1.5 m, Maroon",electronics,1,349
+51918907,1,FSH-0033,"Kaafi Running Sneakers, White",fashion,1,2799
+51918907,2,FSH-0029,"UrbanThread Slim Fit Jeans, Blue",fashion,1,1319
+51918907,3,FSH-0026,"Rangoli Cotton Straight Kurta, White",fashion,1,699
+64489605,1,BKS-0058,Pagecraft Guide: Learn Python in 30 Days,books_media,1,789
+64489605,2,BKS-0058,Pagecraft Guide: Learn Python in 30 Days,books_media,1,789
+64489605,3,BKS-0056,Pagecraft A5 Ruled Notebook (Pack of 4),books_media,1,319
+77757086,1,INR-0064,"Comfi Cotton Briefs (Pack of 3), Blue",innerwear,1,409
+36122124,1,FSH-0028,"Rangoli Silk Blend Saree, Green",fashion,1,4239
+54741142,1,GRO-0060,FarmFolk Mango Pickle 500 g,grocery,2,159
+42751788,1,FSH-0026,"Rangoli Cotton Straight Kurta, White",fashion,1,699
+42751788,2,FSH-0030,"UrbanThread Slim Fit Jeans, Maroon",fashion,1,1959
+42751788,3,FSH-0039,"Sootra Leather Backpack, Grey",fashion,1,3559
+71080567,1,INR-0064,"Comfi Cotton Briefs (Pack of 3), Blue",innerwear,1,409
+71080567,2,FSH-0027,"Rangoli Silk Blend Saree, Grey",fashion,1,2809
+55412385,1,BKS-0057,Pagecraft Novel: The Monsoon Ledger,books_media,1,349
+55412385,2,BKS-0057,Pagecraft Novel: The Monsoon Ledger,books_media,1,349
+47455431,1,ELE-0021,"Zentro Vista 43-inch 4K Smart TV, Grey",electronics,1,31649
+47455431,2,ELE-0024,"Orbix USB-C Cable 1.5 m, Grey",electronics,1,319
+47455431,3,ELE-0011,"Kestrel K7 Smartphone 128 GB, White",electronics,1,17139
+73312464,1,INR-0065,"Comfi Cotton Briefs (Pack of 3), Beige",innerwear,1,529
+73312464,2,BKS-0057,Pagecraft Novel: The Monsoon Ledger,books_media,1,349
+41126645,1,GRO-0061,FarmFolk California Almonds 500 g,grocery,1,629
+24770900,1,ELE-0016,"Orbix Fit 3 Smartwatch, Green",electronics,1,3409
+24770900,2,ELE-0021,"Zentro Vista 43-inch 4K Smart TV, Grey",electronics,1,31649
+20013521,1,GRO-0061,FarmFolk California Almonds 500 g,grocery,1,629
+20013521,2,GRO-0061,FarmFolk California Almonds 500 g,grocery,3,629
+98591922,1,ELE-0006,"Voltra PowerCell 20000 mAh Power Bank, Maroon",electronics,1,1679
+98591922,2,ELE-0001,"Nimbus X2 Wireless Earbuds, Beige",electronics,1,2199
+98591922,3,BTY-0052,Gulmohar Matte Lipstick,beauty_sealed,1,559
+78477443,1,FSH-0027,"Rangoli Silk Blend Saree, Grey",fashion,1,2809
+87293073,1,GRO-0060,FarmFolk Mango Pickle 500 g,grocery,3,159
+49619337,1,FSH-0037,"Sootra Canvas Tote Bag, Black",fashion,1,729
+49619337,2,ELE-0019,"Zentro Boom Max Bluetooth Speaker, Grey",electronics,1,5019
+49619337,3,BTY-0055,Neelam Eau de Parfum 50 ml,beauty_sealed,1,2099
+95812905,1,BKS-0057,Pagecraft Novel: The Monsoon Ledger,books_media,1,349
+33197861,1,BTY-0054,Neelam Herbal Face Wash 150 ml,beauty_sealed,1,239
+76934982,1,BTY-0055,Neelam Eau de Parfum 50 ml,beauty_sealed,1,2099
+77503613,1,FSH-0034,"Kaafi Running Sneakers, Beige",fashion,1,3959
+77503613,2,FSH-0035,"Kaafi Leather Sandals, Black",fashion,1,1149
+77503613,3,FSH-0028,"Rangoli Silk Blend Saree, Green",fashion,1,4239
+63985517,1,HOM-0048,"Aangan 3-Seater Fabric Sofa, Black",home_kitchen,1,25809
+18394753,1,FSH-0036,"Sootra Linen Shirt, Maroon",fashion,1,1019
+18394753,2,FSH-0037,"Sootra Canvas Tote Bag, Black",fashion,1,729
+80151755,1,HOM-0047,"Aangan 3-Seater Fabric Sofa, Grey",home_kitchen,1,21859
+80151755,2,HOM-0040,"Tavaa 3-Litre Pressure Cooker, White",home_kitchen,1,1439
+80151755,3,HOM-0040,"Tavaa 3-Litre Pressure Cooker, White",home_kitchen,1,1439
+13757249,1,ELE-0023,"Kestrel Book 14 Laptop, Grey",electronics,1,45999
+80476975,1,FSH-0029,"UrbanThread Slim Fit Jeans, Blue",fashion,1,1319
+46500089,1,FSH-0036,"Sootra Linen Shirt, Maroon",fashion,1,1019
+46500089,2,FSH-0036,"Sootra Linen Shirt, Maroon",fashion,1,1019
+46500089,3,FSH-0032,"UrbanThread Oversized Hoodie, Green",fashion,1,1579
+94396275,1,FSH-0026,"Rangoli Cotton Straight Kurta, White",fashion,1,699
+94396275,2,FSH-0026,"Rangoli Cotton Straight Kurta, White",fashion,1,699
+94396275,3,HOM-0044,"Mixwell 750W Mixer Grinder, Green",home_kitchen,1,3039
+48812628,1,ELE-0007,"Voltra PowerCell 20000 mAh Power Bank, Beige",electronics,1,1709
+94377623,1,GRO-0060,FarmFolk Mango Pickle 500 g,grocery,1,159
+38446059,1,HOM-0042,"Tavaa Non-stick Frying Pan 26 cm, Black",home_kitchen,1,739
+38446059,2,HOM-0040,"Tavaa 3-Litre Pressure Cooker, White",home_kitchen,1,1439
+38446059,3,HOM-0049,"Aangan Engineered Wood Study Table, Blue",home_kitchen,1,10639
+52582494,1,FSH-0038,"Sootra Canvas Tote Bag, Green",fashion,1,979
+10289710,1,FSH-0039,"Sootra Leather Backpack, Grey",fashion,1,3559
+10289710,2,FSH-0028,"Rangoli Silk Blend Saree, Green",fashion,1,4239
+72719124,1,ELE-0005,"Nimbus X2 Lite Wireless Earbuds, Grey",electronics,1,1229
+44750770,1,INR-0065,"Comfi Cotton Briefs (Pack of 3), Beige",innerwear,1,529
+44750770,2,INR-0067,"Comfi One-piece Swimsuit, Blue",innerwear,1,1959
+48606638,1,ELE-0009,"Voltra PowerCell 10000 mAh Power Bank, Beige",electronics,1,1009
+48606638,2,HOM-0043,"Mixwell 750W Mixer Grinder, Maroon",home_kitchen,1,4309
+48606638,3,FSH-0036,"Sootra Linen Shirt, Maroon",fashion,1,1019
+12068971,1,FSH-0028,"Rangoli Silk Blend Saree, Green",fashion,1,4239
+26403404,1,BTY-0055,Neelam Eau de Parfum 50 ml,beauty_sealed,1,2099
+26403404,2,BKS-0057,Pagecraft Novel: The Monsoon Ledger,books_media,1,349
+26403404,3,HOM-0050,"Aangan Engineered Wood Study Table, Grey",home_kitchen,1,9239
+54994073,1,FSH-0035,"Kaafi Leather Sandals, Black",fashion,1,1149
+54994073,2,FSH-0037,"Sootra Canvas Tote Bag, Black",fashion,1,729
+54994073,3,FSH-0027,"Rangoli Silk Blend Saree, Grey",fashion,1,2809
+19534456,1,ELE-0001,"Nimbus X2 Wireless Earbuds, Beige",electronics,1,2199
+67234644,1,FSH-0026,"Rangoli Cotton Straight Kurta, White",fashion,1,699
+67234644,2,FSH-0039,"Sootra Leather Backpack, Grey",fashion,1,3559
+67234644,3,FSH-0035,"Kaafi Leather Sandals, Black",fashion,1,1149
+98463156,1,ELE-0011,"Kestrel K7 Smartphone 128 GB, White",electronics,1,17139
+62000255,1,FSH-0027,"Rangoli Silk Blend Saree, Grey",fashion,1,2809
+90367585,1,FSH-0026,"Rangoli Cotton Straight Kurta, White",fashion,1,699
+90367585,2,FSH-0029,"UrbanThread Slim Fit Jeans, Blue",fashion,1,1319
+91402223,1,FSH-0036,"Sootra Linen Shirt, Maroon",fashion,1,1019
+91402223,2,FSH-0026,"Rangoli Cotton Straight Kurta, White",fashion,1,699
+91402223,3,FSH-0026,"Rangoli Cotton Straight Kurta, White",fashion,1,699
+18056604,1,FSH-0039,"Sootra Leather Backpack, Grey",fashion,1,3559
+18056604,2,FSH-0038,"Sootra Canvas Tote Bag, Green",fashion,1,979
+61484865,1,HOM-0048,"Aangan 3-Seater Fabric Sofa, Black",home_kitchen,1,25809
+69446425,1,HOM-0047,"Aangan 3-Seater Fabric Sofa, Grey",home_kitchen,1,21859
+75768457,1,HOM-0050,"Aangan Engineered Wood Study Table, Grey",home_kitchen,1,9239
+75768457,2,HOM-0048,"Aangan 3-Seater Fabric Sofa, Black",home_kitchen,1,25809
+75768457,3,HOM-0046,"Aangan Cotton Double Bedsheet Set, Maroon",home_kitchen,1,1439
+82628404,1,BTY-0053,Gulmohar Vitamin C Face Serum 30 ml,beauty_sealed,1,929
+82628404,2,BTY-0055,Neelam Eau de Parfum 50 ml,beauty_sealed,1,2099
+82628404,3,BTY-0055,Neelam Eau de Parfum 50 ml,beauty_sealed,1,2099
+19769923,1,ELE-0006,"Voltra PowerCell 20000 mAh Power Bank, Maroon",electronics,1,1679
+19769923,2,BTY-0053,Gulmohar Vitamin C Face Serum 30 ml,beauty_sealed,1,929
+19769923,3,ELE-0007,"Voltra PowerCell 20000 mAh Power Bank, Beige",electronics,1,1709
+82025078,1,ELE-0021,"Zentro Vista 43-inch 4K Smart TV, Grey",electronics,1,31649
+22023467,1,BTY-0052,Gulmohar Matte Lipstick,beauty_sealed,1,559
+22023467,2,FSH-0029,"UrbanThread Slim Fit Jeans, Blue",fashion,1,1319
+22023467,3,HOM-0049,"Aangan Engineered Wood Study Table, Blue",home_kitchen,1,10639
+63971015,1,GRO-0063,FarmFolk Cold-pressed Groundnut Oil 1 L,grocery,2,259
+63971015,2,GRO-0062,FarmFolk Fresh Vegetable Box,grocery,3,329
+63971015,3,GRO-0062,FarmFolk Fresh Vegetable Box,grocery,3,329
+48196636,1,FSH-0036,"Sootra Linen Shirt, Maroon",fashion,1,1019
+48196636,2,FSH-0032,"UrbanThread Oversized Hoodie, Green",fashion,1,1579
+48196636,3,FSH-0039,"Sootra Leather Backpack, Grey",fashion,1,3559
+98108334,1,HOM-0047,"Aangan 3-Seater Fabric Sofa, Grey",home_kitchen,1,21859
+56141712,1,HOM-0041,"Tavaa 3-Litre Pressure Cooker, Grey",home_kitchen,1,1609
+56141712,2,HOM-0042,"Tavaa Non-stick Frying Pan 26 cm, Black",home_kitchen,1,739
+27730640,1,GRO-0063,FarmFolk Cold-pressed Groundnut Oil 1 L,grocery,3,259
+27730640,2,GRO-0061,FarmFolk California Almonds 500 g,grocery,1,629
+20691454,1,FSH-0035,"Kaafi Leather Sandals, Black",fashion,1,1149
+20691454,2,FSH-0027,"Rangoli Silk Blend Saree, Grey",fashion,1,2809
+12678469,1,ELE-0004,"Nimbus X2 Lite Wireless Earbuds, Beige",electronics,1,1169
+28999938,1,ELE-0017,"Orbix Fit 3 Pro Smartwatch, Blue",electronics,1,7219
+89748202,1,ELE-0004,"Nimbus X2 Lite Wireless Earbuds, Beige",electronics,1,1169
+10364035,1,ELE-0018,"Zentro Boom Mini Bluetooth Speaker, Grey",electronics,1,1709
+10364035,2,DGT-0069,ZentroMart Gift Card ₹500,digital,1,500
+14323826,1,ELE-0001,"Nimbus X2 Wireless Earbuds, Beige",electronics,1,2199
+68310814,1,BKS-0057,Pagecraft Novel: The Monsoon Ledger,books_media,1,349
+35060257,1,ELE-0003,"Nimbus X2 Pro Wireless Earbuds, Blue",electronics,1,4229
+16653853,1,FSH-0037,"Sootra Canvas Tote Bag, Black",fashion,1,729
+16653853,2,ELE-0010,"Voltra 65W GaN Fast Charger, Green",electronics,1,2189
+16653853,3,FSH-0033,"Kaafi Running Sneakers, White",fashion,1,2799
+39095948,1,ELE-0018,"Zentro Boom Mini Bluetooth Speaker, Grey",electronics,1,1709
+39095948,2,FSH-0030,"UrbanThread Slim Fit Jeans, Maroon",fashion,1,1959
+39095948,3,HOM-0050,"Aangan Engineered Wood Study Table, Grey",home_kitchen,1,9239
+50801038,1,ELE-0012,"Kestrel K7 Smartphone 128 GB, Beige",electronics,1,17549
+50801038,2,BTY-0054,Neelam Herbal Face Wash 150 ml,beauty_sealed,1,239
+44641621,1,HOM-0050,"Aangan Engineered Wood Study Table, Grey",home_kitchen,1,9239
+44641621,2,ELE-0004,"Nimbus X2 Lite Wireless Earbuds, Beige",electronics,1,1169
+86855696,1,FSH-0033,"Kaafi Running Sneakers, White",fashion,1,2799
+86855696,2,FSH-0027,"Rangoli Silk Blend Saree, Grey",fashion,1,2809
+21414928,1,GRO-0063,FarmFolk Cold-pressed Groundnut Oil 1 L,grocery,3,259
+31171629,1,FSH-0033,"Kaafi Running Sneakers, White",fashion,1,2799
+20322965,1,ELE-0023,"Kestrel Book 14 Laptop, Grey",electronics,1,45999
+63266264,1,BKS-0056,Pagecraft A5 Ruled Notebook (Pack of 4),books_media,1,319
+63266264,2,BKS-0058,Pagecraft Guide: Learn Python in 30 Days,books_media,1,789
+63266264,3,BKS-0056,Pagecraft A5 Ruled Notebook (Pack of 4),books_media,1,319
+53856489,1,ELE-0024,"Orbix USB-C Cable 1.5 m, Grey",electronics,1,319
+78604919,1,FSH-0030,"UrbanThread Slim Fit Jeans, Maroon",fashion,1,1959
+47883833,1,ELE-0025,"Orbix USB-C Cable 1.5 m, Maroon",electronics,1,349
+47883833,2,ELE-0021,"Zentro Vista 43-inch 4K Smart TV, Grey",electronics,1,31649
+50388456,1,ELE-0025,"Orbix USB-C Cable 1.5 m, Maroon",electronics,1,349
+52156905,1,FSH-0032,"UrbanThread Oversized Hoodie, Green",fashion,1,1579
+47206712,1,GRO-0063,FarmFolk Cold-pressed Groundnut Oil 1 L,grocery,1,259
+47206712,2,GRO-0059,FarmFolk Basmati Rice 5 kg,grocery,1,629
+29643030,1,FSH-0032,"UrbanThread Oversized Hoodie, Green",fashion,1,1579
+97829406,1,BTY-0054,Neelam Herbal Face Wash 150 ml,beauty_sealed,1,239
+97829406,2,FSH-0036,"Sootra Linen Shirt, Maroon",fashion,1,1019
+62511574,1,FSH-0030,"UrbanThread Slim Fit Jeans, Maroon",fashion,1,1959
+62511574,2,FSH-0038,"Sootra Canvas Tote Bag, Green",fashion,1,979
+53664480,1,BTY-0055,Neelam Eau de Parfum 50 ml,beauty_sealed,1,2099
+53664480,2,BTY-0052,Gulmohar Matte Lipstick,beauty_sealed,1,559
+54986737,1,ELE-0009,"Voltra PowerCell 10000 mAh Power Bank, Beige",electronics,1,1009
+95195775,1,ELE-0005,"Nimbus X2 Lite Wireless Earbuds, Grey",electronics,1,1229
+75196237,1,FSH-0032,"UrbanThread Oversized Hoodie, Green",fashion,1,1579
+75196237,2,FSH-0036,"Sootra Linen Shirt, Maroon",fashion,1,1019
+81311923,1,FSH-0026,"Rangoli Cotton Straight Kurta, White",fashion,1,699
+81311923,2,FSH-0031,"UrbanThread Oversized Hoodie, White",fashion,1,1509
+33336167,1,INR-0066,"Comfi Sports Bra, Grey",innerwear,1,509
+96474892,1,ELE-0004,"Nimbus X2 Lite Wireless Earbuds, Beige",electronics,1,1169
+96474892,2,BTY-0055,Neelam Eau de Parfum 50 ml,beauty_sealed,1,2099
+47110231,1,GRO-0062,FarmFolk Fresh Vegetable Box,grocery,1,329
+47110231,2,GRO-0062,FarmFolk Fresh Vegetable Box,grocery,3,329
+47110231,3,GRO-0059,FarmFolk Basmati Rice 5 kg,grocery,3,629
+66492475,1,GRO-0063,FarmFolk Cold-pressed Groundnut Oil 1 L,grocery,3,259
+66492475,2,GRO-0060,FarmFolk Mango Pickle 500 g,grocery,1,159
+66492475,3,GRO-0061,FarmFolk California Almonds 500 g,grocery,2,629
+83066272,1,BTY-0054,Neelam Herbal Face Wash 150 ml,beauty_sealed,1,239
+71952303,1,HOM-0046,"Aangan Cotton Double Bedsheet Set, Maroon",home_kitchen,1,1439
+71952303,2,ELE-0001,"Nimbus X2 Wireless Earbuds, Beige",electronics,1,2199
+71952303,3,FSH-0034,"Kaafi Running Sneakers, Beige",fashion,1,3959
+60072307,1,ELE-0014,"Kestrel K7 Smartphone 256 GB, Beige",electronics,1,21919
+43113825,1,ELE-0013,"Kestrel K7 Smartphone 256 GB, Grey",electronics,1,20499
+80002896,1,BTY-0052,Gulmohar Matte Lipstick,beauty_sealed,1,559
+56584862,1,HOM-0049,"Aangan Engineered Wood Study Table, Blue",home_kitchen,1,10639
+11096100,1,INR-0067,"Comfi One-piece Swimsuit, Blue",innerwear,1,1959
+11096100,2,INR-0068,"Comfi One-piece Swimsuit, Black",innerwear,1,1619
+11096100,3,INR-0068,"Comfi One-piece Swimsuit, Black",innerwear,1,1619
+82423417,1,ELE-0003,"Nimbus X2 Pro Wireless Earbuds, Blue",electronics,1,4229
+45352142,1,ELE-0005,"Nimbus X2 Lite Wireless Earbuds, Grey",electronics,1,1229
+45352142,2,FSH-0029,"UrbanThread Slim Fit Jeans, Blue",fashion,1,1319
+45352142,3,HOM-0044,"Mixwell 750W Mixer Grinder, Green",home_kitchen,1,3039
+99209932,1,ELE-0023,"Kestrel Book 14 Laptop, Grey",electronics,1,45999
+99209932,2,BTY-0055,Neelam Eau de Parfum 50 ml,beauty_sealed,1,2099
+71702654,1,FSH-0031,"UrbanThread Oversized Hoodie, White",fashion,1,1509
+84777773,1,GRO-0060,FarmFolk Mango Pickle 500 g,grocery,1,159
+84777773,2,GRO-0063,FarmFolk Cold-pressed Groundnut Oil 1 L,grocery,2,259
+84777773,3,GRO-0063,FarmFolk Cold-pressed Groundnut Oil 1 L,grocery,2,259
+93248370,1,FSH-0032,"UrbanThread Oversized Hoodie, Green",fashion,1,1579
+13645209,1,BTY-0055,Neelam Eau de Parfum 50 ml,beauty_sealed,1,2099
+13645209,2,ELE-0012,"Kestrel K7 Smartphone 128 GB, Beige",electronics,1,17549
+30435445,1,FSH-0028,"Rangoli Silk Blend Saree, Green",fashion,1,4239
+30435445,2,FSH-0039,"Sootra Leather Backpack, Grey",fashion,1,3559
+30435445,3,FSH-0027,"Rangoli Silk Blend Saree, Grey",fashion,1,2809
+57336001,1,ELE-0024,"Orbix USB-C Cable 1.5 m, Grey",electronics,1,319
+73506777,1,FSH-0029,"UrbanThread Slim Fit Jeans, Blue",fashion,1,1319
+73506777,2,FSH-0028,"Rangoli Silk Blend Saree, Green",fashion,1,4239
+10395095,1,GRO-0060,FarmFolk Mango Pickle 500 g,grocery,2,159
+72970087,1,GRO-0059,FarmFolk Basmati Rice 5 kg,grocery,1,629
+72970087,2,GRO-0061,FarmFolk California Almonds 500 g,grocery,3,629
+72970087,3,GRO-0060,FarmFolk Mango Pickle 500 g,grocery,2,159
+75016726,1,HOM-0041,"Tavaa 3-Litre Pressure Cooker, Grey",home_kitchen,1,1609
+75016726,2,HOM-0043,"Mixwell 750W Mixer Grinder, Maroon",home_kitchen,1,4309
+75016726,3,HOM-0050,"Aangan Engineered Wood Study Table, Grey",home_kitchen,1,9239
+18414394,1,GRO-0061,FarmFolk California Almonds 500 g,grocery,1,629
+26758030,1,FSH-0027,"Rangoli Silk Blend Saree, Grey",fashion,1,2809
+26758030,2,INR-0064,"Comfi Cotton Briefs (Pack of 3), Blue",innerwear,1,409
+88749005,1,HOM-0048,"Aangan 3-Seater Fabric Sofa, Black",home_kitchen,1,25809
+88749005,2,HOM-0040,"Tavaa 3-Litre Pressure Cooker, White",home_kitchen,1,1439
+88749005,3,HOM-0043,"Mixwell 750W Mixer Grinder, Maroon",home_kitchen,1,4309
+87640280,1,FSH-0031,"UrbanThread Oversized Hoodie, White",fashion,1,1509
+87640280,2,FSH-0039,"Sootra Leather Backpack, Grey",fashion,1,3559
+30277504,1,BKS-0057,Pagecraft Novel: The Monsoon Ledger,books_media,1,349
+30277504,2,BKS-0058,Pagecraft Guide: Learn Python in 30 Days,books_media,1,789
+41372001,1,ELE-0010,"Voltra 65W GaN Fast Charger, Green",electronics,1,2189
+18565089,1,BKS-0056,Pagecraft A5 Ruled Notebook (Pack of 4),books_media,1,319
+31856390,1,FSH-0028,"Rangoli Silk Blend Saree, Green",fashion,1,4239
+81812187,1,FSH-0033,"Kaafi Running Sneakers, White",fashion,1,2799
+31675633,1,HOM-0050,"Aangan Engineered Wood Study Table, Grey",home_kitchen,1,9239
+31675633,2,HOM-0040,"Tavaa 3-Litre Pressure Cooker, White",home_kitchen,1,1439
+63173620,1,BTY-0052,Gulmohar Matte Lipstick,beauty_sealed,1,559
+61135628,1,FSH-0029,"UrbanThread Slim Fit Jeans, Blue",fashion,1,1319
+61135628,2,FSH-0032,"UrbanThread Oversized Hoodie, Green",fashion,1,1579
+61135628,3,FSH-0039,"Sootra Leather Backpack, Grey",fashion,1,3559
+37474558,1,ELE-0008,"Voltra PowerCell 10000 mAh Power Bank, Green",electronics,1,1059
+37474558,2,ELE-0019,"Zentro Boom Max Bluetooth Speaker, Grey",electronics,1,5019
+37474558,3,ELE-0016,"Orbix Fit 3 Smartwatch, Green",electronics,1,3409
+44706505,1,BKS-0056,Pagecraft A5 Ruled Notebook (Pack of 4),books_media,1,319
+67830826,1,ELE-0020,"Zentro Vista 43-inch 4K Smart TV, Beige",electronics,1,31809
+71224600,1,BKS-0058,Pagecraft Guide: Learn Python in 30 Days,books_media,1,789
+71224600,2,BTY-0052,Gulmohar Matte Lipstick,beauty_sealed,1,559
+30058835,1,BKS-0058,Pagecraft Guide: Learn Python in 30 Days,books_media,1,789
+24552257,1,ELE-0014,"Kestrel K7 Smartphone 256 GB, Beige",electronics,1,21919
+76383680,1,HOM-0040,"Tavaa 3-Litre Pressure Cooker, White",home_kitchen,1,1439
+76383680,2,HOM-0047,"Aangan 3-Seater Fabric Sofa, Grey",home_kitchen,1,21859
+76383680,3,HOM-0044,"Mixwell 750W Mixer Grinder, Green",home_kitchen,1,3039
+89847746,1,FSH-0026,"Rangoli Cotton Straight Kurta, White",fashion,1,699
+89847746,2,FSH-0033,"Kaafi Running Sneakers, White",fashion,1,2799
+89847746,3,FSH-0029,"UrbanThread Slim Fit Jeans, Blue",fashion,1,1319
+16806493,1,INR-0066,"Comfi Sports Bra, Grey",innerwear,1,509
+58044061,1,FSH-0026,"Rangoli Cotton Straight Kurta, White",fashion,1,699
+29365949,1,BKS-0057,Pagecraft Novel: The Monsoon Ledger,books_media,1,349
+29365949,2,BKS-0058,Pagecraft Guide: Learn Python in 30 Days,books_media,1,789
+29365949,3,BKS-0057,Pagecraft Novel: The Monsoon Ledger,books_media,1,349
+99809590,1,FSH-0029,"UrbanThread Slim Fit Jeans, Blue",fashion,1,1319
+99809590,2,FSH-0035,"Kaafi Leather Sandals, Black",fashion,1,1149
+99809590,3,FSH-0029,"UrbanThread Slim Fit Jeans, Blue",fashion,1,1319
+10995495,1,FSH-0030,"UrbanThread Slim Fit Jeans, Maroon",fashion,1,1959
+99701039,1,ELE-0002,"Nimbus X2 Wireless Earbuds, Black",electronics,1,1899
+82504851,1,GRO-0062,FarmFolk Fresh Vegetable Box,grocery,3,329
+82504851,2,GRO-0062,FarmFolk Fresh Vegetable Box,grocery,1,329
+82504851,3,GRO-0062,FarmFolk Fresh Vegetable Box,grocery,1,329
+52368972,1,HOM-0046,"Aangan Cotton Double Bedsheet Set, Maroon",home_kitchen,1,1439
+36894139,1,HOM-0040,"Tavaa 3-Litre Pressure Cooker, White",home_kitchen,1,1439
+67410267,1,FSH-0026,"Rangoli Cotton Straight Kurta, White",fashion,1,699
+67410267,2,INR-0064,"Comfi Cotton Briefs (Pack of 3), Blue",innerwear,1,409
+28409936,1,HOM-0049,"Aangan Engineered Wood Study Table, Blue",home_kitchen,1,10639
+10428635,1,ELE-0018,"Zentro Boom Mini Bluetooth Speaker, Grey",electronics,1,1709
+59597145,1,GRO-0063,FarmFolk Cold-pressed Groundnut Oil 1 L,grocery,2,259
+59597145,2,GRO-0062,FarmFolk Fresh Vegetable Box,grocery,3,329
+59597145,3,GRO-0060,FarmFolk Mango Pickle 500 g,grocery,3,159
+94706496,1,FSH-0036,"Sootra Linen Shirt, Maroon",fashion,1,1019
+94706496,2,FSH-0026,"Rangoli Cotton Straight Kurta, White",fashion,1,699
+95719796,1,HOM-0045,"Aangan Cotton Double Bedsheet Set, White",home_kitchen,1,1759
+95719796,2,HOM-0050,"Aangan Engineered Wood Study Table, Grey",home_kitchen,1,9239
+40876975,1,HOM-0045,"Aangan Cotton Double Bedsheet Set, White",home_kitchen,1,1759
+40876975,2,ELE-0004,"Nimbus X2 Lite Wireless Earbuds, Beige",electronics,1,1169
+57658871,1,HOM-0050,"Aangan Engineered Wood Study Table, Grey",home_kitchen,1,9239
+57658871,2,FSH-0035,"Kaafi Leather Sandals, Black",fashion,1,1149
+88911160,1,ELE-0005,"Nimbus X2 Lite Wireless Earbuds, Grey",electronics,1,1229
+88911160,2,ELE-0017,"Orbix Fit 3 Pro Smartwatch, Blue",electronics,1,7219
+88170599,1,BTY-0053,Gulmohar Vitamin C Face Serum 30 ml,beauty_sealed,1,929
+88170599,2,BTY-0053,Gulmohar Vitamin C Face Serum 30 ml,beauty_sealed,1,929
+88170599,3,BTY-0055,Neelam Eau de Parfum 50 ml,beauty_sealed,1,2099
+99716779,1,HOM-0051,"Brewly Electric Kettle 1.5 L, Beige",home_kitchen,1,899
+63031193,1,ELE-0003,"Nimbus X2 Pro Wireless Earbuds, Blue",electronics,1,4229
+59727018,1,BTY-0055,Neelam Eau de Parfum 50 ml,beauty_sealed,1,2099
+59727018,2,BTY-0053,Gulmohar Vitamin C Face Serum 30 ml,beauty_sealed,1,929
+59727018,3,BTY-0052,Gulmohar Matte Lipstick,beauty_sealed,1,559
+24072408,1,ELE-0009,"Voltra PowerCell 10000 mAh Power Bank, Beige",electronics,1,1009
+84341270,1,ELE-0015,"Kestrel K5 Smartphone 64 GB, Maroon",electronics,1,9629
+78784733,1,FSH-0033,"Kaafi Running Sneakers, White",fashion,1,2799
+78784733,2,FSH-0027,"Rangoli Silk Blend Saree, Grey",fashion,1,2809
+78784733,3,ELE-0002,"Nimbus X2 Wireless Earbuds, Black",electronics,1,1899
+24179736,1,GRO-0060,FarmFolk Mango Pickle 500 g,grocery,3,159
+23541067,1,FSH-0035,"Kaafi Leather Sandals, Black",fashion,1,1149
+23541067,2,FSH-0031,"UrbanThread Oversized Hoodie, White",fashion,1,1509
+78169019,1,FSH-0032,"UrbanThread Oversized Hoodie, Green",fashion,1,1579
+18172768,1,ELE-0020,"Zentro Vista 43-inch 4K Smart TV, Beige",electronics,1,31809
+82060695,1,FSH-0033,"Kaafi Running Sneakers, White",fashion,1,2799
+82060695,2,FSH-0028,"Rangoli Silk Blend Saree, Green",fashion,1,4239
+27735306,1,BKS-0058,Pagecraft Guide: Learn Python in 30 Days,books_media,1,789
+27735306,2,BKS-0056,Pagecraft A5 Ruled Notebook (Pack of 4),books_media,1,319
+27735306,3,BKS-0056,Pagecraft A5 Ruled Notebook (Pack of 4),books_media,1,319
+52919386,1,GRO-0062,FarmFolk Fresh Vegetable Box,grocery,2,329
+52919386,2,GRO-0059,FarmFolk Basmati Rice 5 kg,grocery,3,629
+52919386,3,GRO-0063,FarmFolk Cold-pressed Groundnut Oil 1 L,grocery,2,259
+36056214,1,ELE-0006,"Voltra PowerCell 20000 mAh Power Bank, Maroon",electronics,1,1679
+69919335,1,FSH-0035,"Kaafi Leather Sandals, Black",fashion,1,1149
+69919335,2,FSH-0039,"Sootra Leather Backpack, Grey",fashion,1,3559
+69919335,3,FSH-0029,"UrbanThread Slim Fit Jeans, Blue",fashion,1,1319
+24123560,1,FSH-0036,"Sootra Linen Shirt, Maroon",fashion,1,1019
+84437076,1,GRO-0059,FarmFolk Basmati Rice 5 kg,grocery,2,629
+84437076,2,GRO-0061,FarmFolk California Almonds 500 g,grocery,3,629
+84437076,3,GRO-0062,FarmFolk Fresh Vegetable Box,grocery,1,329
+71548520,1,FSH-0039,"Sootra Leather Backpack, Grey",fashion,1,3559
+71548520,2,ELE-0002,"Nimbus X2 Wireless Earbuds, Black",electronics,1,1899
+71548520,3,BKS-0057,Pagecraft Novel: The Monsoon Ledger,books_media,1,349
+73247027,1,ELE-0023,"Kestrel Book 14 Laptop, Grey",electronics,1,45999
+73247027,2,HOM-0042,"Tavaa Non-stick Frying Pan 26 cm, Black",home_kitchen,1,739
+73247027,3,BTY-0052,Gulmohar Matte Lipstick,beauty_sealed,1,559
+28282115,1,FSH-0035,"Kaafi Leather Sandals, Black",fashion,1,1149
+28282115,2,FSH-0032,"UrbanThread Oversized Hoodie, Green",fashion,1,1579
+28282115,3,FSH-0027,"Rangoli Silk Blend Saree, Grey",fashion,1,2809
+40240482,1,FSH-0035,"Kaafi Leather Sandals, Black",fashion,1,1149
+60163946,1,HOM-0044,"Mixwell 750W Mixer Grinder, Green",home_kitchen,1,3039
+60163946,2,HOM-0042,"Tavaa Non-stick Frying Pan 26 cm, Black",home_kitchen,1,739
+44693382,1,BKS-0056,Pagecraft A5 Ruled Notebook (Pack of 4),books_media,1,319
+44693382,2,BKS-0057,Pagecraft Novel: The Monsoon Ledger,books_media,1,349
+44693382,3,BKS-0056,Pagecraft A5 Ruled Notebook (Pack of 4),books_media,1,319
+77597769,1,BTY-0054,Neelam Herbal Face Wash 150 ml,beauty_sealed,1,239
+77597769,2,BTY-0052,Gulmohar Matte Lipstick,beauty_sealed,1,559
+93415344,1,FSH-0027,"Rangoli Silk Blend Saree, Grey",fashion,1,2809
+57723321,1,ELE-0025,"Orbix USB-C Cable 1.5 m, Maroon",electronics,1,349
+57723321,2,ELE-0018,"Zentro Boom Mini Bluetooth Speaker, Grey",electronics,1,1709
+31344654,1,INR-0064,"Comfi Cotton Briefs (Pack of 3), Blue",innerwear,1,409
+55100398,1,FSH-0033,"Kaafi Running Sneakers, White",fashion,1,2799
+55100398,2,FSH-0031,"UrbanThread Oversized Hoodie, White",fashion,1,1509
+29437596,1,ELE-0005,"Nimbus X2 Lite Wireless Earbuds, Grey",electronics,1,1229
+29437596,2,ELE-0020,"Zentro Vista 43-inch 4K Smart TV, Beige",electronics,1,31809
+68415983,1,GRO-0059,FarmFolk Basmati Rice 5 kg,grocery,2,629
+47350883,1,ELE-0021,"Zentro Vista 43-inch 4K Smart TV, Grey",electronics,1,31649
+83595584,1,BTY-0054,Neelam Herbal Face Wash 150 ml,beauty_sealed,1,239
+20356642,1,BKS-0058,Pagecraft Guide: Learn Python in 30 Days,books_media,1,789
+20356642,2,BKS-0057,Pagecraft Novel: The Monsoon Ledger,books_media,1,349
+20356642,3,BKS-0058,Pagecraft Guide: Learn Python in 30 Days,books_media,1,789
+47101615,1,BTY-0054,Neelam Herbal Face Wash 150 ml,beauty_sealed,1,239
+47101615,2,BTY-0052,Gulmohar Matte Lipstick,beauty_sealed,1,559
+47101615,3,BTY-0052,Gulmohar Matte Lipstick,beauty_sealed,1,559
+16305790,1,BTY-0055,Neelam Eau de Parfum 50 ml,beauty_sealed,1,2099
+16305790,2,ELE-0023,"Kestrel Book 14 Laptop, Grey",electronics,1,45999
+16305790,3,FSH-0028,"Rangoli Silk Blend Saree, Green",fashion,1,4239
+15630172,1,ELE-0005,"Nimbus X2 Lite Wireless Earbuds, Grey",electronics,1,1229
+80952958,1,ELE-0025,"Orbix USB-C Cable 1.5 m, Maroon",electronics,1,349
+86446575,1,HOM-0043,"Mixwell 750W Mixer Grinder, Maroon",home_kitchen,1,4309
+86446575,2,HOM-0043,"Mixwell 750W Mixer Grinder, Maroon",home_kitchen,1,4309
+86446575,3,HOM-0040,"Tavaa 3-Litre Pressure Cooker, White",home_kitchen,1,1439
+10072217,1,ELE-0014,"Kestrel K7 Smartphone 256 GB, Beige",electronics,1,21919
+44086467,1,ELE-0014,"Kestrel K7 Smartphone 256 GB, Beige",electronics,1,21919
+40993343,1,FSH-0039,"Sootra Leather Backpack, Grey",fashion,1,3559
+40993343,2,FSH-0031,"UrbanThread Oversized Hoodie, White",fashion,1,1509
+40993343,3,ELE-0015,"Kestrel K5 Smartphone 64 GB, Maroon",electronics,1,9629
+59275016,1,INR-0066,"Comfi Sports Bra, Grey",innerwear,1,509
+56678572,1,FSH-0038,"Sootra Canvas Tote Bag, Green",fashion,1,979
+56678572,2,BTY-0053,Gulmohar Vitamin C Face Serum 30 ml,beauty_sealed,1,929
+65616033,1,FSH-0031,"UrbanThread Oversized Hoodie, White",fashion,1,1509
+65616033,2,BTY-0052,Gulmohar Matte Lipstick,beauty_sealed,1,559
+65616033,3,INR-0068,"Comfi One-piece Swimsuit, Black",innerwear,1,1619
+38934719,1,FSH-0026,"Rangoli Cotton Straight Kurta, White",fashion,1,699
+94691693,1,BKS-0057,Pagecraft Novel: The Monsoon Ledger,books_media,1,349
+94691693,2,BKS-0056,Pagecraft A5 Ruled Notebook (Pack of 4),books_media,1,319
+94691693,3,BKS-0058,Pagecraft Guide: Learn Python in 30 Days,books_media,1,789
+36192160,1,HOM-0048,"Aangan 3-Seater Fabric Sofa, Black",home_kitchen,1,25809
+36192160,2,HOM-0045,"Aangan Cotton Double Bedsheet Set, White",home_kitchen,1,1759
+33401384,1,FSH-0039,"Sootra Leather Backpack, Grey",fashion,1,3559
+33401384,2,FSH-0027,"Rangoli Silk Blend Saree, Grey",fashion,1,2809
+33401384,3,FSH-0028,"Rangoli Silk Blend Saree, Green",fashion,1,4239
+32240327,1,ELE-0014,"Kestrel K7 Smartphone 256 GB, Beige",electronics,1,21919
+94266436,1,FSH-0035,"Kaafi Leather Sandals, Black",fashion,1,1149
+94266436,2,ELE-0011,"Kestrel K7 Smartphone 128 GB, White",electronics,1,17139
+14155489,1,GRO-0063,FarmFolk Cold-pressed Groundnut Oil 1 L,grocery,2,259
+14155489,2,GRO-0061,FarmFolk California Almonds 500 g,grocery,1,629
+66445836,1,ELE-0019,"Zentro Boom Max Bluetooth Speaker, Grey",electronics,1,5019
+66445836,2,ELE-0010,"Voltra 65W GaN Fast Charger, Green",electronics,1,2189
+66445836,3,ELE-0019,"Zentro Boom Max Bluetooth Speaker, Grey",electronics,1,5019
+64102033,1,ELE-0021,"Zentro Vista 43-inch 4K Smart TV, Grey",electronics,1,31649
+47344512,1,FSH-0039,"Sootra Leather Backpack, Grey",fashion,1,3559
+47344512,2,FSH-0039,"Sootra Leather Backpack, Grey",fashion,1,3559
+83396780,1,BKS-0056,Pagecraft A5 Ruled Notebook (Pack of 4),books_media,1,319
+83396780,2,ELE-0014,"Kestrel K7 Smartphone 256 GB, Beige",electronics,1,21919
+15557244,1,GRO-0060,FarmFolk Mango Pickle 500 g,grocery,3,159
+15557244,2,GRO-0061,FarmFolk California Almonds 500 g,grocery,3,629
+10869260,1,HOM-0046,"Aangan Cotton Double Bedsheet Set, Maroon",home_kitchen,1,1439
+94725791,1,GRO-0061,FarmFolk California Almonds 500 g,grocery,3,629
+94725791,2,GRO-0059,FarmFolk Basmati Rice 5 kg,grocery,3,629
+22662671,1,GRO-0061,FarmFolk California Almonds 500 g,grocery,3,629
+87829695,1,GRO-0059,FarmFolk Basmati Rice 5 kg,grocery,1,629
+32667898,1,FSH-0027,"Rangoli Silk Blend Saree, Grey",fashion,1,2809
+32667898,2,ELE-0020,"Zentro Vista 43-inch 4K Smart TV, Beige",electronics,1,31809
+79802102,1,ELE-0011,"Kestrel K7 Smartphone 128 GB, White",electronics,1,17139
+75101120,1,HOM-0046,"Aangan Cotton Double Bedsheet Set, Maroon",home_kitchen,1,1439
+15990240,1,BKS-0057,Pagecraft Novel: The Monsoon Ledger,books_media,1,349
+15990240,2,BKS-0057,Pagecraft Novel: The Monsoon Ledger,books_media,1,349
+15990240,3,BKS-0058,Pagecraft Guide: Learn Python in 30 Days,books_media,1,789
+23059647,1,FSH-0026,"Rangoli Cotton Straight Kurta, White",fashion,1,699
+23059647,2,FSH-0032,"UrbanThread Oversized Hoodie, Green",fashion,1,1579
+45237752,1,FSH-0030,"UrbanThread Slim Fit Jeans, Maroon",fashion,1,1959
+71451850,1,BTY-0054,Neelam Herbal Face Wash 150 ml,beauty_sealed,1,239
+71451850,2,FSH-0036,"Sootra Linen Shirt, Maroon",fashion,1,1019
+30736470,1,ELE-0022,"Kestrel Book 14 Laptop, Black",electronics,1,51439
+30736470,2,FSH-0029,"UrbanThread Slim Fit Jeans, Blue",fashion,1,1319
+30736470,3,ELE-0005,"Nimbus X2 Lite Wireless Earbuds, Grey",electronics,1,1229
+32739564,1,FSH-0039,"Sootra Leather Backpack, Grey",fashion,1,3559
+91381064,1,INR-0066,"Comfi Sports Bra, Grey",innerwear,1,509
+91381064,2,INR-0065,"Comfi Cotton Briefs (Pack of 3), Beige",innerwear,1,529
+15911102,1,HOM-0048,"Aangan 3-Seater Fabric Sofa, Black",home_kitchen,1,25809
+55507488,1,HOM-0050,"Aangan Engineered Wood Study Table, Grey",home_kitchen,1,9239
+79842056,1,HOM-0049,"Aangan Engineered Wood Study Table, Blue",home_kitchen,1,10639
+59809804,1,ELE-0011,"Kestrel K7 Smartphone 128 GB, White",electronics,1,17139
+59809804,2,INR-0066,"Comfi Sports Bra, Grey",innerwear,1,509
+29553592,1,FSH-0027,"Rangoli Silk Blend Saree, Grey",fashion,1,2809
+52741273,1,FSH-0026,"Rangoli Cotton Straight Kurta, White",fashion,1,699
+52741273,2,FSH-0035,"Kaafi Leather Sandals, Black",fashion,1,1149
+51190082,1,FSH-0038,"Sootra Canvas Tote Bag, Green",fashion,1,979
+51190082,2,FSH-0029,"UrbanThread Slim Fit Jeans, Blue",fashion,1,1319
+51190082,3,FSH-0028,"Rangoli Silk Blend Saree, Green",fashion,1,4239
+94666628,1,HOM-0051,"Brewly Electric Kettle 1.5 L, Beige",home_kitchen,1,899
+94666628,2,HOM-0040,"Tavaa 3-Litre Pressure Cooker, White",home_kitchen,1,1439
+94666628,3,HOM-0046,"Aangan Cotton Double Bedsheet Set, Maroon",home_kitchen,1,1439
+18348474,1,FSH-0026,"Rangoli Cotton Straight Kurta, White",fashion,1,699
+62021837,1,FSH-0035,"Kaafi Leather Sandals, Black",fashion,1,1149
+62021837,2,FSH-0030,"UrbanThread Slim Fit Jeans, Maroon",fashion,1,1959
+62021837,3,FSH-0037,"Sootra Canvas Tote Bag, Black",fashion,1,729
+74564419,1,HOM-0050,"Aangan Engineered Wood Study Table, Grey",home_kitchen,1,9239
+96160007,1,FSH-0026,"Rangoli Cotton Straight Kurta, White",fashion,1,699
+97378296,1,HOM-0041,"Tavaa 3-Litre Pressure Cooker, Grey",home_kitchen,1,1609
+80116218,1,FSH-0028,"Rangoli Silk Blend Saree, Green",fashion,1,4239
+80116218,2,FSH-0036,"Sootra Linen Shirt, Maroon",fashion,1,1019
+35196099,1,FSH-0032,"UrbanThread Oversized Hoodie, Green",fashion,1,1579
+36053513,1,FSH-0034,"Kaafi Running Sneakers, Beige",fashion,1,3959
+36053513,2,FSH-0033,"Kaafi Running Sneakers, White",fashion,1,2799
+36053513,3,FSH-0033,"Kaafi Running Sneakers, White",fashion,1,2799
+44536390,1,HOM-0051,"Brewly Electric Kettle 1.5 L, Beige",home_kitchen,1,899
+44536390,2,ELE-0012,"Kestrel K7 Smartphone 128 GB, Beige",electronics,1,17549
+44536390,3,FSH-0029,"UrbanThread Slim Fit Jeans, Blue",fashion,1,1319
+16538868,1,FSH-0031,"UrbanThread Oversized Hoodie, White",fashion,1,1509
+92994692,1,FSH-0032,"UrbanThread Oversized Hoodie, Green",fashion,1,1579
+92994692,2,FSH-0027,"Rangoli Silk Blend Saree, Grey",fashion,1,2809
+69223532,1,FSH-0033,"Kaafi Running Sneakers, White",fashion,1,2799
+69223532,2,FSH-0027,"Rangoli Silk Blend Saree, Grey",fashion,1,2809
+98245730,1,ELE-0018,"Zentro Boom Mini Bluetooth Speaker, Grey",electronics,1,1709
+98245730,2,ELE-0016,"Orbix Fit 3 Smartwatch, Green",electronics,1,3409
+98245730,3,ELE-0010,"Voltra 65W GaN Fast Charger, Green",electronics,1,2189
+13396965,1,FSH-0030,"UrbanThread Slim Fit Jeans, Maroon",fashion,1,1959
+47832394,1,ELE-0019,"Zentro Boom Max Bluetooth Speaker, Grey",electronics,1,5019
+82788870,1,FSH-0030,"UrbanThread Slim Fit Jeans, Maroon",fashion,1,1959
+82788870,2,FSH-0037,"Sootra Canvas Tote Bag, Black",fashion,1,729
+12989714,1,GRO-0060,FarmFolk Mango Pickle 500 g,grocery,2,159
+12989714,2,GRO-0062,FarmFolk Fresh Vegetable Box,grocery,2,329
+12989714,3,GRO-0059,FarmFolk Basmati Rice 5 kg,grocery,2,629
+91137091,1,FSH-0029,"UrbanThread Slim Fit Jeans, Blue",fashion,1,1319
+91137091,2,FSH-0037,"Sootra Canvas Tote Bag, Black",fashion,1,729
+91137091,3,FSH-0036,"Sootra Linen Shirt, Maroon",fashion,1,1019
+69135285,1,BTY-0052,Gulmohar Matte Lipstick,beauty_sealed,1,559
+69135285,2,BTY-0055,Neelam Eau de Parfum 50 ml,beauty_sealed,1,2099
+69135285,3,BTY-0055,Neelam Eau de Parfum 50 ml,beauty_sealed,1,2099
+43493918,1,GRO-0060,FarmFolk Mango Pickle 500 g,grocery,2,159
+43493918,2,GRO-0061,FarmFolk California Almonds 500 g,grocery,2,629
+49109689,1,ELE-0009,"Voltra PowerCell 10000 mAh Power Bank, Beige",electronics,1,1009
+42404291,1,FSH-0029,"UrbanThread Slim Fit Jeans, Blue",fashion,1,1319
+75447568,1,HOM-0046,"Aangan Cotton Double Bedsheet Set, Maroon",home_kitchen,1,1439
+75447568,2,HOM-0042,"Tavaa Non-stick Frying Pan 26 cm, Black",home_kitchen,1,739
+91378200,1,FSH-0038,"Sootra Canvas Tote Bag, Green",fashion,1,979
+96102411,1,ELE-0023,"Kestrel Book 14 Laptop, Grey",electronics,1,45999
+92471953,1,ELE-0025,"Orbix USB-C Cable 1.5 m, Maroon",electronics,1,349
+37245232,1,BTY-0053,Gulmohar Vitamin C Face Serum 30 ml,beauty_sealed,1,929
+69700359,1,FSH-0030,"UrbanThread Slim Fit Jeans, Maroon",fashion,1,1959
+69700359,2,FSH-0029,"UrbanThread Slim Fit Jeans, Blue",fashion,1,1319
+69700359,3,FSH-0033,"Kaafi Running Sneakers, White",fashion,1,2799
+84765616,1,HOM-0047,"Aangan 3-Seater Fabric Sofa, Grey",home_kitchen,1,21859
+84765616,2,HOM-0040,"Tavaa 3-Litre Pressure Cooker, White",home_kitchen,1,1439
+17778946,1,GRO-0062,FarmFolk Fresh Vegetable Box,grocery,1,329
+17778946,2,GRO-0061,FarmFolk California Almonds 500 g,grocery,1,629
+47867436,1,ELE-0019,"Zentro Boom Max Bluetooth Speaker, Grey",electronics,1,5019
+47867436,2,BTY-0053,Gulmohar Vitamin C Face Serum 30 ml,beauty_sealed,1,929
+21800793,1,ELE-0001,"Nimbus X2 Wireless Earbuds, Beige",electronics,1,2199
+75211524,1,ELE-0015,"Kestrel K5 Smartphone 64 GB, Maroon",electronics,1,9629
+79665496,1,FSH-0036,"Sootra Linen Shirt, Maroon",fashion,1,1019
+79665496,2,FSH-0035,"Kaafi Leather Sandals, Black",fashion,1,1149
+79665496,3,FSH-0038,"Sootra Canvas Tote Bag, Green",fashion,1,979
+98420148,1,FSH-0039,"Sootra Leather Backpack, Grey",fashion,1,3559
+77900463,1,FSH-0037,"Sootra Canvas Tote Bag, Black",fashion,1,729
+77900463,2,FSH-0028,"Rangoli Silk Blend Saree, Green",fashion,1,4239
+90957217,1,FSH-0038,"Sootra Canvas Tote Bag, Green",fashion,1,979
+90957217,2,ELE-0006,"Voltra PowerCell 20000 mAh Power Bank, Maroon",electronics,1,1679
+90957217,3,INR-0065,"Comfi Cotton Briefs (Pack of 3), Beige",innerwear,1,529
+35863772,1,HOM-0043,"Mixwell 750W Mixer Grinder, Maroon",home_kitchen,1,4309
+35863772,2,HOM-0050,"Aangan Engineered Wood Study Table, Grey",home_kitchen,1,9239
+35863772,3,HOM-0040,"Tavaa 3-Litre Pressure Cooker, White",home_kitchen,1,1439
+58062929,1,ELE-0011,"Kestrel K7 Smartphone 128 GB, White",electronics,1,17139
+25746817,1,FSH-0028,"Rangoli Silk Blend Saree, Green",fashion,1,4239
+25746817,2,FSH-0038,"Sootra Canvas Tote Bag, Green",fashion,1,979
+76041193,1,BTY-0054,Neelam Herbal Face Wash 150 ml,beauty_sealed,1,239
+76041193,2,BTY-0055,Neelam Eau de Parfum 50 ml,beauty_sealed,1,2099
+69386236,1,FSH-0032,"UrbanThread Oversized Hoodie, Green",fashion,1,1579
+69386236,2,HOM-0042,"Tavaa Non-stick Frying Pan 26 cm, Black",home_kitchen,1,739
+69386236,3,BKS-0058,Pagecraft Guide: Learn Python in 30 Days,books_media,1,789
+70669460,1,ELE-0018,"Zentro Boom Mini Bluetooth Speaker, Grey",electronics,1,1709
+76821328,1,HOM-0040,"Tavaa 3-Litre Pressure Cooker, White",home_kitchen,1,1439
+76821328,2,HOM-0050,"Aangan Engineered Wood Study Table, Grey",home_kitchen,1,9239
+76821328,3,HOM-0044,"Mixwell 750W Mixer Grinder, Green",home_kitchen,1,3039
+89766159,1,GRO-0060,FarmFolk Mango Pickle 500 g,grocery,1,159
+89766159,2,GRO-0062,FarmFolk Fresh Vegetable Box,grocery,1,329
+89766159,3,GRO-0060,FarmFolk Mango Pickle 500 g,grocery,2,159
+43165903,1,FSH-0037,"Sootra Canvas Tote Bag, Black",fashion,1,729
+43165903,2,ELE-0021,"Zentro Vista 43-inch 4K Smart TV, Grey",electronics,1,31649
+43165903,3,FSH-0029,"UrbanThread Slim Fit Jeans, Blue",fashion,1,1319
+54361429,1,FSH-0028,"Rangoli Silk Blend Saree, Green",fashion,1,4239
+51259163,1,FSH-0030,"UrbanThread Slim Fit Jeans, Maroon",fashion,1,1959
+54659257,1,ELE-0013,"Kestrel K7 Smartphone 256 GB, Grey",electronics,1,20499
+54659257,2,FSH-0028,"Rangoli Silk Blend Saree, Green",fashion,1,4239
+54659257,3,BKS-0058,Pagecraft Guide: Learn Python in 30 Days,books_media,1,789
+90751238,1,BKS-0056,Pagecraft A5 Ruled Notebook (Pack of 4),books_media,1,319
+84573306,1,GRO-0063,FarmFolk Cold-pressed Groundnut Oil 1 L,grocery,1,259
+37989364,1,ELE-0015,"Kestrel K5 Smartphone 64 GB, Maroon",electronics,1,9629
+72010704,1,FSH-0026,"Rangoli Cotton Straight Kurta, White",fashion,1,699
+72010704,2,FSH-0029,"UrbanThread Slim Fit Jeans, Blue",fashion,1,1319
+72010704,3,FSH-0028,"Rangoli Silk Blend Saree, Green",fashion,1,4239
+25782457,1,HOM-0042,"Tavaa Non-stick Frying Pan 26 cm, Black",home_kitchen,1,739
+28109608,1,ELE-0010,"Voltra 65W GaN Fast Charger, Green",electronics,1,2189
+28109608,2,ELE-0016,"Orbix Fit 3 Smartwatch, Green",electronics,1,3409
+55071177,1,GRO-0063,FarmFolk Cold-pressed Groundnut Oil 1 L,grocery,1,259
+55071177,2,GRO-0061,FarmFolk California Almonds 500 g,grocery,3,629
+12769335,1,FSH-0026,"Rangoli Cotton Straight Kurta, White",fashion,1,699
+76625879,1,ELE-0022,"Kestrel Book 14 Laptop, Black",electronics,1,51439
+53542935,1,HOM-0041,"Tavaa 3-Litre Pressure Cooker, Grey",home_kitchen,1,1609
+53542935,2,HOM-0051,"Brewly Electric Kettle 1.5 L, Beige",home_kitchen,1,899
+53542935,3,HOM-0042,"Tavaa Non-stick Frying Pan 26 cm, Black",home_kitchen,1,739
+65334223,1,BKS-0057,Pagecraft Novel: The Monsoon Ledger,books_media,1,349
+65334223,2,BKS-0058,Pagecraft Guide: Learn Python in 30 Days,books_media,1,789
+78189464,1,GRO-0060,FarmFolk Mango Pickle 500 g,grocery,1,159
+78189464,2,GRO-0061,FarmFolk California Almonds 500 g,grocery,3,629
+97451342,1,HOM-0045,"Aangan Cotton Double Bedsheet Set, White",home_kitchen,1,1759
+97451342,2,HOM-0045,"Aangan Cotton Double Bedsheet Set, White",home_kitchen,1,1759
+97451342,3,HOM-0046,"Aangan Cotton Double Bedsheet Set, Maroon",home_kitchen,1,1439
+67970646,1,DGT-0069,ZentroMart Gift Card ₹500,digital,1,500
+67970646,2,FSH-0032,"UrbanThread Oversized Hoodie, Green",fashion,1,1579
+62547222,1,ELE-0014,"Kestrel K7 Smartphone 256 GB, Beige",electronics,1,21919
+90546335,1,ELE-0012,"Kestrel K7 Smartphone 128 GB, Beige",electronics,1,17549
+25118159,1,FSH-0031,"UrbanThread Oversized Hoodie, White",fashion,1,1509
+50420837,1,ELE-0002,"Nimbus X2 Wireless Earbuds, Black",electronics,1,1899
+82659764,1,ELE-0017,"Orbix Fit 3 Pro Smartwatch, Blue",electronics,1,7219
+82659764,2,HOM-0040,"Tavaa 3-Litre Pressure Cooker, White",home_kitchen,1,1439
+56094167,1,ELE-0014,"Kestrel K7 Smartphone 256 GB, Beige",electronics,1,21919
+98369200,1,GRO-0060,FarmFolk Mango Pickle 500 g,grocery,1,159
+98369200,2,GRO-0063,FarmFolk Cold-pressed Groundnut Oil 1 L,grocery,2,259
+59267213,1,ELE-0008,"Voltra PowerCell 10000 mAh Power Bank, Green",electronics,1,1059
+73227988,1,GRO-0059,FarmFolk Basmati Rice 5 kg,grocery,3,629
+73227988,2,GRO-0063,FarmFolk Cold-pressed Groundnut Oil 1 L,grocery,2,259
+47962497,1,FSH-0029,"UrbanThread Slim Fit Jeans, Blue",fashion,1,1319
+77872192,1,FSH-0029,"UrbanThread Slim Fit Jeans, Blue",fashion,1,1319
+77872192,2,FSH-0030,"UrbanThread Slim Fit Jeans, Maroon",fashion,1,1959
+77872192,3,FSH-0030,"UrbanThread Slim Fit Jeans, Maroon",fashion,1,1959
+18990316,1,ELE-0019,"Zentro Boom Max Bluetooth Speaker, Grey",electronics,1,5019
+20102006,1,FSH-0033,"Kaafi Running Sneakers, White",fashion,1,2799
+20102006,2,FSH-0028,"Rangoli Silk Blend Saree, Green",fashion,1,4239
+94622329,1,ELE-0015,"Kestrel K5 Smartphone 64 GB, Maroon",electronics,1,9629
+96725350,1,FSH-0035,"Kaafi Leather Sandals, Black",fashion,1,1149
+96725350,2,FSH-0030,"UrbanThread Slim Fit Jeans, Maroon",fashion,1,1959
+96725350,3,FSH-0031,"UrbanThread Oversized Hoodie, White",fashion,1,1509
+58376637,1,ELE-0021,"Zentro Vista 43-inch 4K Smart TV, Grey",electronics,1,31649
+58376637,2,ELE-0002,"Nimbus X2 Wireless Earbuds, Black",electronics,1,1899
+58376637,3,ELE-0022,"Kestrel Book 14 Laptop, Black",electronics,1,51439
+87351630,1,ELE-0004,"Nimbus X2 Lite Wireless Earbuds, Beige",electronics,1,1169
+87351630,2,FSH-0030,"UrbanThread Slim Fit Jeans, Maroon",fashion,1,1959
+87351630,3,FSH-0037,"Sootra Canvas Tote Bag, Black",fashion,1,729
+48998866,1,ELE-0023,"Kestrel Book 14 Laptop, Grey",electronics,1,45999
+57409410,1,ELE-0021,"Zentro Vista 43-inch 4K Smart TV, Grey",electronics,1,31649
+11012356,1,ELE-0015,"Kestrel K5 Smartphone 64 GB, Maroon",electronics,1,9629
+13023272,1,GRO-0060,FarmFolk Mango Pickle 500 g,grocery,2,159
+60505358,1,FSH-0030,"UrbanThread Slim Fit Jeans, Maroon",fashion,1,1959
+60505358,2,HOM-0048,"Aangan 3-Seater Fabric Sofa, Black",home_kitchen,1,25809
+69506336,1,FSH-0032,"UrbanThread Oversized Hoodie, Green",fashion,1,1579
+69506336,2,ELE-0006,"Voltra PowerCell 20000 mAh Power Bank, Maroon",electronics,1,1679
+69506336,3,FSH-0027,"Rangoli Silk Blend Saree, Grey",fashion,1,2809
+64246364,1,FSH-0030,"UrbanThread Slim Fit Jeans, Maroon",fashion,1,1959
+95800812,1,FSH-0030,"UrbanThread Slim Fit Jeans, Maroon",fashion,1,1959
+95800812,2,ELE-0003,"Nimbus X2 Pro Wireless Earbuds, Blue",electronics,1,4229
+88428819,1,BTY-0052,Gulmohar Matte Lipstick,beauty_sealed,1,559
+88428819,2,FSH-0035,"Kaafi Leather Sandals, Black",fashion,1,1149
+56039397,1,INR-0067,"Comfi One-piece Swimsuit, Blue",innerwear,1,1959
+35167925,1,FSH-0033,"Kaafi Running Sneakers, White",fashion,1,2799
+35167925,2,FSH-0038,"Sootra Canvas Tote Bag, Green",fashion,1,979
+36176425,1,INR-0067,"Comfi One-piece Swimsuit, Blue",innerwear,1,1959
+36176425,2,BKS-0057,Pagecraft Novel: The Monsoon Ledger,books_media,1,349
+80291482,1,FSH-0034,"Kaafi Running Sneakers, Beige",fashion,1,3959
+80291482,2,FSH-0030,"UrbanThread Slim Fit Jeans, Maroon",fashion,1,1959
+80291482,3,FSH-0037,"Sootra Canvas Tote Bag, Black",fashion,1,729
+65757495,1,ELE-0013,"Kestrel K7 Smartphone 256 GB, Grey",electronics,1,20499
+50883707,1,GRO-0060,FarmFolk Mango Pickle 500 g,grocery,1,159
+50883707,2,GRO-0059,FarmFolk Basmati Rice 5 kg,grocery,3,629
+40895934,1,ELE-0015,"Kestrel K5 Smartphone 64 GB, Maroon",electronics,1,9629
+40895934,2,BTY-0052,Gulmohar Matte Lipstick,beauty_sealed,1,559
+31045395,1,INR-0065,"Comfi Cotton Briefs (Pack of 3), Beige",innerwear,1,529
+92395886,1,FSH-0030,"UrbanThread Slim Fit Jeans, Maroon",fashion,1,1959
+92395886,2,FSH-0032,"UrbanThread Oversized Hoodie, Green",fashion,1,1579
+53520763,1,FSH-0035,"Kaafi Leather Sandals, Black",fashion,1,1149
+53520763,2,FSH-0029,"UrbanThread Slim Fit Jeans, Blue",fashion,1,1319
+23670855,1,GRO-0061,FarmFolk California Almonds 500 g,grocery,1,629
+23670855,2,GRO-0061,FarmFolk California Almonds 500 g,grocery,3,629
+26779351,1,HOM-0051,"Brewly Electric Kettle 1.5 L, Beige",home_kitchen,1,899
+26779351,2,ELE-0019,"Zentro Boom Max Bluetooth Speaker, Grey",electronics,1,5019
+26779351,3,BTY-0053,Gulmohar Vitamin C Face Serum 30 ml,beauty_sealed,1,929
+93721791,1,ELE-0011,"Kestrel K7 Smartphone 128 GB, White",electronics,1,17139
+28648109,1,FSH-0033,"Kaafi Running Sneakers, White",fashion,1,2799
+81603169,1,HOM-0045,"Aangan Cotton Double Bedsheet Set, White",home_kitchen,1,1759
+81603169,2,FSH-0030,"UrbanThread Slim Fit Jeans, Maroon",fashion,1,1959
+81603169,3,BTY-0055,Neelam Eau de Parfum 50 ml,beauty_sealed,1,2099
+92428432,1,FSH-0035,"Kaafi Leather Sandals, Black",fashion,1,1149
+92428432,2,HOM-0048,"Aangan 3-Seater Fabric Sofa, Black",home_kitchen,1,25809
+81148588,1,FSH-0029,"UrbanThread Slim Fit Jeans, Blue",fashion,1,1319
+81148588,2,FSH-0027,"Rangoli Silk Blend Saree, Grey",fashion,1,2809
+44507419,1,ELE-0010,"Voltra 65W GaN Fast Charger, Green",electronics,1,2189
+44507419,2,FSH-0038,"Sootra Canvas Tote Bag, Green",fashion,1,979
+44507419,3,FSH-0039,"Sootra Leather Backpack, Grey",fashion,1,3559
+54162373,1,FSH-0038,"Sootra Canvas Tote Bag, Green",fashion,1,979
+54162373,2,FSH-0035,"Kaafi Leather Sandals, Black",fashion,1,1149
+29235737,1,FSH-0032,"UrbanThread Oversized Hoodie, Green",fashion,1,1579
+21212357,1,ELE-0011,"Kestrel K7 Smartphone 128 GB, White",electronics,1,17139
+21212357,2,FSH-0036,"Sootra Linen Shirt, Maroon",fashion,1,1019
+25451176,1,GRO-0063,FarmFolk Cold-pressed Groundnut Oil 1 L,grocery,2,259
+25451176,2,GRO-0063,FarmFolk Cold-pressed Groundnut Oil 1 L,grocery,3,259
+25451176,3,GRO-0059,FarmFolk Basmati Rice 5 kg,grocery,3,629
+96010575,1,FSH-0027,"Rangoli Silk Blend Saree, Grey",fashion,1,2809
+85167843,1,ELE-0023,"Kestrel Book 14 Laptop, Grey",electronics,1,45999
+43117459,1,FSH-0034,"Kaafi Running Sneakers, Beige",fashion,1,3959
+74154447,1,HOM-0043,"Mixwell 750W Mixer Grinder, Maroon",home_kitchen,1,4309
+99465427,1,ELE-0012,"Kestrel K7 Smartphone 128 GB, Beige",electronics,1,17549
+59735061,1,FSH-0035,"Kaafi Leather Sandals, Black",fashion,1,1149
+59735061,2,FSH-0033,"Kaafi Running Sneakers, White",fashion,1,2799
+59735061,3,FSH-0038,"Sootra Canvas Tote Bag, Green",fashion,1,979
+45011817,1,ELE-0016,"Orbix Fit 3 Smartwatch, Green",electronics,1,3409
+45011817,2,FSH-0036,"Sootra Linen Shirt, Maroon",fashion,1,1019
+45011817,3,FSH-0038,"Sootra Canvas Tote Bag, Green",fashion,1,979
+98900309,1,GRO-0059,FarmFolk Basmati Rice 5 kg,grocery,2,629
+98900309,2,GRO-0061,FarmFolk California Almonds 500 g,grocery,1,629
+98900309,3,GRO-0061,FarmFolk California Almonds 500 g,grocery,1,629
+41640612,1,GRO-0060,FarmFolk Mango Pickle 500 g,grocery,1,159
+41640612,2,GRO-0062,FarmFolk Fresh Vegetable Box,grocery,3,329
+64223647,1,ELE-0018,"Zentro Boom Mini Bluetooth Speaker, Grey",electronics,1,1709
+63561633,1,FSH-0036,"Sootra Linen Shirt, Maroon",fashion,1,1019
+63561633,2,FSH-0039,"Sootra Leather Backpack, Grey",fashion,1,3559
+63561633,3,FSH-0034,"Kaafi Running Sneakers, Beige",fashion,1,3959
+81994448,1,ELE-0015,"Kestrel K5 Smartphone 64 GB, Maroon",electronics,1,9629
+45738129,1,GRO-0059,FarmFolk Basmati Rice 5 kg,grocery,3,629
+21013683,1,ELE-0009,"Voltra PowerCell 10000 mAh Power Bank, Beige",electronics,1,1009
+21013683,2,FSH-0035,"Kaafi Leather Sandals, Black",fashion,1,1149
+21013683,3,ELE-0016,"Orbix Fit 3 Smartwatch, Green",electronics,1,3409
+60996776,1,ELE-0004,"Nimbus X2 Lite Wireless Earbuds, Beige",electronics,1,1169
+85851331,1,FSH-0038,"Sootra Canvas Tote Bag, Green",fashion,1,979
+85851331,2,FSH-0035,"Kaafi Leather Sandals, Black",fashion,1,1149
+85851331,3,HOM-0047,"Aangan 3-Seater Fabric Sofa, Grey",home_kitchen,1,21859
+27711952,1,HOM-0041,"Tavaa 3-Litre Pressure Cooker, Grey",home_kitchen,1,1609
+27711952,2,HOM-0044,"Mixwell 750W Mixer Grinder, Green",home_kitchen,1,3039
+27711952,3,HOM-0043,"Mixwell 750W Mixer Grinder, Maroon",home_kitchen,1,4309
+38265463,1,ELE-0016,"Orbix Fit 3 Smartwatch, Green",electronics,1,3409
+77140265,1,FSH-0029,"UrbanThread Slim Fit Jeans, Blue",fashion,1,1319
+77140265,2,FSH-0038,"Sootra Canvas Tote Bag, Green",fashion,1,979
+93364281,1,ELE-0014,"Kestrel K7 Smartphone 256 GB, Beige",electronics,1,21919
+35332986,1,FSH-0036,"Sootra Linen Shirt, Maroon",fashion,1,1019
+35332986,2,FSH-0031,"UrbanThread Oversized Hoodie, White",fashion,1,1509
+40590775,1,ELE-0019,"Zentro Boom Max Bluetooth Speaker, Grey",electronics,1,5019
+55296217,1,BKS-0056,Pagecraft A5 Ruled Notebook (Pack of 4),books_media,1,319
+55296217,2,FSH-0027,"Rangoli Silk Blend Saree, Grey",fashion,1,2809
+55296217,3,ELE-0013,"Kestrel K7 Smartphone 256 GB, Grey",electronics,1,20499
+55349638,1,FSH-0035,"Kaafi Leather Sandals, Black",fashion,1,1149
+55349638,2,FSH-0030,"UrbanThread Slim Fit Jeans, Maroon",fashion,1,1959
+55349638,3,FSH-0032,"UrbanThread Oversized Hoodie, Green",fashion,1,1579
+79796657,1,HOM-0046,"Aangan Cotton Double Bedsheet Set, Maroon",home_kitchen,1,1439
+79796657,2,HOM-0050,"Aangan Engineered Wood Study Table, Grey",home_kitchen,1,9239
+18631127,1,ELE-0019,"Zentro Boom Max Bluetooth Speaker, Grey",electronics,1,5019
+59642268,1,HOM-0044,"Mixwell 750W Mixer Grinder, Green",home_kitchen,1,3039
+59642268,2,ELE-0024,"Orbix USB-C Cable 1.5 m, Grey",electronics,1,319
+59642268,3,FSH-0038,"Sootra Canvas Tote Bag, Green",fashion,1,979
+56872816,1,ELE-0012,"Kestrel K7 Smartphone 128 GB, Beige",electronics,1,17549
+99258900,1,ELE-0004,"Nimbus X2 Lite Wireless Earbuds, Beige",electronics,1,1169
+99602396,1,HOM-0040,"Tavaa 3-Litre Pressure Cooker, White",home_kitchen,1,1439
+99602396,2,BTY-0052,Gulmohar Matte Lipstick,beauty_sealed,1,559
+33647525,1,FSH-0033,"Kaafi Running Sneakers, White",fashion,1,2799
+33647525,2,BTY-0053,Gulmohar Vitamin C Face Serum 30 ml,beauty_sealed,1,929
+33647525,3,INR-0066,"Comfi Sports Bra, Grey",innerwear,1,509
+35051771,1,GRO-0062,FarmFolk Fresh Vegetable Box,grocery,2,329
+39808243,1,FSH-0027,"Rangoli Silk Blend Saree, Grey",fashion,1,2809
+96845334,1,INR-0064,"Comfi Cotton Briefs (Pack of 3), Blue",innerwear,1,409
+96845334,2,DGT-0070,"ZentroMart Gift Card ₹1,000",digital,1,1000
+22052159,1,FSH-0029,"UrbanThread Slim Fit Jeans, Blue",fashion,1,1319
+79499101,1,ELE-0010,"Voltra 65W GaN Fast Charger, Green",electronics,1,2189
+71541612,1,GRO-0061,FarmFolk California Almonds 500 g,grocery,1,629
+96112994,1,FSH-0026,"Rangoli Cotton Straight Kurta, White",fashion,1,699
+22851081,1,FSH-0035,"Kaafi Leather Sandals, Black",fashion,1,1149
+22851081,2,FSH-0028,"Rangoli Silk Blend Saree, Green",fashion,1,4239
+22851081,3,FSH-0037,"Sootra Canvas Tote Bag, Black",fashion,1,729
+74892618,1,FSH-0029,"UrbanThread Slim Fit Jeans, Blue",fashion,1,1319
+74892618,2,FSH-0033,"Kaafi Running Sneakers, White",fashion,1,2799
+74892618,3,FSH-0033,"Kaafi Running Sneakers, White",fashion,1,2799
+60972622,1,GRO-0060,FarmFolk Mango Pickle 500 g,grocery,2,159
+60972622,2,GRO-0062,FarmFolk Fresh Vegetable Box,grocery,1,329
+32975440,1,ELE-0011,"Kestrel K7 Smartphone 128 GB, White",electronics,1,17139
+56606748,1,FSH-0036,"Sootra Linen Shirt, Maroon",fashion,1,1019
+56606748,2,FSH-0028,"Rangoli Silk Blend Saree, Green",fashion,1,4239
+30479298,1,ELE-0011,"Kestrel K7 Smartphone 128 GB, White",electronics,1,17139
+45515365,1,ELE-0011,"Kestrel K7 Smartphone 128 GB, White",electronics,1,17139
+22467988,1,HOM-0048,"Aangan 3-Seater Fabric Sofa, Black",home_kitchen,1,25809
+78921081,1,FSH-0026,"Rangoli Cotton Straight Kurta, White",fashion,1,699
+78921081,2,FSH-0039,"Sootra Leather Backpack, Grey",fashion,1,3559
+17553748,1,ELE-0016,"Orbix Fit 3 Smartwatch, Green",electronics,1,3409
+49512066,1,ELE-0016,"Orbix Fit 3 Smartwatch, Green",electronics,1,3409
+35741086,1,GRO-0063,FarmFolk Cold-pressed Groundnut Oil 1 L,grocery,1,259
+35741086,2,GRO-0063,FarmFolk Cold-pressed Groundnut Oil 1 L,grocery,2,259
+61071271,1,ELE-0022,"Kestrel Book 14 Laptop, Black",electronics,1,51439
+17516530,1,HOM-0041,"Tavaa 3-Litre Pressure Cooker, Grey",home_kitchen,1,1609
+14128565,1,ELE-0024,"Orbix USB-C Cable 1.5 m, Grey",electronics,1,319
+32730392,1,FSH-0036,"Sootra Linen Shirt, Maroon",fashion,1,1019
+83671462,1,FSH-0029,"UrbanThread Slim Fit Jeans, Blue",fashion,1,1319
+83671462,2,FSH-0027,"Rangoli Silk Blend Saree, Grey",fashion,1,2809
+83671462,3,FSH-0031,"UrbanThread Oversized Hoodie, White",fashion,1,1509
+30447159,1,BKS-0056,Pagecraft A5 Ruled Notebook (Pack of 4),books_media,1,319
+39850387,1,HOM-0045,"Aangan Cotton Double Bedsheet Set, White",home_kitchen,1,1759
+36499396,1,ELE-0021,"Zentro Vista 43-inch 4K Smart TV, Grey",electronics,1,31649
+57178561,1,BKS-0058,Pagecraft Guide: Learn Python in 30 Days,books_media,1,789
+57178561,2,BKS-0057,Pagecraft Novel: The Monsoon Ledger,books_media,1,349
+51861110,1,FSH-0026,"Rangoli Cotton Straight Kurta, White",fashion,1,699
+51861110,2,BTY-0052,Gulmohar Matte Lipstick,beauty_sealed,1,559
+56996239,1,HOM-0051,"Brewly Electric Kettle 1.5 L, Beige",home_kitchen,1,899
+56996239,2,HOM-0043,"Mixwell 750W Mixer Grinder, Maroon",home_kitchen,1,4309
+83465043,1,ELE-0010,"Voltra 65W GaN Fast Charger, Green",electronics,1,2189
+71392889,1,ELE-0004,"Nimbus X2 Lite Wireless Earbuds, Beige",electronics,1,1169
+71392889,2,ELE-0014,"Kestrel K7 Smartphone 256 GB, Beige",electronics,1,21919
+71392889,3,ELE-0016,"Orbix Fit 3 Smartwatch, Green",electronics,1,3409
+47348597,1,FSH-0038,"Sootra Canvas Tote Bag, Green",fashion,1,979
+47348597,2,HOM-0045,"Aangan Cotton Double Bedsheet Set, White",home_kitchen,1,1759
+90463758,1,FSH-0030,"UrbanThread Slim Fit Jeans, Maroon",fashion,1,1959
+90463758,2,BTY-0053,Gulmohar Vitamin C Face Serum 30 ml,beauty_sealed,1,929
+90463758,3,FSH-0039,"Sootra Leather Backpack, Grey",fashion,1,3559
+38464342,1,ELE-0004,"Nimbus X2 Lite Wireless Earbuds, Beige",electronics,1,1169
+21504087,1,HOM-0046,"Aangan Cotton Double Bedsheet Set, Maroon",home_kitchen,1,1439
+31761398,1,ELE-0015,"Kestrel K5 Smartphone 64 GB, Maroon",electronics,1,9629
+31761398,2,ELE-0024,"Orbix USB-C Cable 1.5 m, Grey",electronics,1,319
+31761398,3,ELE-0016,"Orbix Fit 3 Smartwatch, Green",electronics,1,3409
+21767387,1,ELE-0010,"Voltra 65W GaN Fast Charger, Green",electronics,1,2189
+79211970,1,FSH-0030,"UrbanThread Slim Fit Jeans, Maroon",fashion,1,1959
+89399665,1,GRO-0060,FarmFolk Mango Pickle 500 g,grocery,2,159
+89399665,2,GRO-0062,FarmFolk Fresh Vegetable Box,grocery,1,329
+74609290,1,GRO-0059,FarmFolk Basmati Rice 5 kg,grocery,2,629
+74609290,2,GRO-0059,FarmFolk Basmati Rice 5 kg,grocery,1,629
+86762674,1,BKS-0058,Pagecraft Guide: Learn Python in 30 Days,books_media,1,789
+86762674,2,BKS-0056,Pagecraft A5 Ruled Notebook (Pack of 4),books_media,1,319
+24955245,1,FSH-0039,"Sootra Leather Backpack, Grey",fashion,1,3559
+99060140,1,ELE-0007,"Voltra PowerCell 20000 mAh Power Bank, Beige",electronics,1,1709
+12825861,1,INR-0067,"Comfi One-piece Swimsuit, Blue",innerwear,1,1959
+58899298,1,FSH-0026,"Rangoli Cotton Straight Kurta, White",fashion,1,699
+58899298,2,FSH-0029,"UrbanThread Slim Fit Jeans, Blue",fashion,1,1319
+58899298,3,FSH-0032,"UrbanThread Oversized Hoodie, Green",fashion,1,1579
+61428022,1,BKS-0057,Pagecraft Novel: The Monsoon Ledger,books_media,1,349
+61428022,2,ELE-0015,"Kestrel K5 Smartphone 64 GB, Maroon",electronics,1,9629
+17535526,1,GRO-0060,FarmFolk Mango Pickle 500 g,grocery,1,159
+40234334,1,ELE-0022,"Kestrel Book 14 Laptop, Black",electronics,1,51439
+40234334,2,ELE-0017,"Orbix Fit 3 Pro Smartwatch, Blue",electronics,1,7219
+75660031,1,FSH-0026,"Rangoli Cotton Straight Kurta, White",fashion,1,699
+64752478,1,BKS-0057,Pagecraft Novel: The Monsoon Ledger,books_media,1,349
+26555701,1,GRO-0059,FarmFolk Basmati Rice 5 kg,grocery,2,629
+26555701,2,GRO-0062,FarmFolk Fresh Vegetable Box,grocery,2,329
+79482192,1,INR-0065,"Comfi Cotton Briefs (Pack of 3), Beige",innerwear,1,529
+79482192,2,HOM-0050,"Aangan Engineered Wood Study Table, Grey",home_kitchen,1,9239
+72804612,1,GRO-0061,FarmFolk California Almonds 500 g,grocery,1,629
+21620080,1,GRO-0063,FarmFolk Cold-pressed Groundnut Oil 1 L,grocery,3,259
+21620080,2,GRO-0060,FarmFolk Mango Pickle 500 g,grocery,2,159
+21620080,3,GRO-0060,FarmFolk Mango Pickle 500 g,grocery,1,159
+85936017,1,GRO-0060,FarmFolk Mango Pickle 500 g,grocery,2,159
+86152121,1,ELE-0007,"Voltra PowerCell 20000 mAh Power Bank, Beige",electronics,1,1709
+58134134,1,GRO-0063,FarmFolk Cold-pressed Groundnut Oil 1 L,grocery,3,259
+58134134,2,GRO-0060,FarmFolk Mango Pickle 500 g,grocery,1,159
+17380653,1,BTY-0055,Neelam Eau de Parfum 50 ml,beauty_sealed,1,2099
+17380653,2,BTY-0055,Neelam Eau de Parfum 50 ml,beauty_sealed,1,2099
+17380653,3,BTY-0055,Neelam Eau de Parfum 50 ml,beauty_sealed,1,2099
+31135570,1,ELE-0023,"Kestrel Book 14 Laptop, Grey",electronics,1,45999
+31135570,2,FSH-0029,"UrbanThread Slim Fit Jeans, Blue",fashion,1,1319
+36724525,1,HOM-0050,"Aangan Engineered Wood Study Table, Grey",home_kitchen,1,9239
+39304071,1,ELE-0025,"Orbix USB-C Cable 1.5 m, Maroon",electronics,1,349
+86221068,1,FSH-0030,"UrbanThread Slim Fit Jeans, Maroon",fashion,1,1959
+86221068,2,FSH-0039,"Sootra Leather Backpack, Grey",fashion,1,3559
+79345641,1,FSH-0035,"Kaafi Leather Sandals, Black",fashion,1,1149
+41763040,1,FSH-0031,"UrbanThread Oversized Hoodie, White",fashion,1,1509
+41763040,2,FSH-0026,"Rangoli Cotton Straight Kurta, White",fashion,1,699
+41763040,3,FSH-0037,"Sootra Canvas Tote Bag, Black",fashion,1,729
+73675171,1,ELE-0007,"Voltra PowerCell 20000 mAh Power Bank, Beige",electronics,1,1709
+15388730,1,ELE-0018,"Zentro Boom Mini Bluetooth Speaker, Grey",electronics,1,1709
+15388730,2,ELE-0021,"Zentro Vista 43-inch 4K Smart TV, Grey",electronics,1,31649
+75471073,1,FSH-0038,"Sootra Canvas Tote Bag, Green",fashion,1,979
+92892830,1,FSH-0033,"Kaafi Running Sneakers, White",fashion,1,2799
+32285964,1,INR-0067,"Comfi One-piece Swimsuit, Blue",innerwear,1,1959
+32285964,2,INR-0066,"Comfi Sports Bra, Grey",innerwear,1,509
+32285964,3,INR-0068,"Comfi One-piece Swimsuit, Black",innerwear,1,1619
+72712259,1,GRO-0061,FarmFolk California Almonds 500 g,grocery,2,629
+72712259,2,GRO-0061,FarmFolk California Almonds 500 g,grocery,1,629
+72712259,3,GRO-0062,FarmFolk Fresh Vegetable Box,grocery,1,329
+38863195,1,ELE-0024,"Orbix USB-C Cable 1.5 m, Grey",electronics,1,319
+77808072,1,FSH-0034,"Kaafi Running Sneakers, Beige",fashion,1,3959
+38383469,1,GRO-0059,FarmFolk Basmati Rice 5 kg,grocery,3,629
+38383469,2,GRO-0063,FarmFolk Cold-pressed Groundnut Oil 1 L,grocery,3,259
+38383469,3,GRO-0061,FarmFolk California Almonds 500 g,grocery,3,629
+24647779,1,INR-0064,"Comfi Cotton Briefs (Pack of 3), Blue",innerwear,1,409
+24647779,2,INR-0065,"Comfi Cotton Briefs (Pack of 3), Beige",innerwear,1,529
+24647779,3,INR-0066,"Comfi Sports Bra, Grey",innerwear,1,509
+27505042,1,ELE-0009,"Voltra PowerCell 10000 mAh Power Bank, Beige",electronics,1,1009
+66690964,1,FSH-0037,"Sootra Canvas Tote Bag, Black",fashion,1,729
+66690964,2,ELE-0004,"Nimbus X2 Lite Wireless Earbuds, Beige",electronics,1,1169
+97932160,1,GRO-0059,FarmFolk Basmati Rice 5 kg,grocery,1,629
+97932160,2,GRO-0062,FarmFolk Fresh Vegetable Box,grocery,1,329
+98045512,1,ELE-0022,"Kestrel Book 14 Laptop, Black",electronics,1,51439
+98045512,2,ELE-0011,"Kestrel K7 Smartphone 128 GB, White",electronics,1,17139
+31896505,1,HOM-0042,"Tavaa Non-stick Frying Pan 26 cm, Black",home_kitchen,1,739
+29193869,1,FSH-0034,"Kaafi Running Sneakers, Beige",fashion,1,3959
+82097271,1,ELE-0023,"Kestrel Book 14 Laptop, Grey",electronics,1,45999
+76995723,1,FSH-0039,"Sootra Leather Backpack, Grey",fashion,1,3559
+19669222,1,FSH-0026,"Rangoli Cotton Straight Kurta, White",fashion,1,699
+19669222,2,FSH-0032,"UrbanThread Oversized Hoodie, Green",fashion,1,1579
+92220727,1,BKS-0056,Pagecraft A5 Ruled Notebook (Pack of 4),books_media,1,319
+92220727,2,FSH-0028,"Rangoli Silk Blend Saree, Green",fashion,1,4239
+71220751,1,ELE-0020,"Zentro Vista 43-inch 4K Smart TV, Beige",electronics,1,31809
+58414034,1,ELE-0018,"Zentro Boom Mini Bluetooth Speaker, Grey",electronics,1,1709
+13813047,1,FSH-0033,"Kaafi Running Sneakers, White",fashion,1,2799
+13813047,2,FSH-0036,"Sootra Linen Shirt, Maroon",fashion,1,1019
+13813047,3,FSH-0032,"UrbanThread Oversized Hoodie, Green",fashion,1,1579
+28021731,1,ELE-0003,"Nimbus X2 Pro Wireless Earbuds, Blue",electronics,1,4229
+31159584,1,ELE-0004,"Nimbus X2 Lite Wireless Earbuds, Beige",electronics,1,1169
+80642078,1,FSH-0039,"Sootra Leather Backpack, Grey",fashion,1,3559
+80642078,2,ELE-0019,"Zentro Boom Max Bluetooth Speaker, Grey",electronics,1,5019
+80642078,3,ELE-0015,"Kestrel K5 Smartphone 64 GB, Maroon",electronics,1,9629
+68566679,1,ELE-0009,"Voltra PowerCell 10000 mAh Power Bank, Beige",electronics,1,1009
+68566679,2,FSH-0033,"Kaafi Running Sneakers, White",fashion,1,2799
+27800336,1,ELE-0015,"Kestrel K5 Smartphone 64 GB, Maroon",electronics,1,9629
+27800336,2,FSH-0034,"Kaafi Running Sneakers, Beige",fashion,1,3959
+61708235,1,FSH-0031,"UrbanThread Oversized Hoodie, White",fashion,1,1509
+61708235,2,FSH-0030,"UrbanThread Slim Fit Jeans, Maroon",fashion,1,1959
+47170671,1,HOM-0043,"Mixwell 750W Mixer Grinder, Maroon",home_kitchen,1,4309
+47170671,2,FSH-0039,"Sootra Leather Backpack, Grey",fashion,1,3559
+27683947,1,GRO-0062,FarmFolk Fresh Vegetable Box,grocery,1,329
+27683947,2,GRO-0059,FarmFolk Basmati Rice 5 kg,grocery,3,629
+27683947,3,GRO-0063,FarmFolk Cold-pressed Groundnut Oil 1 L,grocery,2,259
+67769709,1,HOM-0051,"Brewly Electric Kettle 1.5 L, Beige",home_kitchen,1,899
+22422342,1,ELE-0022,"Kestrel Book 14 Laptop, Black",electronics,1,51439
+25885158,1,GRO-0061,FarmFolk California Almonds 500 g,grocery,3,629
+25885158,2,GRO-0062,FarmFolk Fresh Vegetable Box,grocery,3,329
+63248460,1,BTY-0055,Neelam Eau de Parfum 50 ml,beauty_sealed,1,2099
+63248460,2,BTY-0053,Gulmohar Vitamin C Face Serum 30 ml,beauty_sealed,1,929
+23379348,1,GRO-0060,FarmFolk Mango Pickle 500 g,grocery,3,159
+62223832,1,INR-0065,"Comfi Cotton Briefs (Pack of 3), Beige",innerwear,1,529
+79685610,1,FSH-0032,"UrbanThread Oversized Hoodie, Green",fashion,1,1579
+79685610,2,FSH-0027,"Rangoli Silk Blend Saree, Grey",fashion,1,2809
+79685610,3,FSH-0030,"UrbanThread Slim Fit Jeans, Maroon",fashion,1,1959
+11996276,1,ELE-0010,"Voltra 65W GaN Fast Charger, Green",electronics,1,2189
+11996276,2,ELE-0015,"Kestrel K5 Smartphone 64 GB, Maroon",electronics,1,9629
+73169936,1,GRO-0063,FarmFolk Cold-pressed Groundnut Oil 1 L,grocery,2,259
+73169936,2,GRO-0061,FarmFolk California Almonds 500 g,grocery,1,629
+78020637,1,ELE-0019,"Zentro Boom Max Bluetooth Speaker, Grey",electronics,1,5019
+78020637,2,BTY-0054,Neelam Herbal Face Wash 150 ml,beauty_sealed,1,239
+57269519,1,DGT-0069,ZentroMart Gift Card ₹500,digital,1,500
+91041751,1,FSH-0033,"Kaafi Running Sneakers, White",fashion,1,2799
+91041751,2,FSH-0032,"UrbanThread Oversized Hoodie, Green",fashion,1,1579
+91041751,3,FSH-0031,"UrbanThread Oversized Hoodie, White",fashion,1,1509
+92991507,1,FSH-0038,"Sootra Canvas Tote Bag, Green",fashion,1,979
+92991507,2,FSH-0036,"Sootra Linen Shirt, Maroon",fashion,1,1019
+92991507,3,FSH-0026,"Rangoli Cotton Straight Kurta, White",fashion,1,699
+11997428,1,INR-0068,"Comfi One-piece Swimsuit, Black",innerwear,1,1619
+11997428,2,INR-0066,"Comfi Sports Bra, Grey",innerwear,1,509
+11997428,3,INR-0066,"Comfi Sports Bra, Grey",innerwear,1,509
+59073293,1,GRO-0062,FarmFolk Fresh Vegetable Box,grocery,3,329
+59073293,2,GRO-0060,FarmFolk Mango Pickle 500 g,grocery,3,159
+59073293,3,GRO-0059,FarmFolk Basmati Rice 5 kg,grocery,2,629
+86258162,1,ELE-0018,"Zentro Boom Mini Bluetooth Speaker, Grey",electronics,1,1709
+71948555,1,FSH-0027,"Rangoli Silk Blend Saree, Grey",fashion,1,2809
+71948555,2,FSH-0033,"Kaafi Running Sneakers, White",fashion,1,2799
+71948555,3,FSH-0028,"Rangoli Silk Blend Saree, Green",fashion,1,4239
+48642984,1,INR-0065,"Comfi Cotton Briefs (Pack of 3), Beige",innerwear,1,529
+22245141,1,FSH-0033,"Kaafi Running Sneakers, White",fashion,1,2799
+83906391,1,ELE-0016,"Orbix Fit 3 Smartwatch, Green",electronics,1,3409
+75042749,1,GRO-0061,FarmFolk California Almonds 500 g,grocery,1,629
+75042749,2,GRO-0060,FarmFolk Mango Pickle 500 g,grocery,2,159
+26295015,1,FSH-0035,"Kaafi Leather Sandals, Black",fashion,1,1149
+26295015,2,FSH-0026,"Rangoli Cotton Straight Kurta, White",fashion,1,699
+25262060,1,GRO-0063,FarmFolk Cold-pressed Groundnut Oil 1 L,grocery,1,259
+25262060,2,GRO-0060,FarmFolk Mango Pickle 500 g,grocery,3,159
+42327590,1,FSH-0036,"Sootra Linen Shirt, Maroon",fashion,1,1019
+42327590,2,FSH-0032,"UrbanThread Oversized Hoodie, Green",fashion,1,1579
+42327590,3,FSH-0037,"Sootra Canvas Tote Bag, Black",fashion,1,729
+69215876,1,GRO-0059,FarmFolk Basmati Rice 5 kg,grocery,3,629
+69215876,2,GRO-0062,FarmFolk Fresh Vegetable Box,grocery,1,329
+25250869,1,ELE-0007,"Voltra PowerCell 20000 mAh Power Bank, Beige",electronics,1,1709
+82903029,1,FSH-0026,"Rangoli Cotton Straight Kurta, White",fashion,1,699
+24377554,1,GRO-0060,FarmFolk Mango Pickle 500 g,grocery,1,159
+24377554,2,GRO-0063,FarmFolk Cold-pressed Groundnut Oil 1 L,grocery,3,259
+24377554,3,GRO-0060,FarmFolk Mango Pickle 500 g,grocery,3,159
+97100805,1,BKS-0057,Pagecraft Novel: The Monsoon Ledger,books_media,1,349
+97100805,2,BKS-0058,Pagecraft Guide: Learn Python in 30 Days,books_media,1,789
+14193675,1,INR-0065,"Comfi Cotton Briefs (Pack of 3), Beige",innerwear,1,529
+14193675,2,INR-0066,"Comfi Sports Bra, Grey",innerwear,1,509
+33799576,1,FSH-0028,"Rangoli Silk Blend Saree, Green",fashion,1,4239
+11963103,1,FSH-0034,"Kaafi Running Sneakers, Beige",fashion,1,3959
+11963103,2,FSH-0037,"Sootra Canvas Tote Bag, Black",fashion,1,729
+21961527,1,BTY-0053,Gulmohar Vitamin C Face Serum 30 ml,beauty_sealed,1,929
+21961527,2,ELE-0014,"Kestrel K7 Smartphone 256 GB, Beige",electronics,1,21919
+32886064,1,FSH-0031,"UrbanThread Oversized Hoodie, White",fashion,1,1509
+32886064,2,FSH-0037,"Sootra Canvas Tote Bag, Black",fashion,1,729
+70230055,1,ELE-0002,"Nimbus X2 Wireless Earbuds, Black",electronics,1,1899
+86523492,1,ELE-0025,"Orbix USB-C Cable 1.5 m, Maroon",electronics,1,349
+55007636,1,ELE-0016,"Orbix Fit 3 Smartwatch, Green",electronics,1,3409
+46543410,1,ELE-0023,"Kestrel Book 14 Laptop, Grey",electronics,1,45999
+46543410,2,ELE-0009,"Voltra PowerCell 10000 mAh Power Bank, Beige",electronics,1,1009
+46543410,3,HOM-0044,"Mixwell 750W Mixer Grinder, Green",home_kitchen,1,3039
+46810133,1,ELE-0003,"Nimbus X2 Pro Wireless Earbuds, Blue",electronics,1,4229
+19168921,1,FSH-0026,"Rangoli Cotton Straight Kurta, White",fashion,1,699
+19168921,2,FSH-0029,"UrbanThread Slim Fit Jeans, Blue",fashion,1,1319
+19168921,3,HOM-0041,"Tavaa 3-Litre Pressure Cooker, Grey",home_kitchen,1,1609
+31955109,1,FSH-0032,"UrbanThread Oversized Hoodie, Green",fashion,1,1579
+23109324,1,HOM-0049,"Aangan Engineered Wood Study Table, Blue",home_kitchen,1,10639
+23109324,2,HOM-0046,"Aangan Cotton Double Bedsheet Set, Maroon",home_kitchen,1,1439
+76823002,1,ELE-0014,"Kestrel K7 Smartphone 256 GB, Beige",electronics,1,21919
+21017453,1,HOM-0040,"Tavaa 3-Litre Pressure Cooker, White",home_kitchen,1,1439
+12589559,1,BTY-0055,Neelam Eau de Parfum 50 ml,beauty_sealed,1,2099
+68989124,1,HOM-0045,"Aangan Cotton Double Bedsheet Set, White",home_kitchen,1,1759
+68989124,2,HOM-0046,"Aangan Cotton Double Bedsheet Set, Maroon",home_kitchen,1,1439
+32242098,1,FSH-0037,"Sootra Canvas Tote Bag, Black",fashion,1,729
+27256991,1,ELE-0012,"Kestrel K7 Smartphone 128 GB, Beige",electronics,1,17549
+42233118,1,BTY-0055,Neelam Eau de Parfum 50 ml,beauty_sealed,1,2099
+27881924,1,BTY-0054,Neelam Herbal Face Wash 150 ml,beauty_sealed,1,239
+36844262,1,FSH-0036,"Sootra Linen Shirt, Maroon",fashion,1,1019
+36844262,2,HOM-0044,"Mixwell 750W Mixer Grinder, Green",home_kitchen,1,3039
+36844262,3,DGT-0069,ZentroMart Gift Card ₹500,digital,1,500
+92501557,1,BTY-0054,Neelam Herbal Face Wash 150 ml,beauty_sealed,1,239
+76044245,1,BTY-0054,Neelam Herbal Face Wash 150 ml,beauty_sealed,1,239
+76044245,2,FSH-0026,"Rangoli Cotton Straight Kurta, White",fashion,1,699
+37102466,1,GRO-0062,FarmFolk Fresh Vegetable Box,grocery,3,329
+20022294,1,FSH-0034,"Kaafi Running Sneakers, Beige",fashion,1,3959
+22354022,1,BTY-0052,Gulmohar Matte Lipstick,beauty_sealed,1,559
+22354022,2,INR-0067,"Comfi One-piece Swimsuit, Blue",innerwear,1,1959
+17492664,1,FSH-0030,"UrbanThread Slim Fit Jeans, Maroon",fashion,1,1959
+17492664,2,FSH-0035,"Kaafi Leather Sandals, Black",fashion,1,1149
+17492664,3,FSH-0039,"Sootra Leather Backpack, Grey",fashion,1,3559
+51961119,1,FSH-0028,"Rangoli Silk Blend Saree, Green",fashion,1,4239
+51961119,2,FSH-0037,"Sootra Canvas Tote Bag, Black",fashion,1,729
+51961119,3,FSH-0028,"Rangoli Silk Blend Saree, Green",fashion,1,4239
+26333530,1,ELE-0004,"Nimbus X2 Lite Wireless Earbuds, Beige",electronics,1,1169
+26333530,2,FSH-0038,"Sootra Canvas Tote Bag, Green",fashion,1,979
+26333530,3,HOM-0041,"Tavaa 3-Litre Pressure Cooker, Grey",home_kitchen,1,1609
+34540693,1,ELE-0006,"Voltra PowerCell 20000 mAh Power Bank, Maroon",electronics,1,1679
+34540693,2,FSH-0039,"Sootra Leather Backpack, Grey",fashion,1,3559
+34540693,3,ELE-0008,"Voltra PowerCell 10000 mAh Power Bank, Green",electronics,1,1059
+89348590,1,FSH-0034,"Kaafi Running Sneakers, Beige",fashion,1,3959
+14292873,1,FSH-0034,"Kaafi Running Sneakers, Beige",fashion,1,3959
+14292873,2,FSH-0035,"Kaafi Leather Sandals, Black",fashion,1,1149
+98791088,1,FSH-0037,"Sootra Canvas Tote Bag, Black",fashion,1,729
+98791088,2,FSH-0030,"UrbanThread Slim Fit Jeans, Maroon",fashion,1,1959
+98791088,3,FSH-0037,"Sootra Canvas Tote Bag, Black",fashion,1,729
+77896958,1,GRO-0062,FarmFolk Fresh Vegetable Box,grocery,2,329
+77896958,2,GRO-0061,FarmFolk California Almonds 500 g,grocery,2,629
+77896958,3,GRO-0060,FarmFolk Mango Pickle 500 g,grocery,3,159
+96389881,1,FSH-0026,"Rangoli Cotton Straight Kurta, White",fashion,1,699
+96389881,2,FSH-0028,"Rangoli Silk Blend Saree, Green",fashion,1,4239
+79363550,1,FSH-0030,"UrbanThread Slim Fit Jeans, Maroon",fashion,1,1959
+79363550,2,FSH-0036,"Sootra Linen Shirt, Maroon",fashion,1,1019
+83794848,1,BTY-0055,Neelam Eau de Parfum 50 ml,beauty_sealed,1,2099
+83794848,2,HOM-0048,"Aangan 3-Seater Fabric Sofa, Black",home_kitchen,1,25809
+83794848,3,FSH-0037,"Sootra Canvas Tote Bag, Black",fashion,1,729
+63702073,1,BTY-0054,Neelam Herbal Face Wash 150 ml,beauty_sealed,1,239
+63702073,2,ELE-0019,"Zentro Boom Max Bluetooth Speaker, Grey",electronics,1,5019
+58116587,1,INR-0066,"Comfi Sports Bra, Grey",innerwear,1,509
+58116587,2,HOM-0049,"Aangan Engineered Wood Study Table, Blue",home_kitchen,1,10639
+58116587,3,ELE-0011,"Kestrel K7 Smartphone 128 GB, White",electronics,1,17139
+95213643,1,HOM-0048,"Aangan 3-Seater Fabric Sofa, Black",home_kitchen,1,25809
+95213643,2,HOM-0046,"Aangan Cotton Double Bedsheet Set, Maroon",home_kitchen,1,1439
+95213643,3,HOM-0040,"Tavaa 3-Litre Pressure Cooker, White",home_kitchen,1,1439
+17911131,1,ELE-0024,"Orbix USB-C Cable 1.5 m, Grey",electronics,1,319
+90015246,1,FSH-0031,"UrbanThread Oversized Hoodie, White",fashion,1,1509
+90015246,2,FSH-0026,"Rangoli Cotton Straight Kurta, White",fashion,1,699
+90015246,3,FSH-0037,"Sootra Canvas Tote Bag, Black",fashion,1,729
+87355366,1,ELE-0006,"Voltra PowerCell 20000 mAh Power Bank, Maroon",electronics,1,1679
+16109958,1,BTY-0055,Neelam Eau de Parfum 50 ml,beauty_sealed,1,2099
+16109958,2,BTY-0054,Neelam Herbal Face Wash 150 ml,beauty_sealed,1,239
+16109958,3,BTY-0052,Gulmohar Matte Lipstick,beauty_sealed,1,559
+61443163,1,DGT-0069,ZentroMart Gift Card ₹500,digital,1,500
+77461439,1,FSH-0031,"UrbanThread Oversized Hoodie, White",fashion,1,1509
+41085828,1,FSH-0031,"UrbanThread Oversized Hoodie, White",fashion,1,1509
+43640613,1,INR-0068,"Comfi One-piece Swimsuit, Black",innerwear,1,1619
+43640613,2,INR-0067,"Comfi One-piece Swimsuit, Blue",innerwear,1,1959
+43640613,3,INR-0065,"Comfi Cotton Briefs (Pack of 3), Beige",innerwear,1,529
+87148208,1,FSH-0029,"UrbanThread Slim Fit Jeans, Blue",fashion,1,1319
+96249769,1,ELE-0002,"Nimbus X2 Wireless Earbuds, Black",electronics,1,1899
+96249769,2,ELE-0017,"Orbix Fit 3 Pro Smartwatch, Blue",electronics,1,7219
+96249769,3,ELE-0021,"Zentro Vista 43-inch 4K Smart TV, Grey",electronics,1,31649
+88663956,1,GRO-0062,FarmFolk Fresh Vegetable Box,grocery,2,329
+88663956,2,GRO-0059,FarmFolk Basmati Rice 5 kg,grocery,2,629
+88663956,3,GRO-0059,FarmFolk Basmati Rice 5 kg,grocery,2,629
+46048645,1,HOM-0041,"Tavaa 3-Litre Pressure Cooker, Grey",home_kitchen,1,1609
+20307130,1,FSH-0034,"Kaafi Running Sneakers, Beige",fashion,1,3959
+86610143,1,FSH-0038,"Sootra Canvas Tote Bag, Green",fashion,1,979
+31098286,1,ELE-0023,"Kestrel Book 14 Laptop, Grey",electronics,1,45999
+46041271,1,ELE-0011,"Kestrel K7 Smartphone 128 GB, White",electronics,1,17139
+46041271,2,FSH-0029,"UrbanThread Slim Fit Jeans, Blue",fashion,1,1319
+46041271,3,HOM-0049,"Aangan Engineered Wood Study Table, Blue",home_kitchen,1,10639
+36351456,1,ELE-0018,"Zentro Boom Mini Bluetooth Speaker, Grey",electronics,1,1709
+53719589,1,FSH-0029,"UrbanThread Slim Fit Jeans, Blue",fashion,1,1319
+31080562,1,ELE-0017,"Orbix Fit 3 Pro Smartwatch, Blue",electronics,1,7219
+53637974,1,HOM-0049,"Aangan Engineered Wood Study Table, Blue",home_kitchen,1,10639
+17762868,1,ELE-0013,"Kestrel K7 Smartphone 256 GB, Grey",electronics,1,20499
+23074859,1,FSH-0028,"Rangoli Silk Blend Saree, Green",fashion,1,4239
+23074859,2,FSH-0032,"UrbanThread Oversized Hoodie, Green",fashion,1,1579
+23074859,3,INR-0067,"Comfi One-piece Swimsuit, Blue",innerwear,1,1959
+11056356,1,FSH-0029,"UrbanThread Slim Fit Jeans, Blue",fashion,1,1319
+11056356,2,FSH-0036,"Sootra Linen Shirt, Maroon",fashion,1,1019
+58872923,1,HOM-0047,"Aangan 3-Seater Fabric Sofa, Grey",home_kitchen,1,21859
+58872923,2,HOM-0045,"Aangan Cotton Double Bedsheet Set, White",home_kitchen,1,1759
+93705637,1,FSH-0036,"Sootra Linen Shirt, Maroon",fashion,1,1019
+11994088,1,FSH-0026,"Rangoli Cotton Straight Kurta, White",fashion,1,699
+30887953,1,GRO-0061,FarmFolk California Almonds 500 g,grocery,3,629
+30887953,2,GRO-0061,FarmFolk California Almonds 500 g,grocery,3,629
+46474674,1,GRO-0059,FarmFolk Basmati Rice 5 kg,grocery,2,629
+46474674,2,GRO-0060,FarmFolk Mango Pickle 500 g,grocery,3,159
+46474674,3,GRO-0063,FarmFolk Cold-pressed Groundnut Oil 1 L,grocery,2,259
+39875992,1,BKS-0056,Pagecraft A5 Ruled Notebook (Pack of 4),books_media,1,319
+39875992,2,FSH-0037,"Sootra Canvas Tote Bag, Black",fashion,1,729
+39875992,3,BKS-0058,Pagecraft Guide: Learn Python in 30 Days,books_media,1,789
+13710189,1,FSH-0026,"Rangoli Cotton Straight Kurta, White",fashion,1,699
+13710189,2,BKS-0057,Pagecraft Novel: The Monsoon Ledger,books_media,1,349
+79802647,1,HOM-0044,"Mixwell 750W Mixer Grinder, Green",home_kitchen,1,3039
+74253065,1,ELE-0004,"Nimbus X2 Lite Wireless Earbuds, Beige",electronics,1,1169
+74253065,2,FSH-0035,"Kaafi Leather Sandals, Black",fashion,1,1149
+56543892,1,FSH-0035,"Kaafi Leather Sandals, Black",fashion,1,1149
+15782539,1,ELE-0019,"Zentro Boom Max Bluetooth Speaker, Grey",electronics,1,5019
+19134195,1,GRO-0059,FarmFolk Basmati Rice 5 kg,grocery,3,629
+97267035,1,BKS-0057,Pagecraft Novel: The Monsoon Ledger,books_media,1,349
+26934308,1,FSH-0029,"UrbanThread Slim Fit Jeans, Blue",fashion,1,1319

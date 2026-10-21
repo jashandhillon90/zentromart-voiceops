@@ -1,0 +1,7 @@
+
+google-genai
+python-dotenv
+scikit-learn
+pandas
+gnani-vachana
+soundfile

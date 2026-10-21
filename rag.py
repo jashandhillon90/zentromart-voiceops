@@ -1,4 +1,4 @@
-import time
+
 import os
 from pathlib import Path
 
@@ -16,18 +16,18 @@ if not api_key:
 
 client = genai.Client(api_key=api_key)
 
-KB_DIR = Path("kb")
+KB_DIR = Path(__file__).resolve().parent / "kb"
 TOP_K = 3
 
 SYSTEM_PROMPT = """
-You are ZentroMart's AI customer support assistant.
+You are an AI customer support assistant for ZentroMart.
 
-Answer using ONLY the supplied knowledge-base evidence.
-If the evidence does not answer the question, clearly say:
-"I couldn't find that information in the available company documents."
-Do not invent policies, prices, dates, or order details.
-Be polite and concise.
-Cite the source filenames you used in your answer.
+Answer customer questions using only the given company documents.
+Do not make up policies, prices, dates or other details.
+If the documents do not contain the answer, say that you could not
+find the information in the available company documents.
+Keep your answers polite and simple.
+Mention the source filenames used for the answer.
 """
 
 def load_documents():
@@ -41,16 +41,16 @@ def load_documents():
 
         if text:
             documents.append({
-                "source": str(path),
+                "source": path.relative_to(KB_DIR).as_posix(),
                 "text": text
             })
 
     if not documents:
-        raise FileNotFoundError(
-            "kb folder mein koi Markdown (.md) document nahi mila."
-        )
+        raise FileNotFoundError("No knowledge-base documents found in kb.")
 
     return documents
+
+
 documents = load_documents()
 
 vectorizer = TfidfVectorizer(
@@ -63,72 +63,98 @@ document_matrix = vectorizer.fit_transform(
     [doc["text"] for doc in documents]
 )
 
-print(f"Loaded {len(documents)} knowledge-base documents.")
-print("=== ZentroMart RAG Support Agent ===")
-print("Type 'exit' to stop.\n")
 
-
-while True:
-    question = input("You: ").strip()
-
-    if question.lower() == "exit":
-        print("Bot: Goodbye!")
-        break
-
-    if not question:
-        continue
-
+def retrieve_evidence(question):
     query_vector = vectorizer.transform([question])
-    scores = cosine_similarity(
-        query_vector, document_matrix
-    ).flatten()
+    scores = cosine_similarity(query_vector, document_matrix).flatten()
 
-    top_indices = scores.argsort()[::-1][:TOP_K]
+    indices = scores.argsort()[::-1][:TOP_K]
+    results = []
 
-    # Ignore results with no lexical match
-    retrieved = [
-        (int(i), float(scores[i]))
-        for i in top_indices
-        if scores[i] > 0
-    ]
+    for i in indices:
+        if scores[i] > 0:
+            doc = documents[i]
+            results.append({
+                "source": doc["source"],
+                "score": float(scores[i]),
+                "text": doc["text"]
+            })
 
-    if not retrieved:
-        print(
-            "\nBot: I couldn't find relevant information "
-            "in the available company documents.\n"
-        )
-        print("Retrieved chunks: none\n")
-        continue
+    return results
 
-    evidence_parts = []
 
-    print("\nRetrieved evidence:")
-    for index, score in retrieved:
-        doc = documents[index]
-        print(f"- {doc['source']} (score: {score:.3f})")
+def answer_with_rag(question):
+    chunks = retrieve_evidence(question)
 
-        evidence_parts.append(
-            f"SOURCE: {doc['source']}\n"
-            f"CONTENT:\n{doc['text'][:4000]}"
+    if not chunks:
+        return (
+            "I couldn't find that information in the available company documents.",
+            []
         )
 
-    evidence = "\n\n---\n\n".join(evidence_parts)
+    evidence = ""
 
-    try:
-        response = client.models.generate_content(
-            model="gemini-3.8-flash",
-            contents=(
-                "Knowledge-base evidence:\n\n"
-                f"{evidence}\n\n"
-                f"Customer question: {question}"
-            ),
-            config=types.GenerateContentConfig(
-                system_instruction=SYSTEM_PROMPT
-            )
+    for chunk in chunks:
+        evidence += (
+            f"\nSource: {chunk['source']}\n"
+            f"{chunk['text'][:4000]}\n"
         )
 
-        print("\nBot:", response.text or "No text response.")
-        print()
+    response = client.models.generate_content(
+        model="gemini-3.8-flash",
+        contents=(
+            f"Company documents:\n{evidence}\n\n"
+            f"Customer question: {question}\n\n"
+            "Answer only from these documents. If the answer is not "
+            "available, say so. Include the source filenames."
+        ),
+        config=types.GenerateContentConfig(
+            system_instruction=SYSTEM_PROMPT
+        )
+    )
 
-    except Exception as error:
-        print("\nAPI request failed:", str(error), "\n")
+    answer = response.text
+
+    if not answer:
+        answer = "Sorry, I couldn't generate an answer."
+
+    return answer, chunks
+
+
+def main():
+    print(f"Loaded {len(documents)} knowledge-base documents.")
+    print("ZentroMart Support Chat")
+    print("Type 'exit' to stop.\n")
+
+    while True:
+        question = input("You: ").strip()
+
+        if question.lower() == "exit":
+            print("Bot: Goodbye!")
+            break
+
+        if not question:
+            continue
+
+        try:
+            answer, chunks = answer_with_rag(question)
+            print("\nBot:", answer)
+
+            print("\nRetrieved evidence:")
+            if chunks:
+                for chunk in chunks:
+                    print(
+                        f"- {chunk['source']} "
+                        f"(score: {chunk['score']:.3f})"
+                    )
+            else:
+                print("- No relevant documents found.")
+
+            print()
+
+        except Exception as error:
+            print("\nRequest failed:", error, "\n")
+
+
+if __name__ == "__main__":
+    main()

@@ -1,6 +1,8 @@
 .env
 .venv/
 __pycache__/
-data/
-kb/
-practice/
+*.py[cod]
+.vscode/
+audio/
+outputs/
+tools/tickets_created.csv

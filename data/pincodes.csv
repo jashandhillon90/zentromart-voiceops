@@ -1,0 +1,37 @@
+city,state,pincode,metro,serviceable,cod_available,express_available
+Bengaluru,Karnataka,560034,True,True,True,True
+Bengaluru,Karnataka,560076,True,True,True,True
+Bengaluru,Karnataka,560103,True,True,True,True
+Mumbai,Maharashtra,400053,True,True,True,True
+Mumbai,Maharashtra,400076,True,True,True,True
+Thane,Maharashtra,400601,True,True,True,True
+Pune,Maharashtra,411014,True,True,True,True
+Pune,Maharashtra,411045,True,True,True,False
+New Delhi,Delhi,110017,True,True,True,True
+New Delhi,Delhi,110092,True,True,True,True
+Gurugram,Haryana,122002,True,True,True,True
+Noida,Uttar Pradesh,201301,True,True,True,True
+Hyderabad,Telangana,500081,True,True,True,True
+Hyderabad,Telangana,500032,True,True,True,True
+Chennai,Tamil Nadu,600042,True,True,True,True
+Chennai,Tamil Nadu,600119,True,True,True,True
+Kolkata,West Bengal,700091,True,True,True,True
+Kolkata,West Bengal,700064,True,True,True,False
+Ahmedabad,Gujarat,380015,True,True,True,True
+Jaipur,Rajasthan,302017,False,True,True,False
+Lucknow,Uttar Pradesh,226010,False,True,True,False
+Indore,Madhya Pradesh,452010,False,True,True,False
+Kochi,Kerala,682024,False,True,True,False
+Coimbatore,Tamil Nadu,641004,False,True,True,False
+Mysuru,Karnataka,570017,False,True,True,False
+Bhubaneswar,Odisha,751024,False,True,True,False
+Guwahati,Assam,781006,False,True,True,False
+Patna,Bihar,800001,False,True,True,False
+Chandigarh,Chandigarh,160017,False,True,True,False
+Nagpur,Maharashtra,440010,False,True,True,False
+Visakhapatnam,Andhra Pradesh,530017,False,True,True,False
+Surat,Gujarat,395007,False,True,True,False
+Dehradun,Uttarakhand,248001,False,True,False,False
+Shillong,Meghalaya,793001,False,True,False,False
+Leh,Ladakh,194101,False,False,False,False
+Port Blair,Andaman and Nicobar Islands,744101,False,False,False,False

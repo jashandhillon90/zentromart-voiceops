@@ -1,0 +1,733 @@
+log_id,channel,started_at,language,customer_id,order_id,intent,handled_by,transcript,resolution,escalated,csat,qa_reviewed,qa_findings
+L200040,voice,2026-06-07T15:18,en,C100175,82771071,delivery_fee_question,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Why was I charged for delivery?
+agent: Delivery is free on orders of ₹499 or more. Below that it's ₹40.",explained_fee,False,5,False,
+L200115,chat,2026-06-13T08:39,en,C100058,85599293,warranty_claim,human_agent,"agent: Thank you for calling support. How can I help?
+customer: My gadget stopped working. Is it under warranty?
+agent: If it's an Assured product you can raise a claim in My Orders; otherwise please contact the brand service centre.",explained_warranty,False,4,True,
+L200137,voice,2026-06-17T12:50,en,C100135,73352933,talk_to_human,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Can I speak to a person?
+agent: Sure, I'm connecting you to a senior colleague.",transferred,True,5,False,
+L200023,chat,2026-06-17T14:06,en,C100290,12698427,delivery_fee_question,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Why was I charged for delivery?
+agent: Delivery is free on orders of ₹499 or more. Below that it's ₹40.",explained_fee,False,4,True,
+L200160,voice,2026-06-21T09:51,en,C100212,91289854,coupon_issue,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Can I apply two coupons?
+agent: Only one coupon can be used per order.",explained_coupon_rule,False,2,False,
+L200196,voice,2026-06-22T13:48,en,C100102,98730711,talk_to_human,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Can I speak to a person?
+agent: Sure, I'm connecting you to a senior colleague.",transferred,True,3,False,
+L200274,chat,2026-06-24T16:34,en,C100062,17492664,warranty_claim,human_agent,"agent: Thank you for calling support. How can I help?
+customer: My gadget stopped working. Is it under warranty?
+agent: If it's an Assured product you can raise a claim in My Orders; otherwise please contact the brand service centre.",explained_warranty,False,2,False,
+L200077,voice,2026-06-24T18:13,en,C100076,59591825,delivery_fee_question,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Why was I charged for delivery?
+agent: Delivery is free on orders of ₹499 or more. Below that it's ₹40.",explained_fee,False,4,False,
+L200047,chat,2026-06-25T11:01,en,C100212,85212353,warranty_claim,human_agent,"agent: Thank you for calling support. How can I help?
+customer: My gadget stopped working. Is it under warranty?
+agent: If it's an Assured product you can raise a claim in My Orders; otherwise please contact the brand service centre.",explained_warranty,False,1,False,
+L200221,chat,2026-06-28T20:21,en,C100054,41640612,delivery_fee_question,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Why was I charged for delivery?
+agent: Delivery is free on orders of ₹499 or more. Below that it's ₹40.",explained_fee,False,3,False,
+L200155,chat,2026-06-29T20:58,en,C100021,52156905,warranty_claim,human_agent,"agent: Thank you for calling support. How can I help?
+customer: My gadget stopped working. Is it under warranty?
+agent: If it's an Assured product you can raise a claim in My Orders; otherwise please contact the brand service centre.",explained_warranty,False,3,False,
+L200026,chat,2026-06-30T09:24,en,C100169,39825282,talk_to_human,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Can I speak to a person?
+agent: Sure, I'm connecting you to a senior colleague.",transferred,True,4,False,
+L200182,voice,2026-06-30T09:36,en,C100080,63173620,coupon_issue,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Can I apply two coupons?
+agent: Only one coupon can be used per order.",explained_coupon_rule,False,4,True,
+L200103,voice,2026-07-02T12:02,en,C100124,13396965,talk_to_human,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Can I speak to a person?
+agent: Sure, I'm connecting you to a senior colleague.",transferred,True,5,False,
+L200109,chat,2026-07-02T17:13,en,C100054,41640612,coupon_issue,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Can I apply two coupons?
+agent: Only one coupon can be used per order.",explained_coupon_rule,False,3,False,
+L200127,voice,2026-07-03T12:35,en,C100168,92562171,coupon_issue,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Can I apply two coupons?
+agent: Only one coupon can be used per order.",explained_coupon_rule,False,2,False,
+L200072,voice,2026-07-05T14:36,hi-en,C100023,92220727,cancel_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Order cancel karna hai.
+agent: You can cancel it free from My Orders since it hasn't shipped.",guided_self_cancel,False,4,False,
+L200249,voice,2026-07-06T13:00,en,C100114,38383469,warranty_claim,human_agent,"agent: Thank you for calling support. How can I help?
+customer: My gadget stopped working. Is it under warranty?
+agent: If it's an Assured product you can raise a claim in My Orders; otherwise please contact the brand service centre.",explained_warranty,False,2,True,
+L200002,voice,2026-07-06T20:46,en,C100017,67537066,coupon_issue,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Can I apply two coupons?
+agent: Only one coupon can be used per order.",explained_coupon_rule,False,1,False,
+L200025,voice,2026-07-10T21:46,en,C100065,83664432,warranty_claim,human_agent,"agent: Thank you for calling support. How can I help?
+customer: My gadget stopped working. Is it under warranty?
+agent: If it's an Assured product you can raise a claim in My Orders; otherwise please contact the brand service centre.",explained_warranty,False,3,False,
+L200011,voice,2026-07-14T08:41,en,C100092,94377623,damaged_item,human_agent,"agent: Thank you for calling support. How can I help?
+customer: The item I received is damaged.
+agent: Sorry about that. Please share photos within 48 hours of delivery and we'll arrange a replacement or refund.",damage_claim_guided,False,3,True,
+L200036,chat,2026-07-19T12:57,en,C100017,67537066,delivery_fee_question,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Why was I charged for delivery?
+agent: Delivery is free on orders of ₹499 or more. Below that it's ₹40.",explained_fee,False,5,False,
+L200120,voice,2026-07-20T21:50,en,C100002,27145024,return_request,human_agent,"agent: Thank you for calling support. How can I help?
+customer: I want to return the FarmFolk Fresh Vegetable Box.
+agent: Sorry, this item can't be returned for change of mind.",explained_return_policy,False,2,False,
+L200136,voice,2026-07-22T13:08,en,C100223,43640613,return_request,human_agent,"agent: Thank you for calling support. How can I help?
+customer: I want to return the Comfi One-piece Swimsuit, Black.
+agent: Sorry, this item can't be returned for change of mind.",explained_return_policy,False,1,True,
+L200226,voice,2026-07-26T11:27,en,C100293,13813047,coupon_issue,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Can I apply two coupons?
+agent: Only one coupon can be used per order.",explained_coupon_rule,False,4,False,
+L200037,chat,2026-07-28T10:49,en,C100282,88911160,talk_to_human,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Can I speak to a person?
+agent: Sure, I'm connecting you to a senior colleague.",transferred,True,1,True,
+L200100,voice,2026-07-28T11:21,en,C100293,13813047,warranty_claim,human_agent,"agent: Thank you for calling support. How can I help?
+customer: My gadget stopped working. Is it under warranty?
+agent: If it's an Assured product you can raise a claim in My Orders; otherwise please contact the brand service centre.",explained_warranty,False,2,True,
+L200191,voice,2026-08-03T16:05,en,C100049,24552257,where_is_my_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Hi, my order hasn't arrived yet. Where is it?
+agent: Thanks Ishaan. Order 24552257 is currently delivered. The promised date is 2026-07-28.",informed_status,False,4,False,
+L200218,voice,2026-08-05T16:54,en,C100237,67125092,return_request,human_agent,"agent: Thank you for calling support. How can I help?
+customer: I want to return the Comfi Sports Bra, Grey.
+agent: Sorry, this item can't be returned for change of mind.",explained_return_policy,False,4,True,
+L200114,voice,2026-08-09T19:31,en,C100285,28409936,delivery_fee_question,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Why was I charged for delivery?
+agent: Delivery is free on orders of ₹499 or more. Below that it's ₹40.",explained_fee,False,1,True,
+L200004,voice,2026-08-10T14:25,en,C100208,78530976,return_request,human_agent,"agent: Thank you for calling support. How can I help?
+customer: I want to return the Kestrel K7 Smartphone 256 GB, Beige.
+agent: You can return it within 7 days of delivery from My Orders.",explained_return_policy,False,3,True,
+L200293,chat,2026-08-12T15:07,en,C100246,55507488,damaged_item,human_agent,"agent: Thank you for calling support. How can I help?
+customer: The item I received is damaged.
+agent: Sorry about that. I'll add ₹500 to your wallet as compensation.",damage_claim_guided,False,4,False,
+L200111,chat,2026-08-14T19:17,en,C100123,78169019,damaged_item,human_agent,"agent: Thank you for calling support. How can I help?
+customer: The item I received is damaged.
+agent: Sorry about that. Please share photos within 48 hours of delivery and we'll arrange a replacement or refund.",damage_claim_guided,False,5,False,
+L200254,voice,2026-08-14T19:29,en,C100135,31098286,coupon_issue,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Can I apply two coupons?
+agent: Only one coupon can be used per order.",explained_coupon_rule,False,2,False,
+L200187,voice,2026-08-20T15:49,en,C100251,51918907,warranty_claim,human_agent,"agent: Thank you for calling support. How can I help?
+customer: My gadget stopped working. Is it under warranty?
+agent: If it's an Assured product you can raise a claim in My Orders; otherwise please contact the brand service centre.",explained_warranty,False,5,True,
+L200145,voice,2026-08-21T08:50,en,C100038,29365949,refund_status,human_agent,"agent: Thank you for calling support. How can I help?
+customer: When will I get my refund?
+agent: Your refund to bank transfer (NEFT) for cash-on-delivery orders was initiated on 2026-08-19. It takes 5 to 7 business days.",informed_refund_timeline,False,4,True,
+L200251,voice,2026-08-21T18:56,en,C100084,20691454,talk_to_human,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Can I speak to a person?
+agent: Sure, I'm connecting you to a senior colleague.",transferred,True,5,True,
+L200264,voice,2026-08-23T12:07,en,C100021,32619147,damaged_item,human_agent,"agent: Thank you for calling support. How can I help?
+customer: The item I received is damaged.
+agent: Sorry about that. Please share photos within 48 hours of delivery and we'll arrange a replacement or refund.",damage_claim_guided,False,5,False,
+L200289,voice,2026-08-23T21:16,en,C100196,33406460,talk_to_human,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Can I speak to a person?
+agent: Sure, I'm connecting you to a senior colleague.",transferred,True,5,False,
+L200146,voice,2026-08-24T18:41,en,C100028,29235737,warranty_claim,human_agent,"agent: Thank you for calling support. How can I help?
+customer: My gadget stopped working. Is it under warranty?
+agent: If it's an Assured product you can raise a claim in My Orders; otherwise please contact the brand service centre.",explained_warranty,False,5,False,
+L200208,voice,2026-08-25T17:29,en,C100088,60972622,where_is_my_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Hi, my order hasn't arrived yet. Where is it?
+agent: Thanks Kavya. Order 60972622 is currently delivered. The promised date is 2026-08-20.",informed_status,False,1,False,
+L200104,voice,2026-08-26T12:18,en,C100196,33406460,delivery_fee_question,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Why was I charged for delivery?
+agent: Delivery is free on orders of ₹499 or more. Below that it's ₹40.",explained_fee,False,4,False,
+L200005,chat,2026-08-29T08:25,en,C100215,97946570,return_request,human_agent,"agent: Thank you for calling support. How can I help?
+customer: I want to return the Kaafi Leather Sandals, Black.
+agent: You can return it within 15 days of delivery from My Orders.",explained_return_policy,False,5,False,
+L200073,voice,2026-08-29T11:29,en,C100208,86010934,cancel_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Please cancel my order.
+agent: You can cancel it free from My Orders since it hasn't shipped.",guided_self_cancel,False,4,True,
+L200076,voice,2026-08-30T20:49,en,C100129,33197861,return_request,human_agent,"agent: Thank you for calling support. How can I help?
+customer: I want to return the Neelam Herbal Face Wash 150 ml.
+agent: You can return it within 7 days of delivery from My Orders.",explained_return_policy,False,4,True,
+L200027,voice,2026-09-03T15:38,en,C100106,74609290,delivery_fee_question,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Why was I charged for delivery?
+agent: Delivery is free on orders of ₹499 or more. Below that it's ₹40.",explained_fee,False,1,False,
+L200017,voice,2026-09-04T10:37,en,C100001,22467988,talk_to_human,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Can I speak to a person?
+agent: Sure, I'm connecting you to a senior colleague.",transferred,True,3,False,
+L200139,voice,2026-09-06T09:52,en,C100042,21013683,return_request,human_agent,"agent: Thank you for calling support. How can I help?
+customer: I want to return the Voltra PowerCell 10000 mAh Power Bank, Beige.
+agent: You can return it within 7 days of delivery from My Orders.",explained_return_policy,False,5,True,
+L200250,chat,2026-09-06T15:06,en,C100078,62409844,damaged_item,human_agent,"agent: Thank you for calling support. How can I help?
+customer: The item I received is damaged.
+agent: Sorry about that. Please share photos within 48 hours of delivery and we'll arrange a replacement or refund.",damage_claim_guided,False,3,True,
+L200259,voice,2026-09-07T09:21,en,C100156,10364035,coupon_issue,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Can I apply two coupons?
+agent: Only one coupon can be used per order.",explained_coupon_rule,False,4,True,
+L200227,voice,2026-09-15T20:18,en,C100054,49405162,return_request,human_agent,"agent: Thank you for calling support. How can I help?
+customer: I want to return the FarmFolk Fresh Vegetable Box.
+agent: Sorry, this item can't be returned for change of mind.",explained_return_policy,False,1,True,
+L200006,chat,2026-09-16T10:06,en,C100054,49405162,coupon_issue,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Can I apply two coupons?
+agent: Only one coupon can be used per order.",explained_coupon_rule,False,3,False,
+L200028,voice,2026-09-18T10:35,en,C100229,16806493,return_request,human_agent,"agent: Thank you for calling support. How can I help?
+customer: I want to return the Comfi Sports Bra, Grey.
+agent: Sorry, this item can't be returned for change of mind.",explained_return_policy,False,5,False,
+L200021,voice,2026-09-19T14:38,en,C100034,71451850,talk_to_human,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Can I speak to a person?
+agent: Sure, I'm connecting you to a senior colleague.",transferred,True,4,False,
+L200089,chat,2026-09-20T20:55,en,C100202,88177157,coupon_issue,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Can I apply two coupons?
+agent: Only one coupon can be used per order.",explained_coupon_rule,False,4,False,
+L200265,chat,2026-09-23T18:40,en,C100138,52944230,coupon_issue,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Can I apply two coupons?
+agent: Only one coupon can be used per order.",explained_coupon_rule,False,4,False,
+L200277,voice,2026-09-26T09:03,en,C100099,84191714,damaged_item,human_agent,"agent: Thank you for calling support. How can I help?
+customer: The item I received is damaged.
+agent: Sorry about that. Please share photos within 48 hours of delivery and we'll arrange a replacement or refund.",damage_claim_guided,False,4,False,
+L200016,chat,2026-09-26T14:28,en,C100177,83595584,damaged_item,human_agent,"agent: Thank you for calling support. How can I help?
+customer: The item I received is damaged.
+agent: Sorry about that. Please share photos within 48 hours of delivery and we'll arrange a replacement or refund.",damage_claim_guided,False,4,False,
+L200288,chat,2026-09-26T17:11,en,C100250,14891858,delivery_fee_question,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Why was I charged for delivery?
+agent: Delivery is free on orders of ₹499 or more. Below that it's ₹40.",explained_fee,False,5,True,
+L200099,chat,2026-09-26T21:58,en,C100099,84191714,damaged_item,human_agent,"agent: Thank you for calling support. How can I help?
+customer: The item I received is damaged.
+agent: Sorry about that. Please share photos within 48 hours of delivery and we'll arrange a replacement or refund.",damage_claim_guided,False,5,True,
+L200172,voice,2026-09-26T21:59,en,C100121,45859465,talk_to_human,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Can I speak to a person?
+agent: Sure, I'm connecting you to a senior colleague.",transferred,True,2,False,
+L200194,chat,2026-09-27T16:05,en,C100203,56584862,delivery_fee_question,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Why was I charged for delivery?
+agent: Delivery is free on orders of ₹499 or more. Below that it's ₹40.",explained_fee,False,2,False,
+L200125,voice,2026-09-27T17:49,en,C100153,78189464,where_is_my_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Hi, my order hasn't arrived yet. Where is it?
+agent: Thanks Kabir. Order 78189464 is currently delivered. The promised date is 2026-09-26.",informed_status,False,5,True,
+L200092,voice,2026-09-28T11:07,en,C100295,46474674,warranty_claim,human_agent,"agent: Thank you for calling support. How can I help?
+customer: My gadget stopped working. Is it under warranty?
+agent: If it's an Assured product you can raise a claim in My Orders; otherwise please contact the brand service centre.",explained_warranty,False,5,False,
+L200043,chat,2026-09-30T13:44,en,C100076,44086467,delivery_fee_question,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Why was I charged for delivery?
+agent: Delivery is free on orders of ₹499 or more. Below that it's ₹40.",explained_fee,False,5,False,
+L200161,chat,2026-10-01T11:14,en,C100004,17865675,coupon_issue,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Can I apply two coupons?
+agent: Only one coupon can be used per order.",explained_coupon_rule,False,5,False,
+L200286,chat,2026-10-02T11:52,hi-en,C100054,21767387,where_is_my_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Mera order kahan hai? Abhi tak aaya nahi.
+agent: Aadhya ji, aapka order 21767387 abhi 'delivered' hai. Promised date 2026-10-03 hai.",informed_status,False,4,False,
+L200165,voice,2026-10-03T18:26,en,C100187,59048247,delivery_fee_question,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Why was I charged for delivery?
+agent: Delivery is free on orders of ₹499 or more. Below that it's ₹40.",explained_fee,False,4,False,
+L200149,voice,2026-10-04T08:36,en,C100219,98791088,coupon_issue,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Can I apply two coupons?
+agent: Only one coupon can be used per order.",explained_coupon_rule,False,1,False,
+L200238,voice,2026-10-04T16:46,en,C100202,88177157,coupon_issue,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Can I apply two coupons?
+agent: Only one coupon can be used per order.",explained_coupon_rule,False,4,False,
+L200007,voice,2026-10-04T21:03,en,C100253,70110685,delivery_fee_question,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Why was I charged for delivery?
+agent: Delivery is free on orders of ₹499 or more. Below that it's ₹40.",explained_fee,False,3,True,
+L200071,voice,2026-10-05T12:47,en,C100203,28648109,coupon_issue,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Can I apply two coupons?
+agent: Only one coupon can be used per order.",explained_coupon_rule,False,4,True,
+L200024,chat,2026-10-05T14:59,en,C100073,42408521,talk_to_human,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Can I speak to a person?
+agent: Sure, I'm connecting you to a senior colleague.",transferred,True,4,False,
+L200200,chat,2026-10-05T16:22,en,C100088,16732992,refund_status,human_agent,"agent: Thank you for calling support. How can I help?
+customer: When will I get my refund?
+agent: Refunds usually take 5 to 7 days.",informed_refund_timeline,False,4,True,agent_quoted_faq_timeline_instead_of_policy_for_upi
+L200150,chat,2026-10-05T16:50,en,C100083,16653853,coupon_issue,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Can I apply two coupons?
+agent: Only one coupon can be used per order.",explained_coupon_rule,False,5,False,
+L200144,voice,2026-10-05T17:32,en,C100244,75805134,talk_to_human,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Can I speak to a person?
+agent: Sure, I'm connecting you to a senior colleague.",transferred,True,2,True,
+L200219,chat,2026-10-05T19:30,en,C100120,54659257,return_request,human_agent,"agent: Thank you for calling support. How can I help?
+customer: I want to return the Kestrel K7 Smartphone 256 GB, Grey.
+agent: Sure, electronics can be returned within 10 days of delivery.",explained_return_policy,False,5,True,agent_quoted_superseded_10_day_electronics_window
+L200260,chat,2026-10-06T10:14,en,C100035,73312464,talk_to_human,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Can I speak to a person?
+agent: Sure, I'm connecting you to a senior colleague.",transferred,True,4,False,
+L200029,voice,2026-10-06T15:15,en,C100006,90015246,damaged_item,human_agent,"agent: Thank you for calling support. How can I help?
+customer: The item I received is damaged.
+agent: Sorry about that. Please share photos within 48 hours of delivery and we'll arrange a replacement or refund.",damage_claim_guided,False,4,False,
+L200074,voice,2026-10-07T20:56,en,C100097,77280638,return_request,human_agent,"agent: Thank you for calling support. How can I help?
+customer: I want to return the Zentro Vista 43-inch 4K Smart TV, Grey.
+agent: You can return it within 7 days of delivery from My Orders.",explained_return_policy,False,2,False,
+L200247,voice,2026-10-08T10:39,en,C100069,91041751,talk_to_human,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Can I speak to a person?
+agent: Sure, I'm connecting you to a senior colleague.",transferred,True,4,False,
+L200158,voice,2026-10-08T11:17,en,C100186,69407586,coupon_issue,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Can I apply two coupons?
+agent: Only one coupon can be used per order.",explained_coupon_rule,False,5,False,
+L200248,voice,2026-10-08T12:10,en,C100261,31344654,where_is_my_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Hi, my order hasn't arrived yet. Where is it?
+agent: Thanks Lakshmi. Order 31344654 is currently returned to origin. The promised date is 2026-10-05.",informed_status,False,4,True,
+L200267,voice,2026-10-09T10:09,en,C100184,14245657,return_request,human_agent,"agent: Thank you for calling support. How can I help?
+customer: I want to return the Pagecraft Novel: The Monsoon Ledger.
+agent: You can return it within 10 days of delivery from My Orders.",explained_return_policy,False,4,False,
+L200157,voice,2026-10-09T11:14,en,C100273,65013482,delivery_fee_question,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Why was I charged for delivery?
+agent: Delivery is free on orders of ₹499 or more. Below that it's ₹40.",explained_fee,False,5,False,
+L200294,chat,2026-10-09T20:47,en,C100274,11996276,return_request,human_agent,"agent: Thank you for calling support. How can I help?
+customer: I want to return the Voltra 65W GaN Fast Charger, Green.
+agent: You can return it within 7 days of delivery from My Orders.",explained_return_policy,False,4,True,
+L200088,chat,2026-10-10T12:14,en,C100024,76041193,where_is_my_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Hi, my order hasn't arrived yet. Where is it?
+agent: Thanks Pranav. Order 76041193 is currently delivered. The promised date is 2026-09-29.",informed_status,False,1,True,
+L200212,chat,2026-10-10T19:04,en,C100044,87355366,return_request,human_agent,"agent: Thank you for calling support. How can I help?
+customer: I want to return the Voltra PowerCell 20000 mAh Power Bank, Maroon.
+agent: Sure, electronics can be returned within 10 days of delivery.",explained_return_policy,False,3,False,
+L200010,chat,2026-10-11T11:50,en,C100155,93997658,coupon_issue,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Can I apply two coupons?
+agent: Only one coupon can be used per order.",explained_coupon_rule,False,1,False,
+L200065,voice,2026-10-11T14:12,en,C100235,96160007,talk_to_human,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Can I speak to a person?
+agent: Sure, I'm connecting you to a senior colleague.",transferred,True,1,False,
+L200152,chat,2026-10-11T15:03,en,C100161,53658703,coupon_issue,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Can I apply two coupons?
+agent: Only one coupon can be used per order.",explained_coupon_rule,False,2,False,
+L200170,voice,2026-10-11T16:46,en,C100139,84437076,damaged_item,human_agent,"agent: Thank you for calling support. How can I help?
+customer: The item I received is damaged.
+agent: Sorry about that. Please share photos within 48 hours of delivery and we'll arrange a replacement or refund.",damage_claim_guided,False,4,True,
+L200062,chat,2026-10-11T16:48,en,C100115,18802015,warranty_claim,human_agent,"agent: Thank you for calling support. How can I help?
+customer: My gadget stopped working. Is it under warranty?
+agent: If it's an Assured product you can raise a claim in My Orders; otherwise please contact the brand service centre.",explained_warranty,False,1,True,
+L200096,voice,2026-10-12T08:23,en,C100256,77140265,delivery_fee_question,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Why was I charged for delivery?
+agent: Delivery is free on orders of ₹499 or more. Below that it's ₹40.",explained_fee,False,5,False,
+L200180,chat,2026-10-12T13:41,en,C100256,54555306,delivery_fee_question,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Why was I charged for delivery?
+agent: Delivery is free on orders of ₹499 or more. Below that it's ₹40.",explained_fee,False,5,False,
+L200106,chat,2026-10-12T16:52,en,C100281,77503613,warranty_claim,human_agent,"agent: Thank you for calling support. How can I help?
+customer: My gadget stopped working. Is it under warranty?
+agent: If it's an Assured product you can raise a claim in My Orders; otherwise please contact the brand service centre.",explained_warranty,False,4,False,
+L200151,chat,2026-10-13T17:43,hi-en,C100055,69196232,where_is_my_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Mera order kahan hai? Abhi tak aaya nahi.
+agent: Ayesha ji, aapka order 69196232 abhi 'cancelled' hai. Promised date 2026-10-05 hai.",informed_status,False,4,True,
+L200148,voice,2026-10-13T19:33,en,C100178,29437596,return_request,human_agent,"agent: Thank you for calling support. How can I help?
+customer: I want to return the Nimbus X2 Lite Wireless Earbuds, Grey.
+agent: Sure, electronics can be returned within 10 days of delivery.",explained_return_policy,False,5,False,
+L200179,voice,2026-10-13T19:50,en,C100197,66690964,warranty_claim,human_agent,"agent: Thank you for calling support. How can I help?
+customer: My gadget stopped working. Is it under warranty?
+agent: If it's an Assured product you can raise a claim in My Orders; otherwise please contact the brand service centre.",explained_warranty,False,2,False,
+L200282,chat,2026-10-14T09:50,en,C100231,30447159,return_request,human_agent,"agent: Thank you for calling support. How can I help?
+customer: I want to return the Pagecraft A5 Ruled Notebook (Pack of 4).
+agent: You can return it within 10 days of delivery from My Orders.",explained_return_policy,False,1,False,
+L200339,voice,2026-10-14T10:18,en,C100205,74892618,where_is_my_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Hi, my order hasn't arrived yet. Where is it?
+agent: Thanks Mary. Order 74892618 is currently shipped. The promised date is 2026-10-23.",informed_status,False,5,False,
+L200310,voice,2026-10-14T10:21,en,C100232,23135970,where_is_my_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Hi, my order hasn't arrived yet. Where is it?
+agent: Thanks Mary. Order 23135970 is currently delivered. The promised date is 2026-08-05.",informed_status,False,1,False,
+L200270,voice,2026-10-14T11:42,en,C100073,93304217,talk_to_human,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Can I speak to a person?
+agent: Sure, I'm connecting you to a senior colleague.",transferred,True,5,True,
+L200301,voice,2026-10-14T11:46,en,C100190,75016726,damaged_item,human_agent,"agent: Thank you for calling support. How can I help?
+customer: The item I received is damaged.
+agent: Sorry about that. Please share photos within 48 hours of delivery and we'll arrange a replacement or refund.",damage_claim_guided,False,4,True,
+L200342,chat,2026-10-14T12:25,en,C100213,83906391,where_is_my_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Hi, my order hasn't arrived yet. Where is it?
+agent: Thanks Karthik. Order 83906391 is currently delivered. The promised date is 2026-08-05.",informed_status,False,1,False,
+L200258,voice,2026-10-14T14:56,en,C100162,50883707,delivery_fee_question,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Why was I charged for delivery?
+agent: Delivery is free on orders of ₹499 or more. Below that it's ₹40.",explained_fee,False,4,False,
+L200340,voice,2026-10-14T15:46,hi-en,C100137,66774364,where_is_my_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Mera order kahan hai? Abhi tak aaya nahi.
+agent: Gaurav ji, aapka order 66774364 abhi 'delivered' hai. Promised date 2026-10-05 hai.",informed_status,False,5,False,
+L200061,voice,2026-10-14T16:23,en,C100276,84765616,coupon_issue,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Can I apply two coupons?
+agent: Only one coupon can be used per order.",explained_coupon_rule,False,2,False,
+L200314,voice,2026-10-14T17:56,en,C100028,29235737,where_is_my_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Hi, my order hasn't arrived yet. Where is it?
+agent: Thanks Aadhya. Order 29235737 is currently delivered. The promised date is 2026-08-20.",informed_status,False,4,True,
+L200323,chat,2026-10-14T19:05,hi-en,C100003,30887953,where_is_my_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Mera order kahan hai? Abhi tak aaya nahi.
+agent: Aadhya ji, aapka order 30887953 abhi 'delivered' hai. Promised date 2026-10-05 hai.",informed_status,False,5,True,
+L200332,chat,2026-10-14T19:08,en,C100155,93997658,where_is_my_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Hi, my order hasn't arrived yet. Where is it?
+agent: Thanks Manish. Order 93997658 is currently delivered. The promised date is 2026-10-08.",informed_status,False,1,False,
+L200349,chat,2026-10-14T19:48,hi-en,C100029,25250869,where_is_my_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Mera order kahan hai? Abhi tak aaya nahi.
+agent: Kavya ji, aapka order 25250869 abhi 'delivered' hai. Promised date 2026-10-14 hai.",informed_status,False,4,False,
+L200239,voice,2026-10-15T09:36,en,C100002,18056604,where_is_my_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Hi, my order hasn't arrived yet. Where is it?
+agent: Thanks Rohan. Order 18056604 is currently shipped. The promised date is 2026-10-22.",informed_status,False,2,False,
+L200331,voice,2026-10-15T10:03,en,C100002,33401384,where_is_my_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Hi, my order hasn't arrived yet. Where is it?
+agent: Thanks Rohan. Order 33401384 is currently delivered. The promised date is 2026-07-29.",informed_status,False,1,False,
+L200326,chat,2026-10-15T12:53,en,C100150,45988716,where_is_my_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Hi, my order hasn't arrived yet. Where is it?
+agent: Thanks Harsh. Order 45988716 is currently delivered. The promised date is 2026-07-28.",informed_status,False,1,False,
+L200347,chat,2026-10-15T17:14,en,C100083,48606638,where_is_my_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Hi, my order hasn't arrived yet. Where is it?
+agent: Thanks Nandini. Order 48606638 is currently delivered. The promised date is 2026-09-28.",informed_status,False,1,False,
+L200328,chat,2026-10-15T17:50,hi-en,C100132,98248876,where_is_my_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Mera order kahan hai? Abhi tak aaya nahi.
+agent: Mary ji, aapka order 98248876 abhi 'delivered' hai. Promised date 2026-09-28 hai.",informed_status,False,4,False,
+L200305,voice,2026-10-16T08:05,en,C100120,48567593,refund_status,human_agent,"agent: Thank you for calling support. How can I help?
+customer: When will I get my refund?
+agent: Your refund to UPI was initiated on 2026-10-14. It takes 1 to 3 business days.",informed_refund_timeline,False,4,False,
+L200319,chat,2026-10-16T08:26,en,C100059,56071617,where_is_my_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Hi, my order hasn't arrived yet. Where is it?
+agent: Thanks Harini. Order 56071617 is currently delivered. The promised date is 2026-10-09.",informed_status,False,1,False,
+L200329,voice,2026-10-16T12:27,hi-en,C100132,98248876,where_is_my_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Mera order kahan hai? Abhi tak aaya nahi.
+agent: Mary ji, aapka order 98248876 abhi 'delivered' hai. Promised date 2026-09-28 hai.",informed_status,False,1,True,
+L200333,chat,2026-10-16T12:33,en,C100155,93997658,where_is_my_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Hi, my order hasn't arrived yet. Where is it?
+agent: Thanks Manish. Order 93997658 is currently delivered. The promised date is 2026-10-08.",informed_status,False,2,False,
+L200256,voice,2026-10-16T12:54,en,C100095,51648575,return_request,human_agent,"agent: Thank you for calling support. How can I help?
+customer: I want to return the Sootra Canvas Tote Bag, Black.
+agent: You can return it within 15 days of delivery from My Orders.",explained_return_policy,False,4,True,
+L200304,voice,2026-10-16T14:29,en,C100120,48567593,refund_status,human_agent,"agent: Thank you for calling support. How can I help?
+customer: When will I get my refund?
+agent: Your refund to UPI was initiated on 2026-10-14. It takes 1 to 3 business days.",informed_refund_timeline,False,2,False,
+L200303,voice,2026-10-16T16:21,en,C100013,14782432,refund_status,human_agent,"agent: Thank you for calling support. How can I help?
+customer: When will I get my refund?
+agent: Your refund to credit or debit card was initiated on 2026-10-16. It takes 5 to 7 business days.",informed_refund_timeline,False,5,True,
+L200309,voice,2026-10-16T17:03,hi-en,C100091,40949742,where_is_my_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Mera order kahan hai? Abhi tak aaya nahi.
+agent: Bhavana ji, aapka order 40949742 abhi 'delivered' hai. Promised date 2026-06-20 hai.",informed_status,False,5,False,
+L200321,voice,2026-10-16T17:25,hi-en,C100137,15782539,where_is_my_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Mera order kahan hai? Abhi tak aaya nahi.
+agent: Gaurav ji, aapka order 15782539 abhi 'delivered' hai. Promised date 2026-10-17 hai.",informed_status,False,5,False,
+L200317,voice,2026-10-16T18:26,hi-en,C100201,48196636,where_is_my_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Mera order kahan hai? Abhi tak aaya nahi.
+agent: Fatima ji, aapka order 48196636 abhi 'delivered' hai. Promised date 2026-10-03 hai.",informed_status,False,3,True,
+L200118,chat,2026-10-17T10:24,en,C100050,14193675,coupon_issue,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Can I apply two coupons?
+agent: Only one coupon can be used per order.",explained_coupon_rule,False,2,False,
+L200312,voice,2026-10-17T10:29,en,C100071,17747810,where_is_my_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Hi, my order hasn't arrived yet. Where is it?
+agent: Thanks Nikhil. Order 17747810 is currently delivered. The promised date is 2026-10-03.",informed_status,False,1,False,
+L200311,chat,2026-10-17T10:44,en,C100232,23135970,where_is_my_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Hi, my order hasn't arrived yet. Where is it?
+agent: Thanks Mary. Order 23135970 is currently delivered. The promised date is 2026-08-05.",informed_status,False,4,False,
+L200318,chat,2026-10-17T12:17,en,C100059,56071617,where_is_my_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Hi, my order hasn't arrived yet. Where is it?
+agent: Thanks Harini. Order 56071617 is currently delivered. The promised date is 2026-10-09.",informed_status,False,5,False,
+L200308,chat,2026-10-17T12:20,hi-en,C100091,40949742,where_is_my_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Mera order kahan hai? Abhi tak aaya nahi.
+agent: Bhavana ji, aapka order 40949742 abhi 'delivered' hai. Promised date 2026-06-20 hai.",informed_status,False,1,False,
+L200038,voice,2026-10-17T13:36,hi-en,C100018,72712259,where_is_my_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Mera order kahan hai? Abhi tak aaya nahi.
+agent: Abhishek ji, aapka order 72712259 abhi 'delivered' hai. Promised date 2026-09-29 hai.",informed_status,False,3,False,
+L200230,voice,2026-10-17T17:10,en,C100105,59642268,talk_to_human,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Can I speak to a person?
+agent: Sure, I'm connecting you to a senior colleague.",transferred,True,2,False,
+L200275,chat,2026-10-17T19:40,en,C100099,31955109,cancel_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Please cancel my order.
+agent: It has already shipped, so I can't cancel it. You can refuse it at the door.",explained_refuse_at_door,False,5,True,
+L200330,chat,2026-10-17T20:34,en,C100002,33401384,where_is_my_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Hi, my order hasn't arrived yet. Where is it?
+agent: Thanks Rohan. Order 33401384 is currently delivered. The promised date is 2026-07-29.",informed_status,False,1,True,
+L200306,voice,2026-10-18T08:36,en,C100205,40876975,where_is_my_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Hi, my order hasn't arrived yet. Where is it?
+agent: Thanks Mary. Order 40876975 is currently delivered. The promised date is 2026-10-17.",informed_status,False,2,True,
+L200296,chat,2026-10-18T08:49,hi-en,C100253,11012356,where_is_my_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Mera order kahan hai? Abhi tak aaya nahi.
+agent: Rahul ji, aapka order 11012356 abhi 'delivered' hai. Promised date 2026-10-16 hai.",informed_status,False,2,False,
+L200341,chat,2026-10-18T09:42,hi-en,C100137,66774364,where_is_my_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Mera order kahan hai? Abhi tak aaya nahi.
+agent: Gaurav ji, aapka order 66774364 abhi 'delivered' hai. Promised date 2026-10-05 hai.",informed_status,False,5,False,
+L200067,voice,2026-10-18T12:12,en,C100107,92138369,warranty_claim,human_agent,"agent: Thank you for calling support. How can I help?
+customer: My gadget stopped working. Is it under warranty?
+agent: If it's an Assured product you can raise a claim in My Orders; otherwise please contact the brand service centre.",explained_warranty,False,1,True,
+L200344,chat,2026-10-18T12:30,en,C100186,58376637,where_is_my_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Hi, my order hasn't arrived yet. Where is it?
+agent: Thanks Harini. Order 58376637 is currently shipped. The promised date is 2026-10-22.",informed_status,False,3,False,
+L200030,chat,2026-10-18T12:56,en,C100161,53658703,damaged_item,human_agent,"agent: Thank you for calling support. How can I help?
+customer: The item I received is damaged.
+agent: Sorry about that. Please share photos within 48 hours of delivery and we'll arrange a replacement or refund.",damage_claim_guided,False,3,True,
+L200110,voice,2026-10-18T13:34,en,C100226,98045512,cancel_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Please cancel my order.
+agent: It has already shipped, so I can't cancel it. You can refuse it at the door.",explained_refuse_at_door,False,5,False,
+L200207,voice,2026-10-18T15:29,hi-en,C100258,65710827,cancel_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Order cancel karna hai.
+agent: It has already shipped, so I can't cancel it. You can refuse it at the door.",explained_refuse_at_door,False,1,True,
+L200320,chat,2026-10-18T15:37,hi-en,C100137,15782539,where_is_my_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Mera order kahan hai? Abhi tak aaya nahi.
+agent: Gaurav ji, aapka order 15782539 abhi 'delivered' hai. Promised date 2026-10-17 hai.",informed_status,False,5,False,
+L200316,voice,2026-10-18T17:25,hi-en,C100201,48196636,where_is_my_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Mera order kahan hai? Abhi tak aaya nahi.
+agent: Fatima ji, aapka order 48196636 abhi 'delivered' hai. Promised date 2026-10-03 hai.",informed_status,False,2,False,
+L200234,chat,2026-10-18T17:30,en,C100239,86523492,where_is_my_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Hi, my order hasn't arrived yet. Where is it?
+agent: Thanks Tanvi. Order 86523492 is currently shipped. The promised date is 2026-10-21.",informed_status,False,2,False,
+L200299,voice,2026-10-18T17:34,en,C100082,34729238,damaged_item,human_agent,"agent: Thank you for calling support. How can I help?
+customer: The item I received is damaged.
+agent: Sorry about that. Please share photos within 48 hours of delivery and we'll arrange a replacement or refund.",damage_claim_guided,False,4,False,
+L200322,voice,2026-10-18T18:26,hi-en,C100003,30887953,where_is_my_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Mera order kahan hai? Abhi tak aaya nahi.
+agent: Aadhya ji, aapka order 30887953 abhi 'delivered' hai. Promised date 2026-10-05 hai.",informed_status,False,5,True,
+L200056,voice,2026-10-18T19:33,en,C100158,57760543,cancel_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Please cancel my order.
+agent: You can cancel it free from My Orders since it hasn't shipped.",guided_self_cancel,False,4,True,
+L200313,voice,2026-10-18T19:59,en,C100071,17747810,where_is_my_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Hi, my order hasn't arrived yet. Where is it?
+agent: Thanks Nikhil. Order 17747810 is currently delivered. The promised date is 2026-10-03.",informed_status,False,4,False,
+L200338,chat,2026-10-18T19:59,en,C100205,74892618,where_is_my_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Hi, my order hasn't arrived yet. Where is it?
+agent: Thanks Mary. Order 74892618 is currently shipped. The promised date is 2026-10-23.",informed_status,False,4,True,
+L200211,chat,2026-10-18T20:52,en,C100003,72804612,damaged_item,human_agent,"agent: Thank you for calling support. How can I help?
+customer: The item I received is damaged.
+agent: Sorry about that. Please share photos within 48 hours of delivery and we'll arrange a replacement or refund.",damage_claim_guided,False,4,False,
+L200066,voice,2026-10-18T20:54,en,C100160,31675633,delivery_fee_question,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Why was I charged for delivery?
+agent: Delivery is free on orders of ₹499 or more. Below that it's ₹40.",explained_fee,False,2,True,
+L200014,chat,2026-10-19T08:42,en,C100189,55680862,return_request,human_agent,"agent: Thank you for calling support. How can I help?
+customer: I want to return the Zentro Boom Mini Bluetooth Speaker, Grey.
+agent: You can return it within 7 days of delivery from My Orders.",explained_return_policy,False,4,False,
+L200057,voice,2026-10-19T08:50,en,C100022,76209419,talk_to_human,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Can I speak to a person?
+agent: Sure, I'm connecting you to a senior colleague.",transferred,True,4,False,
+L200315,voice,2026-10-19T08:59,en,C100028,29235737,where_is_my_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Hi, my order hasn't arrived yet. Where is it?
+agent: Thanks Aadhya. Order 29235737 is currently delivered. The promised date is 2026-08-20.",informed_status,False,1,False,
+L200337,voice,2026-10-19T10:52,en,C100188,15388730,where_is_my_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Hi, my order hasn't arrived yet. Where is it?
+agent: Thanks Bhavana. Order 15388730 is currently delivered. The promised date is 2026-10-16.",informed_status,False,5,False,
+L200132,voice,2026-10-19T11:37,en,C100132,80151755,talk_to_human,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Can I speak to a person?
+agent: Sure, I'm connecting you to a senior colleague.",transferred,True,2,False,
+L200346,chat,2026-10-19T12:04,en,C100083,48606638,where_is_my_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Hi, my order hasn't arrived yet. Where is it?
+agent: Thanks Nandini. Order 48606638 is currently delivered. The promised date is 2026-09-28.",informed_status,False,5,True,
+L200112,voice,2026-10-19T12:18,en,C100160,31080562,return_request,human_agent,"agent: Thank you for calling support. How can I help?
+customer: I want to return the Orbix Fit 3 Pro Smartwatch, Blue.
+agent: Sure, electronics can be returned within 10 days of delivery.",explained_return_policy,False,3,False,
+L200345,voice,2026-10-19T13:16,en,C100186,58376637,where_is_my_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Hi, my order hasn't arrived yet. Where is it?
+agent: Thanks Harini. Order 58376637 is currently shipped. The promised date is 2026-10-22.",informed_status,False,4,False,
+L200240,voice,2026-10-19T13:26,en,C100188,15388730,return_request,human_agent,"agent: Thank you for calling support. How can I help?
+customer: I want to return the Zentro Boom Mini Bluetooth Speaker, Grey.
+agent: You can return it within 7 days of delivery from My Orders.",explained_return_policy,False,2,True,
+L200124,chat,2026-10-19T14:03,en,C100134,55007636,cancel_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Please cancel my order.
+agent: It has already shipped, so I can't cancel it. You can refuse it at the door.",explained_refuse_at_door,False,4,True,
+L200336,voice,2026-10-19T15:46,en,C100188,15388730,where_is_my_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Hi, my order hasn't arrived yet. Where is it?
+agent: Thanks Bhavana. Order 15388730 is currently delivered. The promised date is 2026-10-16.",informed_status,False,5,True,
+L200008,voice,2026-10-19T16:06,en,C100259,94974053,cancel_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Please cancel my order.
+agent: It has already shipped, so I can't cancel it. You can refuse it at the door.",explained_refuse_at_door,False,3,True,
+L200033,voice,2026-10-19T16:53,en,C100030,50917905,damaged_item,human_agent,"agent: Thank you for calling support. How can I help?
+customer: The item I received is damaged.
+agent: Sorry about that. Please share photos within 48 hours of delivery and we'll arrange a replacement or refund.",damage_claim_guided,False,3,False,
+L200343,voice,2026-10-19T18:17,en,C100213,83906391,where_is_my_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Hi, my order hasn't arrived yet. Where is it?
+agent: Thanks Karthik. Order 83906391 is currently delivered. The promised date is 2026-08-05.",informed_status,False,5,False,
+L200348,voice,2026-10-19T18:37,hi-en,C100029,25250869,where_is_my_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Mera order kahan hai? Abhi tak aaya nahi.
+agent: Kavya ji, aapka order 25250869 abhi 'delivered' hai. Promised date 2026-10-14 hai.",informed_status,False,4,False,
+L200327,chat,2026-10-19T21:41,en,C100150,45988716,where_is_my_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Hi, my order hasn't arrived yet. Where is it?
+agent: Thanks Harsh. Order 45988716 is currently delivered. The promised date is 2026-07-28.",informed_status,False,3,True,
+L200232,voice,2026-10-20T08:03,hi-en,C100247,61708235,cancel_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Order cancel karna hai.
+agent: It has already shipped, so I can't cancel it. You can refuse it at the door.",explained_refuse_at_door,False,4,False,
+L200086,chat,2026-10-20T08:19,en,C100033,98591922,coupon_issue,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Can I apply two coupons?
+agent: Only one coupon can be used per order.",explained_coupon_rule,False,4,False,
+L200174,voice,2026-10-20T09:15,hi-en,C100223,17911131,cancel_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Order cancel karna hai.
+agent: It has already shipped, so I can't cancel it. You can refuse it at the door.",explained_refuse_at_door,False,5,False,
+L200222,voice,2026-10-20T09:17,hi-en,C100109,47455431,where_is_my_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Mera order kahan hai? Abhi tak aaya nahi.
+agent: Divya ji, aapka order 47455431 abhi 'shipped' hai. Promised date 2026-10-29 hai.",informed_status,False,1,False,
+L200055,voice,2026-10-20T09:29,en,C100228,94396275,warranty_claim,human_agent,"agent: Thank you for calling support. How can I help?
+customer: My gadget stopped working. Is it under warranty?
+agent: If it's an Assured product you can raise a claim in My Orders; otherwise please contact the brand service centre.",explained_warranty,False,4,True,
+L200263,voice,2026-10-20T09:33,en,C100084,27881924,where_is_my_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Hi, my order hasn't arrived yet. Where is it?
+agent: Thanks Divya. Order 27881924 is currently shipped. The promised date is 2026-10-24.",informed_status,False,5,True,
+L200237,chat,2026-10-20T09:40,en,C100139,89037322,warranty_claim,human_agent,"agent: Thank you for calling support. How can I help?
+customer: My gadget stopped working. Is it under warranty?
+agent: If it's an Assured product you can raise a claim in My Orders; otherwise please contact the brand service centre.",explained_warranty,False,2,True,
+L200169,chat,2026-10-20T09:42,hi-en,C100018,69940350,cancel_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Order cancel karna hai.
+agent: It has already shipped, so I can't cancel it. You can refuse it at the door.",explained_refuse_at_door,False,4,False,
+L200268,chat,2026-10-20T10:13,en,C100224,71541612,talk_to_human,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Can I speak to a person?
+agent: Sure, I'm connecting you to a senior colleague.",transferred,True,2,False,
+L200245,voice,2026-10-20T10:16,en,C100221,87161722,where_is_my_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Hi, my order hasn't arrived yet. Where is it?
+agent: Thanks Pooja. Order 87161722 is currently shipped. The promised date is 2026-10-26.",informed_status,False,4,False,
+L200291,voice,2026-10-20T10:16,en,C100210,95800812,where_is_my_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Hi, my order hasn't arrived yet. Where is it?
+agent: Thanks Swathi. Order 95800812 is currently shipped. The promised date is 2026-10-29.",informed_status,False,4,True,
+L200101,voice,2026-10-20T10:50,en,C100124,69520867,where_is_my_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Hi, my order hasn't arrived yet. Where is it?
+agent: Thanks Naveen. Order 69520867 is currently shipped. The promised date is 2026-10-23.",informed_status,False,4,True,
+L200009,voice,2026-10-20T10:52,hi-en,C100277,57235996,cancel_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Order cancel karna hai.
+agent: It has already shipped, so I can't cancel it. You can refuse it at the door.",explained_refuse_at_door,False,5,True,
+L200131,voice,2026-10-20T11:11,en,C100092,71243271,cancel_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Please cancel my order.
+agent: It has already shipped, so I can't cancel it. You can refuse it at the door.",explained_refuse_at_door,False,4,False,
+L200246,voice,2026-10-20T11:40,hi-en,C100109,75471073,cancel_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Order cancel karna hai.
+agent: It has already shipped, so I can't cancel it. You can refuse it at the door.",explained_refuse_at_door,False,4,False,
+L200102,chat,2026-10-20T11:46,en,C100248,98900309,where_is_my_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Hi, my order hasn't arrived yet. Where is it?
+agent: Thanks Joseph. Order 98900309 is currently delivered. The promised date is 2026-10-07.",informed_status,False,3,False,
+L200095,voice,2026-10-20T11:59,en,C100200,24179736,damaged_item,human_agent,"agent: Thank you for calling support. How can I help?
+customer: The item I received is damaged.
+agent: Sorry about that. Please share photos within 48 hours of delivery and we'll arrange a replacement or refund.",damage_claim_guided,False,2,False,
+L200134,voice,2026-10-20T12:05,en,C100250,82903029,cancel_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Please cancel my order.
+agent: It has already shipped, so I can't cancel it. You can refuse it at the door.",explained_refuse_at_door,False,1,False,
+L200257,chat,2026-10-20T12:24,en,C100119,19168921,where_is_my_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Hi, my order hasn't arrived yet. Where is it?
+agent: Thanks Myra. Order 19168921 is currently shipped. The promised date is 2026-10-29.",informed_status,False,4,True,
+L200059,voice,2026-10-20T12:48,en,C100000,76934982,cancel_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Please cancel my order.
+agent: It has already shipped, so I can't cancel it. You can refuse it at the door.",explained_refuse_at_door,False,4,False,
+L200060,chat,2026-10-20T13:01,hi-en,C100217,17578540,cancel_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Order cancel karna hai.
+agent: It has already shipped, so I can't cancel it. You can refuse it at the door.",explained_refuse_at_door,False,5,False,
+L200140,voice,2026-10-20T13:06,en,C100097,44706505,cancel_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Please cancel my order.
+agent: It has already shipped, so I can't cancel it. You can refuse it at the door.",explained_refuse_at_door,False,4,False,
+L200117,voice,2026-10-20T13:08,en,C100112,40240482,damaged_item,human_agent,"agent: Thank you for calling support. How can I help?
+customer: The item I received is damaged.
+agent: Sorry about that. Please share photos within 48 hours of delivery and we'll arrange a replacement or refund.",damage_claim_guided,False,5,False,
+L200188,voice,2026-10-20T13:19,en,C100183,76995723,delivery_fee_question,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Why was I charged for delivery?
+agent: Delivery is free on orders of ₹499 or more. Below that it's ₹40.",explained_fee,False,3,True,
+L200198,voice,2026-10-20T13:27,en,C100078,35196099,where_is_my_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Hi, my order hasn't arrived yet. Where is it?
+agent: Thanks Meera. Order 35196099 is currently shipped. The promised date is 2026-10-24.",informed_status,False,4,False,
+L200135,voice,2026-10-20T13:48,en,C100099,31955109,cancel_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Please cancel my order.
+agent: It has already shipped, so I can't cancel it. You can refuse it at the door.",explained_refuse_at_door,False,4,False,
+L200108,voice,2026-10-20T13:55,en,C100059,56071617,delivery_fee_question,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Why was I charged for delivery?
+agent: Delivery is free on orders of ₹499 or more. Below that it's ₹40.",explained_fee,False,3,False,
+L200083,voice,2026-10-20T14:01,en,C100105,80035521,coupon_issue,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Can I apply two coupons?
+agent: Only one coupon can be used per order.",explained_coupon_rule,False,4,False,
+L200206,chat,2026-10-20T14:08,en,C100097,44706505,where_is_my_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Hi, my order hasn't arrived yet. Where is it?
+agent: Thanks Mary. Order 44706505 is currently shipped. The promised date is 2026-10-28.",informed_status,False,4,True,
+L200032,voice,2026-10-20T14:09,en,C100297,74457579,coupon_issue,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Can I apply two coupons?
+agent: Only one coupon can be used per order.",explained_coupon_rule,False,1,False,
+L200297,chat,2026-10-20T14:57,en,C100197,19134195,coupon_issue,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Can I apply two coupons?
+agent: Only one coupon can be used per order.",explained_coupon_rule,False,3,False,
+L200213,voice,2026-10-20T15:02,en,C100167,82950976,cancel_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Please cancel my order.
+agent: It has already shipped, so I can't cancel it. You can refuse it at the door.",explained_refuse_at_door,False,5,True,
+L200279,voice,2026-10-20T15:33,en,C100205,40876975,talk_to_human,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Can I speak to a person?
+agent: Sure, I'm connecting you to a senior colleague.",transferred,True,5,True,
+L200018,voice,2026-10-20T16:12,en,C100107,22662671,cancel_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Please cancel my order.
+agent: It has already shipped, so I can't cancel it. You can refuse it at the door.",explained_refuse_at_door,False,3,False,
+L200082,voice,2026-10-20T16:19,en,C100202,21800793,where_is_my_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Hi, my order hasn't arrived yet. Where is it?
+agent: Thanks Joseph. Order 21800793 is currently shipped. The promised date is 2026-10-26.",informed_status,False,4,False,
+L200087,voice,2026-10-20T16:20,en,C100044,65107308,warranty_claim,human_agent,"agent: Thank you for calling support. How can I help?
+customer: My gadget stopped working. Is it under warranty?
+agent: If it's an Assured product you can raise a claim in My Orders; otherwise please contact the brand service centre.",explained_warranty,False,4,False,
+L200167,voice,2026-10-20T17:06,en,C100179,99465427,cancel_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Please cancel my order.
+agent: It has already shipped, so I can't cancel it. You can refuse it at the door.",explained_refuse_at_door,False,3,True,
+L200163,voice,2026-10-20T17:18,en,C100108,35741086,delivery_fee_question,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Why was I charged for delivery?
+agent: Delivery is free on orders of ₹499 or more. Below that it's ₹40.",explained_fee,False,5,False,
+L200273,voice,2026-10-20T17:22,en,C100202,46662050,where_is_my_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Hi, my order hasn't arrived yet. Where is it?
+agent: Thanks Joseph. Order 46662050 is currently out for delivery. The promised date is 2026-10-20.",informed_status,False,5,False,
+L200138,voice,2026-10-20T17:24,en,C100186,58376637,where_is_my_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Hi, my order hasn't arrived yet. Where is it?
+agent: Thanks Harini. Order 58376637 is currently shipped. The promised date is 2026-10-22.",informed_status,False,1,False,
+L200122,chat,2026-10-20T17:25,en,C100262,79527643,where_is_my_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Hi, my order hasn't arrived yet. Where is it?
+agent: Thanks Nikhil. Order 79527643 is currently delivered. The promised date is 2026-10-15.",informed_status,False,1,False,
+L200045,voice,2026-10-20T17:28,en,C100070,89348590,coupon_issue,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Can I apply two coupons?
+agent: Only one coupon can be used per order.",explained_coupon_rule,False,4,False,
+L200143,voice,2026-10-20T17:35,hi-en,C100056,32240327,where_is_my_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Mera order kahan hai? Abhi tak aaya nahi.
+agent: Rohan ji, aapka order 32240327 abhi 'shipped' hai. Promised date 2026-10-23 hai.",informed_status,False,3,True,
+L200236,voice,2026-10-20T17:46,hi-en,C100204,84632166,where_is_my_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Mera order kahan hai? Abhi tak aaya nahi.
+agent: Ishaan ji, aapka order 84632166 abhi 'shipped' hai. Promised date 2026-10-23 hai.",informed_status,False,1,False,
+L200244,voice,2026-10-20T17:53,en,C100198,13710189,where_is_my_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Hi, my order hasn't arrived yet. Where is it?
+agent: Thanks Rahul. Order 13710189 is currently shipped. The promised date is 2026-10-26.",informed_status,False,4,False,
+L200042,chat,2026-10-20T17:55,hi-en,C100090,45011817,cancel_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Order cancel karna hai.
+agent: It has already shipped, so I can't cancel it. You can refuse it at the door.",explained_refuse_at_door,False,1,False,
+L200053,voice,2026-10-20T18:05,hi-en,C100224,37245232,where_is_my_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Mera order kahan hai? Abhi tak aaya nahi.
+agent: Sneha ji, aapka order 37245232 abhi 'packed' hai. Promised date 2026-10-27 hai.",informed_status,False,1,False,
+L200243,voice,2026-10-20T18:14,hi-en,C100277,28282115,where_is_my_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Mera order kahan hai? Abhi tak aaya nahi.
+agent: Ira ji, aapka order 28282115 abhi 'shipped' hai. Promised date 2026-10-29 hai.",informed_status,False,4,False,
+L200129,chat,2026-10-20T18:21,en,C100200,24179736,where_is_my_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Hi, my order hasn't arrived yet. Where is it?
+agent: Thanks Aditya. Order 24179736 is currently delivered. The promised date is 2026-10-13.",informed_status,False,5,False,
+L200068,voice,2026-10-20T18:31,hi-en,C100110,36053513,cancel_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Order cancel karna hai.
+agent: It has already shipped, so I can't cancel it. You can refuse it at the door.",explained_refuse_at_door,False,1,False,
+L200283,voice,2026-10-20T18:32,hi-en,C100072,20102006,where_is_my_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Mera order kahan hai? Abhi tak aaya nahi.
+agent: Harsh ji, aapka order 20102006 abhi 'shipped' hai. Promised date 2026-10-22 hai.",informed_status,False,5,False,
+L200171,voice,2026-10-20T18:33,en,C100059,23448429,damaged_item,human_agent,"agent: Thank you for calling support. How can I help?
+customer: The item I received is damaged.
+agent: Sorry about that. Please share photos within 48 hours of delivery and we'll arrange a replacement or refund.",damage_claim_guided,False,5,True,
+L200228,voice,2026-10-20T18:50,en,C100295,63266264,cancel_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Please cancel my order.
+agent: You can cancel it free from My Orders since it hasn't shipped.",guided_self_cancel,False,1,False,
+L200048,chat,2026-10-20T18:52,en,C100184,86855696,where_is_my_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Hi, my order hasn't arrived yet. Where is it?
+agent: Thanks Vivaan. Order 86855696 is currently shipped. The promised date is 2026-10-24.",informed_status,False,4,False,
+L200176,chat,2026-10-20T18:54,en,C100257,75042749,warranty_claim,human_agent,"agent: Thank you for calling support. How can I help?
+customer: My gadget stopped working. Is it under warranty?
+agent: If it's an Assured product you can raise a claim in My Orders; otherwise please contact the brand service centre.",explained_warranty,False,4,False,
+L200126,chat,2026-10-20T18:58,hi-en,C100005,82628404,where_is_my_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Mera order kahan hai? Abhi tak aaya nahi.
+agent: Fatima ji, aapka order 82628404 abhi 'shipped' hai. Promised date 2026-10-26 hai.",informed_status,False,5,False,
+L200070,voice,2026-10-20T19:32,en,C100121,69215876,return_request,human_agent,"agent: Thank you for calling support. How can I help?
+customer: I want to return the FarmFolk Basmati Rice 5 kg.
+agent: Sorry, this item can't be returned for change of mind.",explained_return_policy,False,2,True,
+L200272,voice,2026-10-20T19:36,hi-en,C100180,11096100,cancel_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Order cancel karna hai.
+agent: It has already shipped, so I can't cancel it. You can refuse it at the door.",explained_refuse_at_door,False,5,False,
+L200064,chat,2026-10-20T19:42,hi-en,C100129,28021731,cancel_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Order cancel karna hai.
+agent: It has already shipped, so I can't cancel it. You can refuse it at the door.",explained_refuse_at_door,False,5,True,
+L200000,voice,2026-10-20T19:44,hi-en,C100217,17578540,cancel_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Order cancel karna hai.
+agent: It has already shipped, so I can't cancel it. You can refuse it at the door.",explained_refuse_at_door,False,5,False,
+L200051,voice,2026-10-20T20:02,en,C100182,48374263,return_request,human_agent,"agent: Thank you for calling support. How can I help?
+customer: I want to return the Sootra Canvas Tote Bag, Black.
+agent: You can return it within 15 days of delivery from My Orders.",explained_return_policy,False,2,False,
+L200281,voice,2026-10-20T20:03,en,C100168,40993343,warranty_claim,human_agent,"agent: Thank you for calling support. How can I help?
+customer: My gadget stopped working. Is it under warranty?
+agent: If it's an Assured product you can raise a claim in My Orders; otherwise please contact the brand service centre.",explained_warranty,False,4,True,
+L200012,chat,2026-10-20T20:06,en,C100167,82950976,cancel_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Please cancel my order.
+agent: It has already shipped, so I can't cancel it. You can refuse it at the door.",explained_refuse_at_door,False,5,False,
+L200210,voice,2026-10-20T20:08,en,C100245,97664999,return_request,human_agent,"agent: Thank you for calling support. How can I help?
+customer: I want to return the Voltra 65W GaN Fast Charger, Green.
+agent: You can return it within 7 days of delivery from My Orders.",explained_return_policy,False,4,False,
+L200079,voice,2026-10-20T20:30,en,C100147,20322965,cancel_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Please cancel my order.
+agent: It has already shipped, so I can't cancel it. You can refuse it at the door.",explained_refuse_at_door,False,2,True,
+L200197,chat,2026-10-20T20:38,hi-en,C100292,10395095,where_is_my_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Mera order kahan hai? Abhi tak aaya nahi.
+agent: Kabir ji, aapka order 10395095 abhi 'out_for_delivery' hai. Promised date 2026-10-16 hai.",informed_status,False,3,True,
+L200217,voice,2026-10-20T20:43,hi-en,C100207,73169936,where_is_my_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Mera order kahan hai? Abhi tak aaya nahi.
+agent: Ananya ji, aapka order 73169936 abhi 'delivered' hai. Promised date 2026-10-20 hai.",informed_status,False,5,False,
+L200271,voice,2026-10-20T20:47,hi-en,C100277,57235996,where_is_my_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Mera order kahan hai? Abhi tak aaya nahi.
+agent: Ira ji, aapka order 57235996 abhi 'shipped' hai. Promised date 2026-10-22 hai.",informed_status,False,5,True,
+L200292,voice,2026-10-20T20:49,en,C100123,93248370,talk_to_human,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Can I speak to a person?
+agent: Sure, I'm connecting you to a senior colleague.",transferred,True,4,False,
+L200215,chat,2026-10-20T21:11,en,C100187,51655327,cancel_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Please cancel my order.
+agent: It has already shipped, so I can't cancel it. You can refuse it at the door.",explained_refuse_at_door,False,4,False,
+L200231,chat,2026-10-20T21:18,en,C100119,19168921,cancel_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Please cancel my order.
+agent: It has already shipped, so I can't cancel it. You can refuse it at the door.",explained_refuse_at_door,False,4,False,
+L200269,voice,2026-10-20T21:22,hi-en,C100090,45011817,cancel_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Order cancel karna hai.
+agent: It has already shipped, so I can't cancel it. You can refuse it at the door.",explained_refuse_at_door,False,1,False,
+L200069,chat,2026-10-20T21:48,en,C100139,89037322,delivery_fee_question,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Why was I charged for delivery?
+agent: Delivery is free on orders of ₹499 or more. Below that it's ₹40.",explained_fee,False,5,False,
+L200181,voice,2026-10-20T21:58,en,C100008,52582494,where_is_my_order,human_agent,"agent: Thank you for calling support. How can I help?
+customer: Hi, my order hasn't arrived yet. Where is it?
+agent: Thanks Ananya. Order 52582494 is currently packed. The promised date is 2026-10-30.",informed_status,False,3,False,

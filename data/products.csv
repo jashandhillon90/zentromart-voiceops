@@ -1,0 +1,71 @@
+sku,title,brand,return_category,price_inr,fulfilled_by,assured,warranty_months,description
+ELE-0001,"Nimbus X2 Wireless Earbuds, Beige",Nimbus,electronics,2199,ZentroMart,True,12,"Nimbus X2 Wireless Earbuds, Beige. Sold on ZentroMart."
+ELE-0002,"Nimbus X2 Wireless Earbuds, Black",Nimbus,electronics,1899,ZentroMart,True,12,"Nimbus X2 Wireless Earbuds, Black. Sold on ZentroMart."
+ELE-0003,"Nimbus X2 Pro Wireless Earbuds, Blue",Nimbus,electronics,4229,ZentroMart,True,12,"Nimbus X2 Pro Wireless Earbuds, Blue. Sold on ZentroMart."
+ELE-0004,"Nimbus X2 Lite Wireless Earbuds, Beige",Nimbus,electronics,1169,Metro Gadget Hub,True,6,"Nimbus X2 Lite Wireless Earbuds, Beige. Sold on ZentroMart. Ships from a marketplace seller."
+ELE-0005,"Nimbus X2 Lite Wireless Earbuds, Grey",Nimbus,electronics,1229,ZentroMart,True,6,"Nimbus X2 Lite Wireless Earbuds, Grey. Sold on ZentroMart."
+ELE-0006,"Voltra PowerCell 20000 mAh Power Bank, Maroon",Voltra,electronics,1679,ZentroMart,True,6,"Voltra PowerCell 20000 mAh Power Bank, Maroon. Sold on ZentroMart."
+ELE-0007,"Voltra PowerCell 20000 mAh Power Bank, Beige",Voltra,electronics,1709,ZentroMart,False,6,"Voltra PowerCell 20000 mAh Power Bank, Beige. Sold on ZentroMart."
+ELE-0008,"Voltra PowerCell 10000 mAh Power Bank, Green",Voltra,electronics,1059,ZentroMart,True,6,"Voltra PowerCell 10000 mAh Power Bank, Green. Sold on ZentroMart."
+ELE-0009,"Voltra PowerCell 10000 mAh Power Bank, Beige",Voltra,electronics,1009,Sunrise Electronics,True,6,"Voltra PowerCell 10000 mAh Power Bank, Beige. Sold on ZentroMart. Ships from a marketplace seller."
+ELE-0010,"Voltra 65W GaN Fast Charger, Green",Voltra,electronics,2189,Sunrise Electronics,True,12,"Voltra 65W GaN Fast Charger, Green. Sold on ZentroMart. Ships from a marketplace seller."
+ELE-0011,"Kestrel K7 Smartphone 128 GB, White",Kestrel,electronics,17139,ZentroMart,False,12,"Kestrel K7 Smartphone 128 GB, White. Sold on ZentroMart."
+ELE-0012,"Kestrel K7 Smartphone 128 GB, Beige",Kestrel,electronics,17549,ZentroMart,True,12,"Kestrel K7 Smartphone 128 GB, Beige. Sold on ZentroMart."
+ELE-0013,"Kestrel K7 Smartphone 256 GB, Grey",Kestrel,electronics,20499,ZentroMart,False,12,"Kestrel K7 Smartphone 256 GB, Grey. Sold on ZentroMart."
+ELE-0014,"Kestrel K7 Smartphone 256 GB, Beige",Kestrel,electronics,21919,ZentroMart,True,12,"Kestrel K7 Smartphone 256 GB, Beige. Sold on ZentroMart."
+ELE-0015,"Kestrel K5 Smartphone 64 GB, Maroon",Kestrel,electronics,9629,Sunrise Electronics,True,12,"Kestrel K5 Smartphone 64 GB, Maroon. Sold on ZentroMart. Ships from a marketplace seller."
+ELE-0016,"Orbix Fit 3 Smartwatch, Green",Orbix,electronics,3409,Sunrise Electronics,False,12,"Orbix Fit 3 Smartwatch, Green. Sold on ZentroMart. Ships from a marketplace seller."
+ELE-0017,"Orbix Fit 3 Pro Smartwatch, Blue",Orbix,electronics,7219,Metro Gadget Hub,True,12,"Orbix Fit 3 Pro Smartwatch, Blue. Sold on ZentroMart. Ships from a marketplace seller."
+ELE-0018,"Zentro Boom Mini Bluetooth Speaker, Grey",Zentro,electronics,1709,Sunrise Electronics,True,6,"Zentro Boom Mini Bluetooth Speaker, Grey. Sold on ZentroMart. Ships from a marketplace seller."
+ELE-0019,"Zentro Boom Max Bluetooth Speaker, Grey",Zentro,electronics,5019,ZentroMart,False,12,"Zentro Boom Max Bluetooth Speaker, Grey. Sold on ZentroMart."
+ELE-0020,"Zentro Vista 43-inch 4K Smart TV, Beige",Zentro,electronics,31809,ZentroMart,False,12,"Zentro Vista 43-inch 4K Smart TV, Beige. Sold on ZentroMart."
+ELE-0021,"Zentro Vista 43-inch 4K Smart TV, Grey",Zentro,electronics,31649,ZentroMart,True,12,"Zentro Vista 43-inch 4K Smart TV, Grey. Sold on ZentroMart."
+ELE-0022,"Kestrel Book 14 Laptop, Black",Kestrel,electronics,51439,ZentroMart,False,12,"Kestrel Book 14 Laptop, Black. Sold on ZentroMart."
+ELE-0023,"Kestrel Book 14 Laptop, Grey",Kestrel,electronics,45999,ZentroMart,False,12,"Kestrel Book 14 Laptop, Grey. Sold on ZentroMart."
+ELE-0024,"Orbix USB-C Cable 1.5 m, Grey",Orbix,electronics,319,ZentroMart,True,3,"Orbix USB-C Cable 1.5 m, Grey. Sold on ZentroMart."
+ELE-0025,"Orbix USB-C Cable 1.5 m, Maroon",Orbix,electronics,349,Sunrise Electronics,True,3,"Orbix USB-C Cable 1.5 m, Maroon. Sold on ZentroMart. Ships from a marketplace seller."
+FSH-0026,"Rangoli Cotton Straight Kurta, White",Rangoli,fashion,699,ZentroMart,False,0,"Rangoli Cotton Straight Kurta, White. Sold on ZentroMart."
+FSH-0027,"Rangoli Silk Blend Saree, Grey",Rangoli,fashion,2809,Kalpana Fashions,False,0,"Rangoli Silk Blend Saree, Grey. Sold on ZentroMart. Ships from a marketplace seller."
+FSH-0028,"Rangoli Silk Blend Saree, Green",Rangoli,fashion,4239,ZentroMart,False,0,"Rangoli Silk Blend Saree, Green. Sold on ZentroMart."
+FSH-0029,"UrbanThread Slim Fit Jeans, Blue",UrbanThread,fashion,1319,Shree Traders,False,0,"UrbanThread Slim Fit Jeans, Blue. Sold on ZentroMart. Ships from a marketplace seller."
+FSH-0030,"UrbanThread Slim Fit Jeans, Maroon",UrbanThread,fashion,1959,Shree Traders,False,0,"UrbanThread Slim Fit Jeans, Maroon. Sold on ZentroMart. Ships from a marketplace seller."
+FSH-0031,"UrbanThread Oversized Hoodie, White",UrbanThread,fashion,1509,ZentroMart,False,0,"UrbanThread Oversized Hoodie, White. Sold on ZentroMart."
+FSH-0032,"UrbanThread Oversized Hoodie, Green",UrbanThread,fashion,1579,Shree Traders,False,0,"UrbanThread Oversized Hoodie, Green. Sold on ZentroMart. Ships from a marketplace seller."
+FSH-0033,"Kaafi Running Sneakers, White",Kaafi,fashion,2799,Shree Traders,False,0,"Kaafi Running Sneakers, White. Sold on ZentroMart. Ships from a marketplace seller."
+FSH-0034,"Kaafi Running Sneakers, Beige",Kaafi,fashion,3959,Kalpana Fashions,False,0,"Kaafi Running Sneakers, Beige. Sold on ZentroMart. Ships from a marketplace seller."
+FSH-0035,"Kaafi Leather Sandals, Black",Kaafi,fashion,1149,ZentroMart,False,0,"Kaafi Leather Sandals, Black. Sold on ZentroMart."
+FSH-0036,"Sootra Linen Shirt, Maroon",Sootra,fashion,1019,ZentroMart,False,0,"Sootra Linen Shirt, Maroon. Sold on ZentroMart."
+FSH-0037,"Sootra Canvas Tote Bag, Black",Sootra,fashion,729,ZentroMart,False,0,"Sootra Canvas Tote Bag, Black. Sold on ZentroMart."
+FSH-0038,"Sootra Canvas Tote Bag, Green",Sootra,fashion,979,ZentroMart,False,0,"Sootra Canvas Tote Bag, Green. Sold on ZentroMart."
+FSH-0039,"Sootra Leather Backpack, Grey",Sootra,fashion,3559,Kalpana Fashions,False,0,"Sootra Leather Backpack, Grey. Sold on ZentroMart. Ships from a marketplace seller."
+HOM-0040,"Tavaa 3-Litre Pressure Cooker, White",Tavaa,home_kitchen,1439,ZentroMart,True,12,"Tavaa 3-Litre Pressure Cooker, White. Sold on ZentroMart."
+HOM-0041,"Tavaa 3-Litre Pressure Cooker, Grey",Tavaa,home_kitchen,1609,ZentroMart,True,12,"Tavaa 3-Litre Pressure Cooker, Grey. Sold on ZentroMart."
+HOM-0042,"Tavaa Non-stick Frying Pan 26 cm, Black",Tavaa,home_kitchen,739,ZentroMart,False,6,"Tavaa Non-stick Frying Pan 26 cm, Black. Sold on ZentroMart."
+HOM-0043,"Mixwell 750W Mixer Grinder, Maroon",Mixwell,home_kitchen,4309,Deccan Home Store,True,24,"Mixwell 750W Mixer Grinder, Maroon. Sold on ZentroMart. Ships from a marketplace seller."
+HOM-0044,"Mixwell 750W Mixer Grinder, Green",Mixwell,home_kitchen,3039,ZentroMart,False,24,"Mixwell 750W Mixer Grinder, Green. Sold on ZentroMart."
+HOM-0045,"Aangan Cotton Double Bedsheet Set, White",Aangan,home_kitchen,1759,Deccan Home Store,False,0,"Aangan Cotton Double Bedsheet Set, White. Sold on ZentroMart. Ships from a marketplace seller."
+HOM-0046,"Aangan Cotton Double Bedsheet Set, Maroon",Aangan,home_kitchen,1439,ZentroMart,False,0,"Aangan Cotton Double Bedsheet Set, Maroon. Sold on ZentroMart."
+HOM-0047,"Aangan 3-Seater Fabric Sofa, Grey",Aangan,home_kitchen,21859,ZentroMart,True,12,"Aangan 3-Seater Fabric Sofa, Grey. Sold on ZentroMart."
+HOM-0048,"Aangan 3-Seater Fabric Sofa, Black",Aangan,home_kitchen,25809,ZentroMart,True,12,"Aangan 3-Seater Fabric Sofa, Black. Sold on ZentroMart."
+HOM-0049,"Aangan Engineered Wood Study Table, Blue",Aangan,home_kitchen,10639,ZentroMart,False,12,"Aangan Engineered Wood Study Table, Blue. Sold on ZentroMart."
+HOM-0050,"Aangan Engineered Wood Study Table, Grey",Aangan,home_kitchen,9239,ZentroMart,False,12,"Aangan Engineered Wood Study Table, Grey. Sold on ZentroMart."
+HOM-0051,"Brewly Electric Kettle 1.5 L, Beige",Brewly,home_kitchen,899,ZentroMart,True,12,"Brewly Electric Kettle 1.5 L, Beige. Sold on ZentroMart."
+BTY-0052,Gulmohar Matte Lipstick,Gulmohar,beauty_sealed,559,Urban Basket Retail,False,0,Gulmohar Matte Lipstick. Sold on ZentroMart. Ships from a marketplace seller.
+BTY-0053,Gulmohar Vitamin C Face Serum 30 ml,Gulmohar,beauty_sealed,929,ZentroMart,False,0,Gulmohar Vitamin C Face Serum 30 ml. Sold on ZentroMart.
+BTY-0054,Neelam Herbal Face Wash 150 ml,Neelam,beauty_sealed,239,Urban Basket Retail,False,0,Neelam Herbal Face Wash 150 ml. Sold on ZentroMart. Ships from a marketplace seller.
+BTY-0055,Neelam Eau de Parfum 50 ml,Neelam,beauty_sealed,2099,ZentroMart,False,0,Neelam Eau de Parfum 50 ml. Sold on ZentroMart.
+BKS-0056,Pagecraft A5 Ruled Notebook (Pack of 4),Pagecraft,books_media,319,ZentroMart,False,0,Pagecraft A5 Ruled Notebook (Pack of 4). Sold on ZentroMart.
+BKS-0057,Pagecraft Novel: The Monsoon Ledger,Pagecraft,books_media,349,ZentroMart,False,0,Pagecraft Novel: The Monsoon Ledger. Sold on ZentroMart.
+BKS-0058,Pagecraft Guide: Learn Python in 30 Days,Pagecraft,books_media,789,ZentroMart,False,0,Pagecraft Guide: Learn Python in 30 Days. Sold on ZentroMart.
+GRO-0059,FarmFolk Basmati Rice 5 kg,FarmFolk,grocery,629,ZentroMart,False,0,FarmFolk Basmati Rice 5 kg. Sold on ZentroMart.
+GRO-0060,FarmFolk Mango Pickle 500 g,FarmFolk,grocery,159,ZentroMart,False,0,FarmFolk Mango Pickle 500 g. Sold on ZentroMart.
+GRO-0061,FarmFolk California Almonds 500 g,FarmFolk,grocery,629,ZentroMart,False,0,FarmFolk California Almonds 500 g. Sold on ZentroMart.
+GRO-0062,FarmFolk Fresh Vegetable Box,FarmFolk,grocery,329,ZentroMart,False,0,FarmFolk Fresh Vegetable Box. Sold on ZentroMart.
+GRO-0063,FarmFolk Cold-pressed Groundnut Oil 1 L,FarmFolk,grocery,259,ZentroMart,False,0,FarmFolk Cold-pressed Groundnut Oil 1 L. Sold on ZentroMart.
+INR-0064,"Comfi Cotton Briefs (Pack of 3), Blue",Comfi,innerwear,409,ZentroMart,False,0,"Comfi Cotton Briefs (Pack of 3), Blue. Sold on ZentroMart."
+INR-0065,"Comfi Cotton Briefs (Pack of 3), Beige",Comfi,innerwear,529,ZentroMart,False,0,"Comfi Cotton Briefs (Pack of 3), Beige. Sold on ZentroMart."
+INR-0066,"Comfi Sports Bra, Grey",Comfi,innerwear,509,Kalpana Fashions,False,0,"Comfi Sports Bra, Grey. Sold on ZentroMart. Ships from a marketplace seller."
+INR-0067,"Comfi One-piece Swimsuit, Blue",Comfi,innerwear,1959,ZentroMart,False,0,"Comfi One-piece Swimsuit, Blue. Sold on ZentroMart."
+INR-0068,"Comfi One-piece Swimsuit, Black",Comfi,innerwear,1619,Kalpana Fashions,False,0,"Comfi One-piece Swimsuit, Black. Sold on ZentroMart. Ships from a marketplace seller."
+DGT-0069,ZentroMart Gift Card ₹500,ZentroMart,digital,500,ZentroMart,False,0,ZentroMart Gift Card ₹500. Sold on ZentroMart.
+DGT-0070,"ZentroMart Gift Card ₹1,000",ZentroMart,digital,1000,ZentroMart,False,0,"ZentroMart Gift Card ₹1,000. Sold on ZentroMart."
